@@ -14,8 +14,6 @@ General email: [rayna.harris@gmail.com](mailto:rayna.harris@gmail.com)
 
 LTCC email: [rharris2@mail.ltcc.edu](mailto:rharris2@mail.ltcc.edu) 
 
-UC Davis email: [rmharris@ucdavis.edu](mailto:rmharris@ucdavis.edu)
-
 GitHub: [raynamharris](https://github.com/raynamharris)
 
 Twitter: [raynamharris](https://twitter.com/raynamharris)
