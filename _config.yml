@@ -4,7 +4,7 @@ bio:                'Scientist, Educator, Community Builder, Translator'
 description:        "Rayna Harris is a scientist, educator, and community building who blogs about these things every month or so."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.raynamharris.com" # the base hostname & protocol for your site
+url: "https://www.raynaharris.com" # the base hostname & protocol for your site
 author:
   twitter: raynamharris
 
