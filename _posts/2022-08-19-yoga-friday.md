@@ -7,17 +7,9 @@ image: "/images/yoga/breath-of-joy.png"
 ---
 
 
-
-This post outlines a yoga sequence designed for a younger audience, with poses are referred to by animal names where possible and a focus is on syncing movement to breath. It contains 7 sections (open awareness, open stretch, standing breath work, floor work, balancing poses, inversions, relaxation).  Much of the sequence was derived from a YouTube video called [Fun Kids Yoga w/ Kris Blunt (30 Minute Class)](https://www.youtube.com/watch?v=5sYUnnyPsRM). The black and white yoga icons from created by <a href="https://www.flaticon.com/free-icons/workout" title="workout icons">dDara </a>, <a href="https://www.flaticon.com/free-icons/exercise" title="exercise icons">monkik</a>, <a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Freepik </a>, and <a href="https://www.flaticon.com/free-icons/yoga-pose" title="yoga pose icons">Eideticmemo</a>. A 40 minute playlist was curated to accompany the sequence of poses to help sync the breath with movement and stillness.
-
-<figure>
-<img src="/images/yoga/fridayplan.png" style="width:80%">
-</figure>
-
 <iframe style="border-radius:5px" src="https://open.spotify.com/embed/playlist/7zgs64Pnw2QqlSNduyzmlc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 _“When the breath wanders the mind also is unsteady. But when the breath is calmed the mind too will be still, and the Yogi achieves long life. Therefore, one should learn to control the breath.” ~ Hatha Yoga Pradipika_
-
 
 ## Opening Awareness
 
@@ -37,12 +29,7 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 </div>
 
 
-
-
 ## Opening Stretch
-
-
-
 
 <div class="row">
   <div class="column">
@@ -116,8 +103,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 ## Balancing and Breathing Practice
 
-
-
 <div class="row">
   <div class="column">
     <img src="/images/yoga/star.png" alt="Star" style="width:50%">
@@ -128,7 +113,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
     <figcaption><i>Starfish<p></p></i></figcaption>
   </div>
 </div>
-
 
 <div class="row">
   <div class="column">
@@ -235,6 +219,14 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
     <figcaption><i>Seated Meditation<p></p></i></figcaption>
   </div>
 </div>
+
+## Comments
+
+This post outlines a yoga sequence designed for a younger audience, with poses are referred to by animal names where possible and a focus is on syncing movement to breath. It contains 7 sections (open awareness, open stretch, standing breath work, floor work, balancing poses, inversions, relaxation).  Much of the sequence was derived from a YouTube video called [Fun Kids Yoga w/ Kris Blunt (30 Minute Class)](https://www.youtube.com/watch?v=5sYUnnyPsRM). The black and white yoga icons from created by <a href="https://www.flaticon.com/free-icons/workout" title="workout icons">dDara </a>, <a href="https://www.flaticon.com/free-icons/exercise" title="exercise icons">monkik</a>, <a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Freepik </a>, and <a href="https://www.flaticon.com/free-icons/yoga-pose" title="yoga pose icons">Eideticmemo</a>. A 40 minute playlist was curated to accompany the sequence of poses to help sync the breath with movement and stillness.
+
+<figure>
+<img src="/images/yoga/fridayplan.png" style="width:80%">
+</figure>
 
 
 
