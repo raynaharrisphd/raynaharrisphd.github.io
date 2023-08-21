@@ -15,7 +15,7 @@ This post outlines a yoga sequence designed for a younger audience, with poses a
 </figure>
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7zgs64Pnw2QqlSNduyzmlc?utm_source=generator" width="80%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7zgs64Pnw2QqlSNduyzmlc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 _“When the breath wanders the mind also is unsteady. But when the breath is calmed the mind too will be still, and the Yogi achieves long life. Therefore, one should learn to control the breath.” ~ Hatha Yoga Pradipika_
 
