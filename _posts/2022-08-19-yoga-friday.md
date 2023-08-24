@@ -3,15 +3,17 @@ layout: post
 title: "Friday Yoga Sequence"
 date: 2023-08-19
 excerpt: "A yoga sequence designed for a younger audience with poses are referred to by animal names where possible and a focus is on movement and breath."
-image: "/images/yoga/breath-of-joy.png"
+image: "/images/yoga/lotus-meditation.png"
 ---
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7zgs64Pnw2QqlSNduyzmlc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 _“When the breath wanders the mind also is unsteady. But when the breath is calmed the mind too will be still, and the Yogi achieves long life. Therefore, one should learn to control the breath.” ~ Hatha Yoga Pradipika_
 
 ## Opening Awareness
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3i2Q3cFdFzJ39nV9sAt3Pc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
   <div class="column">
@@ -30,6 +32,8 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 
 ## Opening Stretch
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5pU9azu0VQIUk2nTUVxwxY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
   <div class="column">
@@ -58,11 +62,13 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
   </div>
   <div class="column">
 </div>
-
 </div>
 
 
 ## Standing Breath of Joy
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6BlJSNxgtngyE6WAVY87NT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
 <div class="row">
@@ -84,6 +90,7 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 ## Floor Work
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/63OC8cNa4ZnFB3bbvbWCOc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
   <div class="column">
@@ -102,6 +109,9 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 
 ## Balancing and Breathing Practice
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/73ExhnOPGQosJ418GSAzDr?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 <div class="row">
   <div class="column">
@@ -126,7 +136,7 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 </div>
 
 
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7bp7QInQ5uIMzYjJqTtjVA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
     <div class="column">
@@ -143,6 +153,7 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
   </div>
 </div>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2nIhVeiF7vlUmPyevRKrKV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
   <div class="column">
@@ -157,8 +168,9 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 
 
-## Inversion
 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/230tKtsKM3eigmK2CtssAO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>r
 
 <div class="row">
     <div class="column">
@@ -175,6 +187,9 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
   </div>
 </div>
 
+## Inversion
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5WNIavmLJR3dP1HS9iVxYw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
     <div class="column">
@@ -191,7 +206,7 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
   </div>
 </div>
 
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VFfMvzN7CuELnw6H6dNy8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
   <div class="column">
@@ -208,6 +223,8 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 
 ## Relaxation
+
+
 
 <div class="row">
   <div class="column">
@@ -228,6 +245,8 @@ This post outlines a yoga sequence designed for a younger audience, with poses a
 <img src="/images/yoga/fridayplan.png" style="width:80%">
 </figure>
 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7zgs64Pnw2QqlSNduyzmlc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 

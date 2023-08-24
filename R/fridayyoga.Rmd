@@ -1,0 +1,65 @@
+---
+subtitle: "Friday Yoga Sequence"
+output: pdf_document
+classoption: landscape
+fig_width: 1 
+fig_height: 1 
+---
+
+\pagenumbering{gobble}
+
+_“When the breath wanders the mind also is unsteady. But when the breath is calmed the mind too will be still.” ~ Hatha Yoga Pradipika_
+
+
+## 1. Opening Awareness                         2. Opening Stretch
+
+     
+![Seated meditation](../images/yoga/lotus-meditation.png){ width=9% }
+![Seated twist](../images/yoga/lotus-twist.png){ width=9% }
+![Child's Pose](../images/yoga/childs-pose.png){ width=9% }         
+![Table](../images/yoga/tabletop.png){ width=9% }   
+![Cat](../images/yoga/cat.png){ width=9% }
+![Cow](../images/yoga/cow.png){ width=9% }
+![Down Dog](../images/yoga/down-dog.png){ width=9% }
+![Lion's Breath](../images/yoga/lions-breath.png){ width=9% }
+
+     Meditation     Seated Twist     Child's Pose              Table            Cat              Cow        Down Dog      Lions' Breath
+
+
+## 3. Standing Breath of Joy                  4. Floor Work
+
+    
+![Mountain](../images/yoga/mountain.png){ width=9% }
+![Extended Mountain](../images/yoga/mountain-extended.png){ width=9% }
+![Foward Fold](../images/yoga/forward-fold-1.png){ width=9% }           
+![Alligator](../images/yoga/plank.png){ width=9% }
+![Cobra](../images/yoga/cobra.png){ width=9% }     
+![Lizard](../images/yoga/lizard.png){ width=9% }
+![Pigeon](../images/yoga/pigeon.png){ width=9% }
+
+       Mountain      Extended          Forward Fold          Alligator          Cobra              Lizard           Pigeon 
+
+## 5. Balancing Breathwork  
+    
+![Star](../images/yoga/star.png){ width=9% }
+![Warrior II](../images/yoga/warrior-2.png){ width=9% }
+![Peaceful Warrior](../images/yoga/reverse-warrior.png){ width=9% }         
+![Chair](../images/yoga/chair.png){ width=9% }
+![Boat](../images/yoga/boat.png){ width=9% }
+![Butterfly](../images/yoga/butterfly.png){ width=9% }         
+![Tree](../images/yoga/tree.png){ width=9% }
+![Airplain](../images/yoga/warrior-3.png){ width=9% }
+
+           Star        Warrior II    Peaceful Warrior          Chair            Boat          Butterfly                   Tree            Airplane
+
+## 6. Inversions                                     7. Relaxation
+
+    
+![Seated Forward Fold](../images/yoga/forward-fold-2.png){ width=9% }
+![Legs Up](../images/yoga/legs-up.png){ width=9% }
+![Bridge](../images/yoga/bridge.png){ width=9% }             
+![Reclined Twist](../images/yoga/reclined-twist.png){ width=9% }   
+![Hug](../images/yoga/hug.png){ width=9% }     
+![Shavasana](../images/yoga/shavasana.png){ width=9% }
+
+     Forward Fold      Leg's Up      Bridge                  Reclined Twist          Hug              Shavasana 
