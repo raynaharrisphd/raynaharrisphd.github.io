@@ -11,9 +11,13 @@ sitemap:
 # Teaching
 
 
-### Instructor 
+### Yoga 
 
-- Outdoor Yoga, [Rayna Harris Yoga](https://www.raynamharris.com/paradigm-shift/), _Coming Spring 2024!_
+- Kings Beach, Friday, August 25, 2023 -  [Sequence](https://www.raynaharris.com/blog/yoga-friday/)
+
+
+### Biology, Chemistry, and Computing
+
 - Organic Chemistry III Lab (CHM-223L), LTCC, Spring 2023, [Lab materials](https://osf.io/qb2tu/)
 - Introduction to Cell and Molecular Biology, LTCC, Spring 2023, [Lecture materials](https://osf.io/tk9y8/)
 - Principles of Biology III (BIO-103-01), LTCC, Winter 2023, [Lecture materials](https://osf.io/aq5ek/)
