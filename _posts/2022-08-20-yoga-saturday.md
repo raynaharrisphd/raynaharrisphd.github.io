@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saturday Lakefront Yoga"
-date: 2023-08-25
+date: 2023-08-26
 excerpt: "A lakefront top yoga class on King's Beach designed for a younger audience with a focus is on movement, breath, and mindfulness."
 image: "/images/yoga/tahoe-vista.png"
 ---

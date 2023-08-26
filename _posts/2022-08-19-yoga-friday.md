@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Mountain Top Yoga"
 date: 2023-08-25
-excerpt: "An mountain top yoga class on Mount Rose designed for a younger audience with a focus is on movement, breath, and mindfulness."
+excerpt: "An mountain top yoga class in Tahoe Meadows, NV designed for a younger audience with a focus is on movement, breath, and mindfulness."
 image: "/images/yoga/ophir-creek.jpg"
 ---
 
