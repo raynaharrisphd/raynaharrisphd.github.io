@@ -110,11 +110,7 @@ _Note: The black and white yoga icons from created by <a href="https://www.flati
 
 ## Comments
 
-This post outlines a yoga sequence designed for a younger audience, with poses are referred to by animal names where possible and a focus is on syncing movement to breath. 
-
-The class was organized by [The Courage Project](https://www.courageproject.org/) and took place at Kings Beach in Kings Beach, California on Saturday August 25, 2023.
-
-The yoga sequence is broken down into 5 sections (open awareness and stretch, floor work, balancing poses, inversions, and relaxation), with each section corresponding to a section in the playlist below.  
+This yoga sequence was designed for  an outdoor yoga class that took place at Kings Beach in Kings Beach, California on Saturday August 25, 2023. The class was organized by [The Courage Project](https://www.courageproject.org/) and was designed for a younger audience, with poses are referred to by animal names where possible and a focus is on syncing movement to breath. The yoga sequence is broken down into 5 sections (open awareness and stretch, floor work, balancing poses, inversions, and relaxation), with each section corresponding to a section in the playlist below.  
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6tpwzTZdgK8ht5Xwbd4gM4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
