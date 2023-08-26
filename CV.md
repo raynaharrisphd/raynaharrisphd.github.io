@@ -162,20 +162,13 @@ Amazon Web Services. [JOSE](https://jose.theoj.org/papers/10.21105/jose.00167/)
 
 ## Teaching
 
-### Lesson Development 
-
-- The Common Fund Data Ecosystem: Introduction to R for RNA-Seq Analysis
-- The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing
-- The Carpentries: Instructor Training
-- Data Carpentry: Python Usando Datos de Ecologa
-- Software Carpentry: La Terminal de Unix
-- Software Carpentry: Control de Versiones con Git
-- Neural Systems & Behavior: Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module.
-
 
 ### Lead or Co-Lead Instructor 
 
-- Principles of Biology III (BIO 103), Lake Tahoe Community College (2023)
+- Lakeside Yoga, Project Courage (2023) [Sequence](https://www.raynaharris.com/blog/yoga-saturday/)
+- Mountain Yoga, Project Courage (2023) [Sequence](https://www.raynaharris.com/blog/yoga-friday/)
+- Organic Chemistry Lab III (CH 223L), Lake Tahoe Community College (2023)
+- Introduction to Cellular and Molecular Biology (BIO 110), Lake Tahoe Community College (2023)- Principles of Biology III (BIO 103), Lake Tahoe Community College (2023)
 - The Common Fund Data Ecosystem: Introduction to Amazon Web Services for Cloud Computing (2021-2022)
 - Software Carpentry and Data Carpentry, Instructor Training,  (2016 –
     present)
@@ -185,6 +178,16 @@ Amazon Web Services. [JOSE](https://jose.theoj.org/papers/10.21105/jose.00167/)
 - The UNIX Shell, Software Carpentry (2015)
 - Version Control with Git, Software Carpentry (2015)
 - Introduction to Spanish, Futura Language Professionals (2008 - 2009)
+
+### Lesson Development 
+
+- The Common Fund Data Ecosystem: Introduction to R for RNA-Seq Analysis
+- The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing
+- The Carpentries: Instructor Training
+- Data Carpentry: Python Usando Datos de Ecologa
+- Software Carpentry: La Terminal de Unix
+- Software Carpentry: Control de Versiones con Git
+- Neural Systems & Behavior: Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module.
 
 ### Teaching Assistant
 

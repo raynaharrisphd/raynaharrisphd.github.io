@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Mountain Top Yoga"
 date: 2023-08-25
-excerpt: "An mountain top yoga class in Tahoe Meadows, NV designed for a younger audience with a focus is on movement, breath, and mindfulness."
+excerpt: "A mountain top yoga class in Tahoe Meadows, NV designed for a younger audience with a focus on movement, breath, and mindfulness."
 image: "/images/yoga/ophir-creek.jpg"
 ---
 
@@ -240,9 +240,9 @@ _The black and white yoga icons from created by <a href="https://www.flaticon.co
 
 ## Comments
 
-This yoga class was organized by [The Courage Project](https://www.courageproject.org/) and took place near the Tahoe Meadows South Trailhead in Nevada. The yoga sequence designed for a younger audience, with poses are referred to by animal names where possible and a focus is on syncing movement to breath. It contains 7 sections (open awareness, open stretch, standing breath work, floor work, balancing poses, inversions, relaxation).  Much of the sequence was derived from a YouTube video called [Fun Kids Yoga w/ Kris Blunt (30 Minute Class)](https://www.youtube.com/watch?v=5sYUnnyPsRM). 
+This yoga class was organized by [The Courage Project](https://www.courageproject.org/) and took place near the Tahoe Meadows South Trailhead in Nevada. The yoga sequence designed for a younger audience, with poses referred to by animal names where possible and a focus is on syncing movement to breath. It contains 7 sections (open awareness, open stretch, standing breath work, floor work, balancing poses, inversions, and relaxation).  Much of the sequence was inspired by a YouTube video called [Fun Kids Yoga w/ Kris Blunt (30 Minute Class)](https://www.youtube.com/watch?v=5sYUnnyPsRM). 
 
-A 40 minute playlist was curated to accompany the sequence of poses to help sync the breath with movement and stillness. 
+A 40-minute playlist accompanies the sequence to help sync the breath with movement and stillness. 
 <figure>
 <img src="/images/yoga/fridayplan.png" style="width:80%">
 </figure>
