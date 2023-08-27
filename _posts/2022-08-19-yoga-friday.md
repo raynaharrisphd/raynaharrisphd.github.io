@@ -12,7 +12,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 ## Opening Awareness
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3i2Q3cFdFzJ39nV9sAt3Pc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
   <div class="column">
@@ -32,7 +31,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 ## Opening Stretch
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5pU9azu0VQIUk2nTUVxwxY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
   <div class="column">
@@ -66,8 +64,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 ## Standing Breath of Joy
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6BlJSNxgtngyE6WAVY87NT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 
 
 <div class="row">
@@ -89,7 +85,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 ## Floor Work
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/63OC8cNa4ZnFB3bbvbWCOc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
   <div class="column">
@@ -108,8 +103,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 
 ## Balancing and Breathing Practice
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/73ExhnOPGQosJ418GSAzDr?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 <div class="row">
@@ -135,7 +128,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 </div>
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7bp7QInQ5uIMzYjJqTtjVA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
     <div class="column">
@@ -152,7 +144,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
   </div>
 </div>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2nIhVeiF7vlUmPyevRKrKV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
   <div class="column">
@@ -165,11 +156,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
   </div>
 </div>
 
-
-
-
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/230tKtsKM3eigmK2CtssAO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>r
 
 <div class="row">
     <div class="column">
@@ -188,7 +174,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 
 ## Inversion
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5WNIavmLJR3dP1HS9iVxYw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
     <div class="column">
@@ -205,7 +190,6 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
   </div>
 </div>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VFfMvzN7CuELnw6H6dNy8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div class="row">
   <div class="column">
