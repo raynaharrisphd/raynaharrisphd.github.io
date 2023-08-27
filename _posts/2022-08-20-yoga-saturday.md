@@ -6,7 +6,7 @@ excerpt: "A lakefront top yoga class on King's Beach designed for a younger audi
 image: "/images/yoga/tahoe-vista.png"
 ---
 
-_Breathing in, I am calm like the lake. Breathing out, I am calm and clear._
+_Breathing in, I am calm like the lake. Breathing out, I am peaceful and clear._
 
 ## Opening Awareness and Stretch
 
