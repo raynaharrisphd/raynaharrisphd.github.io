@@ -20,9 +20,9 @@ _[Click here to view .pdf version online.](https://github.com/raynamharris/CV/bl
 
 ## Work Experience
 
-**Crest Cafe** Barista and Cashier, Alpine Meadows, 2023
-**Lake Tahoe Community College** Adjunct Faculty, Southlake Tahoe, California, 2023   
-**River Ranch** Hostess, Alpine Meadows, 2021
+**Crest Cafe** Barista and Cashier, Alpine Meadows, 2023    
+**Lake Tahoe Community College** Adjunct Faculty, Southlake Tahoe, California, 2023      
+**River Ranch** Hostess, Alpine Meadows, 2021    
 **Alpine Meadows Ski Resort** Parking Supervisor, Alpine Meadows, California, 2020 - 2023   
 **Rock & Rose Nursery & Landscaping** Nursery Supervisor, Truckee, California, 2020 - 2021  
 **The University of Texas at Austin** Laboratory Manager, Austin, Texas, 2010 - 2012   
