@@ -20,7 +20,9 @@ _[Click here to view .pdf version online.](https://github.com/raynamharris/CV/bl
 
 ## Work Experience
 
+**Crest Cafe** Barista and Cashier, Alpine Meadows, 2023
 **Lake Tahoe Community College** Adjunct Faculty, Southlake Tahoe, California, 2023   
+**River Ranch** Hostess, Alpine Meadows, 2021
 **Alpine Meadows Ski Resort** Parking Supervisor, Alpine Meadows, California, 2020 - 2023   
 **Rock & Rose Nursery & Landscaping** Nursery Supervisor, Truckee, California, 2020 - 2021  
 **The University of Texas at Austin** Laboratory Manager, Austin, Texas, 2010 - 2012   
@@ -40,13 +42,8 @@ _[Click here to view .pdf version online.](https://github.com/raynamharris/CV/bl
 ## Publications
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>  
-*[Google Scholar](https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en) statistics as of Sept 2019:* 758 citations; h-index of 11, i10-index of 11
+*[Google Scholar](https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en) statistics as of Sept 2019:* 1613 citations; h-index of 17, i10-index of 19
 
-
-### Preprints
-
-1. **Harris RM**, Kao HY, Alarcón JM, Fenton AA, Hofmann HA (2020). Transcriptome analysis of hippocampal subfields identifies gene expression s associated with long-term active place avoidance memory
-[bioRxiv 2020.02.05.935759](https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1)
 
 
 ### Peer Reviewed Publications
@@ -56,6 +53,9 @@ _[Click here to view .pdf version online.](https://github.com/raynamharris/CV/bl
 Amazon Web Services. [JOSE](https://jose.theoj.org/papers/10.21105/jose.00167/)
 1. Farrar VS, **Harris RM**, Austin SH, Nava Ultreras BM, Booth AM, Angelier F,  Lang A, Feustel T, Lee C, Bond A, MacManes MD, Calisi RM (2022) Prolactin and prolactin receptor expression in the HPG axis and crop sac during parental care in both sexes of a biparental bird (*Columba livia*). [Gen. Comp. Endo.](https://www.sciencedirect.com/science/article/pii/S0016648021002331?via%3Dihub)
 1.  Austin S, Krause JS, Viernes R, Farrar VS, Booth AM, **Harris RM**, Angelier F,  Lee C, Bond A, Wingfield JC, MacManes MM, Calisi RM (2021) Uncovering the Sex-specific Endocrine Responses to Reproduction and Parental Care. [Frontiers in Endocrinology](https://www.frontiersin.org/articles/10.3389/fendo.2021.631384/abstract)
+1. **Harris RM**, Kao HY, Alarcón JM, Fenton AA, Hofmann HA (2020). Transcriptome analysis of hippocampal subfields identifies gene expression s associated with long-term active place avoidance memory
+[bioRxiv 2020.02.05.935759](https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1)
+
 1. Austin SH, **Harris RM**, Booth AM, Lang AS, Farrar VS, Krause JS, Hallman TA, MacManes M, Calisi RM (2020) Isolating the role of corticosterone in the hypothalamic-pituitary-gonadal genomic stress response. [Frontiers in Endocrinology](https://www.frontiersin.org/articles/10.3389/fendo.2021.632060/full)
 1. Northcutt AJ, Kick DR, Otopalik AG, Goetz BM, **Harris RM**, Santin JM, Fenton AA, Hofmann HA, Marder E, Schulz DJ (2019) Molecular Profiling to Infer Neuronal Cell Identity: Lessons from small ganglia of the Crab Cancer borealis. [PNAS 116 (52) 26980-26990 DOI: 10.1073/pnas.1911413116](https://www.pnas.org/content/116/52/26980)
 1. Clarke DJB et. al. (2019) FAIRshake: Toolkit to Evaluate the FAIRness of Research Digital Resources [Cell Systems https://doi.org/10.1016/j.cels.2019.09.011](https://www.sciencedirect.com/science/article/abs/pii/S240547121930345X)
