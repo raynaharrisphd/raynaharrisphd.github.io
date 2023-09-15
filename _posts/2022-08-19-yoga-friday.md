@@ -3,7 +3,7 @@ layout: post
 title: "Friday Mountain Top Yoga"
 date: 2023-08-25
 excerpt: "A mountain top yoga class in Tahoe Meadows, NV designed for a younger audience with a focus on movement, breath, and mindfulness."
-image: "/images/yoga/ophir-creek.jpg"
+image: "/images/yoga/friday-yoga.png"
 ---
 
 
