@@ -167,17 +167,16 @@ Amazon Web Services. [JOSE](https://jose.theoj.org/papers/10.21105/jose.00167/)
 
 - Lakeside Yoga, Project Courage (2023) [Sequence](https://www.raynaharris.com/blog/yoga-saturday/)
 - Mountain Yoga, Project Courage (2023) [Sequence](https://www.raynaharris.com/blog/yoga-friday/)
-- Organic Chemistry Lab III (CH 223L), Lake Tahoe Community College (2023)
-- Introduction to Cellular and Molecular Biology (BIO 110), Lake Tahoe Community College (2023)- Principles of Biology III (BIO 103), Lake Tahoe Community College (2023)
-- The Common Fund Data Ecosystem: Introduction to Amazon Web Services for Cloud Computing (2021-2022)
-- Software Carpentry and Data Carpentry, Instructor Training,  (2016 –
-    present)
+- Organic Chemistry III Lab (CHM-223L), LTCC, Spring 2023, [Lab materials](https://osf.io/qb2tu/)
+- Introduction to Cell and Molecular Biology, LTCC, Spring 2023, [Lecture materials](https://osf.io/tk9y8/)
+- Principles of Biology III (BIO-103-01), LTCC, Winter 2023, [Lecture materials](https://osf.io/aq5ek/)
+- The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/UNIX/)  
+- Instructor Training, The Carpentries, 2016 - 2019 [Lesson](https://carpentries.github.io/instructor-training/)
 - Neural Systems & Behavior, Integrative Molecular Neuroethology (2013 - present)
 - UT Austin, Introduction to Git for Bioinformatics (2017). [Slides](https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics?qid=34d1014b-2c8a-4fc7-a76c-74517375570c&v=&b=&from_search=1)
-- UT Austin, Introduction to Unix and R, for Bioinformatics (2016)
-- The UNIX Shell, Software Carpentry (2015)
-- Version Control with Git, Software Carpentry (2015)
-- Introduction to Spanish, Futura Language Professionals (2008 - 2009)
+- Data Carpentry: Data Analysis and Visualization in Python for Ecologists (Spanish)[Lesson](https://datacarpentry.org/python-ecology-lesson-es/index.html)
+- Software Carpentry: The Unix Shell (Spanish) [Lesson](https://swcarpentry.github.io/shell-novice-es/) 
+- Software Carpentry: Version Control with Git (Spanish) [Lesson](https://swcarpentry.github.io/git-novice-es/) 
 
 ### Lesson Development 
 
