@@ -5,6 +5,7 @@ date:   2019-04-22
 excerpt: "The goal of this blog post is to provide community managers with a few strategies for foster relationships within scientific communities to facilitate the exchange of ideas and information."
 image: "/images/cefp-networking-01.png"
 comments: true
+categories: community
 ---
 
 _This post was originally written for an published on Trellis, the blogging platform from the American Association for the Advancement of Science (AAAS)._

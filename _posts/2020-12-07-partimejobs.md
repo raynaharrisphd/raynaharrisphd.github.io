@@ -5,6 +5,7 @@ date: 2020-12-11
 excerpt: "As a post-doctoral scholar, I aimed to work for 40 hours a week on research on projects. I rarely working overtime as is often recommended. Instead, I volunteered and worked seasonal jobs on the side. These part-time jobs have improved my quality of life and been a source of professional development. In this post, I'll talk about some of the things I've learned at what it means for my future career."
 image: "/images/parkinghost.png"
 comments: true
+categories: science
 ---
 
 I [moved to California]((https://www.raynamharris.com/blog/movingtocali/)) in April 2019, leaving behind friends and family in Texas for a job at UC Davis. I lived in Davis briefly, but I didn't enjoy the suburban lifestyle or the climate. On a whim, I visited Lake Tahoe and by mid-August, I was living in Truckee because, as John Muir put it, _"the mountains are calling and I must go."_ 

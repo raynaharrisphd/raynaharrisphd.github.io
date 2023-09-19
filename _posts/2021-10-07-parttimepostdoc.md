@@ -5,6 +5,7 @@ date: 2021-10-07
 excerpt: "I left academia for a year, and it changed how I think about the 'leaky pipeline' in STEM."
 image: "/images/fullparttime.png"
 comments: true
+categories: science
 ---
 
 Last year, on September 30, 2020, I left my postdoctoral research position. I had decided that a career as a Full Professor wasn't what I dreamed it would be, and I was exhausted from experiencing or reading about all the social biases that often lead women to leave STEM careers. I applied for [a dozen or so jobs](https://github.com/raynamharris/jobs) in education and industry, but I wasn't offered any positions. Like many other women, I "leaked out" of [the STEM pipeline](https://en.wikipedia.org/wiki/STEM_pipeline). For one year, exactly. On October 1, 2021, I officially re-joined Titus Brown's lab to work on training efforts for the [Common Fund Data Ecosystem](https://commonfund.nih.gov/dataecosystem). Since I took a year off, I thought I would write a short post about what I've been doing and thinking about this past year. 

@@ -5,6 +5,7 @@ date:   2019-04-29
 excerpt: "I highly recommend the online RStudio Teaching Certification Course taught by Greg Wilson"
 image: "/images/rstudioTTT.png"
 comments: true
+categories: teaching
 ---
 
 <img src="/images/rstudioTTT.png">

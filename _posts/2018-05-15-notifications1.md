@@ -5,6 +5,7 @@ date:   2018-05-17
 excerpt: "Have you ever wondered: I'm missing information, how do I get notified of things? These notifications aren't useful, how do I turn them off? Is so, this video is for you!"
 image: "/images/howtonotifications.png"
 comments: true
+categories: teaching
 ---
 
 This is a 4 minute video tutorial for adjusting notification settings.

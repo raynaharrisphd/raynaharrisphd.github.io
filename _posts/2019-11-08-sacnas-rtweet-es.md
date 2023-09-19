@@ -5,6 +5,7 @@ date:   2019-11-08
 excerpt:	"Esta publicación de blog explica cómo uso R para analizar los datos de Twitter para comprender mejor quién está tuiteando en las conferencias y cuán impactantes son esos tweets. Espero que encuentre útil esta explicación y que lo inspire a realizar sus propios análisis de los datos de Twitter."
 image: "/images/sacnas_ts_plot_es-1.png"
 comments: true
+categories: spanish
 ---
 
 Las organizaciones utilizan cada vez más los datos de Twitter como

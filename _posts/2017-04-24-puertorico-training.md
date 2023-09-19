@@ -5,6 +5,7 @@ date:   2017-04-24
 excerpt: "Building community through training and coding"
 image: "/images/dc-puertorico.png"
 comments: true
+categories: teaching
 ---
 
 On March 24-25, Sue McClatchy, Tracy Teal, and I co-taught an instructor training workshop at the University of Puerto Rico (UPR). This was a very special workshop in many ways, and we are excited to share some of the highlights with you. 

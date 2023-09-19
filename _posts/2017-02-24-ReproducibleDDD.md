@@ -5,6 +5,8 @@ excerpt: "Report back from the Curriculum Development Hackathon for Reproducible
 date:   2017-02-24
 image: "/images/pic04.jpg"
 comments: true
+categories: yoga
+categories: science
 ---
 
 

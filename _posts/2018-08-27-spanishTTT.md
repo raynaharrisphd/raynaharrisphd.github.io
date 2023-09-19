@@ -5,6 +5,7 @@ date:   2018-08-27
 excerpt: "Building global communities of Spanish-speaking Carpentry instructors and lesson developers"
 image: "/images/carpentryTTT-01.png"
 comments: true
+categories: spanish
 ---
 
 _This post was originally posted on [The Carpentries blog](https://carpentries.org/blog/2018/08/latin-ttt/)._

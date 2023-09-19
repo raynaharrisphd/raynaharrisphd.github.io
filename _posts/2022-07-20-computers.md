@@ -5,6 +5,7 @@ date: 2022-07-21
 excerpt: "When I was young, my dad used our living room to build custom computers for designing off-shore drilling rigs. Now I work from home building computers for scientific discovery and data analysis. How did I get here? "
 image: "/images/computer-dad.png"
 comments: true
+categories: teaching
 ---
 
 
