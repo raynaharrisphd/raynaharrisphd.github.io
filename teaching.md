@@ -8,7 +8,7 @@ sitemap:
     changefreq: monthly
 ---
 
-# Teaching
+<h1> Teaching </h1>
 
 
 ### Yoga 
