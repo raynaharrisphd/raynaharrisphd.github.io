@@ -1,6 +1,6 @@
 ---
-layout: yoga2
-title: Yoga2
+layout: yoga
+title: Yoga
 sitemap:
     priority: 1.0
     lastmod: 2023-09-18
