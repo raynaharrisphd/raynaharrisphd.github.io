@@ -1,0 +1,58 @@
+---
+layout: page
+permalink: /yoga/
+title: Yoga
+categories: yoga
+---
+
+
+<h1> Yoga </h1>
+
+
+<p> From September 2023 to January 2024, I'll be taking a 200 hour Yoga Instructor Certification Course. On this page, you'll fink links to sequences and playlists for yoga classes I have taught. There is also a calendar with links to past and future events. </p>
+
+<h2> Sequences and Playlists </h2>
+
+<ul>
+{% for post in site.categories.yoga %}
+          
+          <b> <a href="{{ post.url }}"> {{ post.title }}</a> </b> 
+        
+           
+            {{ post.excerpt }} <i> {{ post.date | date_to_string }} </i>
+            <br>
+            
+            
+           <center>      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> </center> 
+              
+                                             
+    {% endfor %}
+  </ul>    
+
+
+
+
+
+<h2> Calendar of Events</h2>
+
+
+  <center>  <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTabs=1&mode=AGENDA&showTitle=1&src=cmF5bmFoYXJyaXN5b2dhQGdtYWlsLmNvbQ&color=%23039BE5" style="border:solid 1px #777" width="800" height="400" frameborder="0" scrolling="no"></iframe>  </center> 
+
+
+<h2> Photos </h2>
+
+<ul>
+{% for post in site.categories.yoga %}
+          
+                 <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+                                             
+    {% endfor %}
+  </ul>    
+
+
+<h2> YouTube Playlist of My Yoga Videos </h2>
+
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLNfIROxhN1JCwXCfHSChg8NLsktT0q9tD" frameborder="0" allowfullscreen>
+
+
