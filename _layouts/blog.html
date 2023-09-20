@@ -7,7 +7,7 @@ title: blog
 <h1> Blog Posts </h1>
 
 {% assign sorted_categories = site.categories | sort %}
-{% for categories in sorted_categories reversed %}
+{% for categories in sorted_categories %}
   <h2>{{ categories[0] }}</h2>
   <ul>
     {% for post in categories[1] %}
