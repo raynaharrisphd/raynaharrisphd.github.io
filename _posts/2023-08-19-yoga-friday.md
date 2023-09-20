@@ -9,10 +9,13 @@ spotify: 7zgs64Pnw2QqlSNduyzmlc
 ---
 
 
+
 _“When the breath wanders the mind also is unsteady. But when the breath is calmed the mind too will be still, and the Yogi achieves long life. Therefore, one should learn to control the breath.” ~ Hatha Yoga Pradipika_
 
-## Opening Awareness
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7zgs64Pnw2QqlSNduyzmlc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+
+## Opening Awareness
 
 
 <div class="row">
@@ -226,14 +229,11 @@ _The black and white yoga icons from created by <a href="https://www.flaticon.co
 
 ## Comments
 
-This yoga class was organized by [The Courage Project](https://www.courageproject.org/) and took place near the Tahoe Meadows South Trailhead in Nevada. The yoga sequence designed for a younger audience, with poses referred to by animal names where possible and a focus is on syncing movement to breath. It contains 7 sections (open awareness, open stretch, standing breath work, floor work, balancing poses, inversions, and relaxation).  Much of the sequence was inspired by a YouTube video called [Fun Kids Yoga w/ Kris Blunt (30 Minute Class)](https://www.youtube.com/watch?v=5sYUnnyPsRM). 
-
-A 40-minute playlist accompanies the sequence to help sync the breath with movement and stillness. 
+This yoga class was organized by [The Courage Project](https://www.courageproject.org/) and took place near the Tahoe Meadows South Trailhead in Nevada. The yoga sequence designed for a younger audience, with poses referred to by animal names where possible and a focus is on syncing movement to breath. It contains 7 sections (open awareness, open stretch, standing breath work, floor work, balancing poses, inversions, and relaxation).  Much of the sequence was inspired by a YouTube video called [Fun Kids Yoga w/ Kris Blunt (30 Minute Class)](https://www.youtube.com/watch?v=5sYUnnyPsRM). A 40-minute playlist accompanies the sequence to help sync the breath with movement and stillness. 
 <figure>
 <img src="/images/yoga/fridayplan.png" style="width:80%">
 </figure>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7zgs64Pnw2QqlSNduyzmlc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
