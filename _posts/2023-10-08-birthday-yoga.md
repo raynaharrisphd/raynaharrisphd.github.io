@@ -17,7 +17,7 @@ spotify: 2rf0dgJFl3iaoMGyjNXfpX
 #### Guided Meditation 🎶 *Kusanagi*
 
 <div class="row">
-  <div class="column">
+  <div class="column4">
     <img src="/images/yoga/lotus-meditation.png" alt="Easy Pose" style="width:40%">
     <figcaption><i>Easy Pose<p></p></i></figcaption>
 </div>
@@ -186,7 +186,7 @@ spotify: 2rf0dgJFl3iaoMGyjNXfpX
 #### Relaxation 🎶 *Om*
 
 <div class="row">
-<div class="column">
+<div class="column4">
     <img src="/images/yoga/shavasana.png" alt="Shavasana" style="width:50%">
     <figcaption><i>Shavasana<p></p></i></figcaption>
   </div>
