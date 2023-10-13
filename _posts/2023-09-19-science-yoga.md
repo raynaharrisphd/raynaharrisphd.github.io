@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "From Teaching Science to Teaching Yoga"
-date: 2023-09-22
+date: 2023-10-22
 excerpt: "A post about transitions from teaching computation biology to yoga."
 image: "/images/yoga/SWC.png"
 categories: teaching yoga
 ---
-
-I wanted a PhD so that I could be a Professor anywhere in the world. But in the process of getting my PhD, I taught work shops all over the world, and I realized that being a Professor didn't involve as much teaching or the lifestyle I wanted. I'm learning that there are many opportunities for teaching outside academia that you can do anywhere and on your own time.
+ 
+When I was like 20 and in college, I wanted a PhD because I thought that I needed to be a Professor to teach biology anywhere in the world. But in the process of obtaining my PhD, I gave lectures and taught workshops all over the world, so I achieved that goal, AND I realized that being a Professor didn't involve as much teaching or the lifestyle I wanted. I'm learning that there are many opportunities for teaching outside academia that you can do anywhere and on your own time.
 
 I've been practiced yoga infrequently for about 20 years, regularly during my last year of graduate school. I daydreamed of becoming a SUP Yoga Instructor, but I put that idea on the back burner and focus on getting a "real job". I thought I had to chose science or yoga, but now I think the two are quite complementary. 
 

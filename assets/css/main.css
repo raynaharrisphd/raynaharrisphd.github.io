@@ -4491,6 +4491,15 @@
   margin-left: 3%
 }
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column4 {
+  float: left;
+  width: 20%;
+  padding: 5px;
+  margin-left: 3%
+}
+
+
 /* Clear floats after image containers */
 .row::after {
   content: "";
