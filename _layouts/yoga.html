@@ -11,14 +11,7 @@ categories: yoga
 
 <p> From September 2023 to January 2024, I'll be taking a 200 hour Yoga Instructor Certification Course. On this page, you'll fink links to sequences and playlists for yoga classes I have taught. There is also a calendar with links to past and future events. </p>
 
-<h2> Sequences and Playlists </h2>
-
-
-
-
-
-
-
+<h2> Past Classes </h2>
 
 
 <ul>
@@ -31,23 +24,13 @@ categories: yoga
          <!-- Do nothing -->
          
     {% else %}
+        
+        <i> {{ post.date | date_to_string }} </i> •
         <b> <a href="{{ post.url }}"> {{ post.title }}</a> </b> 
-        
-           
-            {{ post.excerpt }} <i> {{ post.date | date_to_string }} </i>
-            <br>
-            
-            
-        
-           
-           
-    {% endif %}
-
-
-
-          
-          
-              
+        {{ post.excerpt }} 
+        <br>
+                                        
+    {% endif %}              
                                              
     {% endfor %}
   </ul>    
@@ -56,15 +39,14 @@ categories: yoga
 
 
 
-<h2> Calendar of Events</h2>
+<h2> Future Classes</h2>
 
 
   <center>  <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTabs=1&mode=AGENDA&showTitle=1&src=cmF5bmFoYXJyaXN5b2dhQGdtYWlsLmNvbQ&color=%23039BE5" style="border:solid 1px #777" width="800" height="400" frameborder="0" scrolling="no"></iframe>  </center> 
   
+<br>
 
-
-<h2> YouTube Playlists </h2>
-
+<h2> YouTube Videos </h2>
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/?listType=playlist&list=PLNfIROxhN1JCwXCfHSChg8NLsktT0q9tD" frameborder="0" allowfullscreen>
 
