@@ -10,6 +10,10 @@ spotify: 2rf0dgJFl3iaoMGyjNXfpX
 
 ## The Flow
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2rf0dgJFl3iaoMGyjNXfpX?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
 #### Guided Meditation 🎶 *Kusanagi*
 
 <div class="row">
@@ -188,17 +192,12 @@ spotify: 2rf0dgJFl3iaoMGyjNXfpX
   </div>
     </div>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2rf0dgJFl3iaoMGyjNXfpX?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
-_Note: The black and white yoga icons from created by <a href="https://www.flaticon.com/free-icons/workout" title=" workout icons">dDara </a>, <a href="https://www.flaticon.com/free-icons/exercise" title="exercise icons">monkik</a>, <a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Freepik </a>, <a href="https://www.flaticon.com/free-icons/exercise" title="exercise icons">Vitaly Gorbachev</a>, and <a href="https://www.flaticon.com/free-icons/yoga-pose" title="yoga pose icons">Eideticmemo</a>._
-
-## The Invitation
-
-I had almost as much fun making invitations for the event as I did hosting it. Here's the image I sent to a few friends to invite them. 
-
-![](/images/yoga/birthday-invite.png)
 
 ## Notes 
 
+I had almost as much fun making invitations for the event as I did hosting it. Here's the image I sent to a few friends to invite them. Most of the songs have a noticeable four count beat, so you can focus on inhaling for 4 beats and exhaling for 4 beats. I like to fluctuate between holding posing and flowing between poses. The icons above illustrate the static poses, but we also did things like pushups, knee-to-nose extensions, and squats in sync with the beat. I also chose songs with lyrics that matched the theme of "birthday, beach, and breath work" and I used the lyrics to guide the flow and meditation. Instead of setting an intention for the practice, we made birthday wishes, and we also drew hearts and wrote our name in the sand. It was a lovely practice.  
+
+
 _The black and white yoga icons from created by <a href="https://www.flaticon.com/free-icons/workout" title=" workout icons">dDara </a>, <a href="https://www.flaticon.com/free-icons/exercise" title="exercise icons">monkik</a>, <a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Freepik </a>, <a href="https://www.flaticon.com/free-icons/exercise" title="exercise icons">Vitaly Gorbachev</a>, and <a href="https://www.flaticon.com/free-icons/yoga-pose" title="yoga pose icons">Eideticmemo</a>._
+
+![](/images/yoga/birthday-invite.png)
