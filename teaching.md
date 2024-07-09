@@ -13,13 +13,15 @@ sitemap:
 
 ### Yoga 
 
-
-- Beachside Yoga on Kings Beach, CA, Saturday, August 26, 2023 - [Sequence](https://www.raynaharris.com/blog/yoga-saturday/)
-- Mountain Top Yoga at [Tahoe Meadows South Trailhead, NV](https://goo.gl/maps/5qY1oyC2PLfMYt6R6), Friday, August 25, 2023 -  [Sequence](https://www.raynaharris.com/blog/yoga-friday/)
-
+- Stand Up Paddle Yoga, Tahoe Flow Arts and Fitness, Summer 2024
+- Yoga on the Beach, Tahoe Flow Arts and Fitness, Summer 2024
+- Mindfull Yoga, Courage Project, Summer 2023 - 2024
 
 ### Lake Tahoe Community College (LTCC)
 
+- Human Anatomy and Physiology Lab, LTCC, Fall 2024
+- Dual Credit Chemistry, LTCC, Fall 2024
+- Introduction to Cell and Molecular Biology Lab, LTCC, Spring 2024
 - Organic Chemistry III Lab (CHM-223L), LTCC, Spring 2023, [Lab materials](https://osf.io/qb2tu/)
 - Introduction to Cell and Molecular Biology, LTCC, Spring 2023, [Lecture materials](https://osf.io/tk9y8/)
 - Principles of Biology III (BIO-103-01), LTCC, Winter 2023, [Lecture materials](https://osf.io/aq5ek/)
