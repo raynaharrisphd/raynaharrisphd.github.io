@@ -62,14 +62,15 @@ categories: yoga
 
 
 
-<!-- Post -->
+
+!-- Post -->
 					<section class="posts">
-						{% for post in site.categories.yoga %}
+						{% for post in site.posts %}
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
 								</header>
 								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
 								<p>{{ post.excerpt }}</p>
@@ -80,7 +81,7 @@ categories: yoga
 							{% if mod3 == 0 %}
 							<article>
 								<header>
-									<h2><a href="#">Questions</a></h2>
+									<h2><a href="# WHAT?"> </h2>
 								</header>
 
 							</article>
