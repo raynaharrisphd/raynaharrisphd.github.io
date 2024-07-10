@@ -64,16 +64,11 @@ categories: yoga
 
 
 <!-- Post -->
-					<section class="posts">
+					<section class="column">
 					
-					
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
-					
-					
+					<div class="row">
+						<div class="column"></div>
+		
 						{% for post in site.categories.yoga %}
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
@@ -95,5 +90,9 @@ categories: yoga
 							</article>
 							{% endif %}
 						{% endfor %}
+						
+						  <div class="column"></div>
+</div>
+			
 
 					</section>
