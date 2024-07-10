@@ -25,12 +25,9 @@ categories: yoga
 
 <p> Click the links for detailed descriptions of classes I've taught with illustrations of poses and accompanying playlists.</p>
 
-
-
 <ul>
+
 {% for post in site.categories.yoga %}
-
-
 
 {% if post.spotify == "" or post.spotify == nil or post.spotify == blank %}
         
@@ -41,6 +38,7 @@ categories: yoga
         <i> {{ post.date | date_to_string }} </i> •
         <b> <a href="{{ post.url }}"> {{ post.title }}</a> </b> 
         {{ post.excerpt }} 
+        <a href="{{ post.url | absolute_url }}" class="image right"><img src="{{ post.image | absolute_url }}" alt="" /></a>
         <br>
                                         
     {% endif %}              
