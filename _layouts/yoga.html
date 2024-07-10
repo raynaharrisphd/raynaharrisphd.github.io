@@ -65,6 +65,15 @@ categories: yoga
 
 <!-- Post -->
 					<section class="posts">
+					
+					
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+					
+					
 						{% for post in site.categories.yoga %}
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
