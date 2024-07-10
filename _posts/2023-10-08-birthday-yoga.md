@@ -3,10 +3,12 @@ layout: post
 title: "Birthday Beach Yoga and Breathwork"
 date: 2023-10-08
 excerpt: "For my 40th birthday I organized a beach yoga class. The playlist was designed to bring awareness to the breath and the beauty of nature. It was awesome!"
-image: "/images/yoga/birthday.png"
+#image: "/images/yoga/birthday.png"
 categories: yoga
 spotify: 2rf0dgJFl3iaoMGyjNXfpX
 ---
+
+![](/images/yoga/birthday.png)
 
 ## The Flow
 
