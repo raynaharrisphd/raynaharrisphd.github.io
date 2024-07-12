@@ -6,12 +6,12 @@ excerpt: "A mountain top yoga class in Tahoe Meadows, NV designed for a younger 
 categories: yoga
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
-spotify: 57uYgY5tl1d6eMNEzBIgcD
+spotify: 5zoiDKbhBlFDST84olNn2y
 ---
 
 ## Class Outline
 
-|**Song** - **Actiity**| 
+|**Song** - **Activity**| 
 | -------- | ------- |  
 The Light | Welcome   
 Sun & Sea | Half Sun Salutation   
