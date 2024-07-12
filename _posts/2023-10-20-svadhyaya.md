@@ -6,6 +6,8 @@ excerpt: "As part of my yoga instructor training, I wrote a sequence that incorp
 #image: "/images/yoga/SuryaNamaskar.gif"
 categories: yoga
 spotify: 2vF8jBosLcL5E4AYbLO8wM
+org: "Palisades Yoga"
+orgurl: "https://palisadesyoga.com/"
 ---
 
 _"Study thy self, discover the divine." — Patanjali’s Yogasutra, II.44_

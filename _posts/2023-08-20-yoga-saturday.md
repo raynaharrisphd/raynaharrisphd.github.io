@@ -6,6 +6,8 @@ excerpt: "A lakefront top yoga class on King's Beach designed for a younger audi
 #image: "/images/yoga/saturday-yoga.png"
 categories: yoga
 spotify: 6tpwzTZdgK8ht5Xwbd4gM4
+org: "The Courage Project"
+orgurl: "https://www.courageproject.org/"
 ---
 
 

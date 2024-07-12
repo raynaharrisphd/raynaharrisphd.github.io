@@ -5,7 +5,9 @@ date: 2023-08-25
 excerpt: "A mountain top yoga class in Tahoe Meadows, NV designed for a younger audience with a focus on movement, breath, and mindfulness."
 image: "/images/yoga/friday-yoga.png"
 categories: yoga
-spotify: 7zgs64Pnw2QqlSNduyzmlc
+spotify: 5zoiDKbhBlFDST84olNn2y
+org: "The Courage Project"
+orgurl: "https://www.courageproject.org/"
 ---
 
 
