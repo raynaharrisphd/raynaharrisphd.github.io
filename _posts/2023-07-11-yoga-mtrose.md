@@ -9,3 +9,15 @@ orgurl: "https://www.courageproject.org/"
 spotify: 57uYgY5tl1d6eMNEzBIgcD
 ---
 
+## Class Outline
+
+**Song** - **Actiity**   
+The Light - Welcome   
+Sun & Sea - Half Sun Salutation
+Feeling Good - Various animal asanas (fish butterfly star)
+Om - Asanas with focus on breath-work 
+Evan Finds the 3rd Room - Balancing poses Solo + Group Circle
+Kusanagi = Inversions
+The Rain - Meditation
+You Wish - 3 good things
+The Light - End
