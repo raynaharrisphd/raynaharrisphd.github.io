@@ -11,15 +11,14 @@ spotify: 5zoiDKbhBlFDST84olNn2y
 
 ## Class Outline
 
-|**Song** - **Activity**| 
-| -------- | ------- |  
-The Light | Welcome   
-Sun & Sea | Half Sun Salutation   
-Feeling Good | Various animal asanas (fish butterfly star)   
-Om | Asanas with focus on breath-work    
-Evan Finds the 3rd Room | Balancing poses Solo + Group Circle   
-Kusanagi | Inversions   
-The Rain | Meditation   
-You Wish | 3 good things   
-The Light | End   
+**Song** - **Activity**
+The Light - Welcome   
+Sun & Sea - Half Sun Salutation   
+Feeling Good - Various animal asanas (fish butterfly star)   
+Om - Asanas with focus on breath-work    
+Evan Finds the 3rd Room - Balancing poses Solo + Group Circle   
+Kusanagi - Inversions   
+The Rain - Meditation   
+You Wish - 3 good things   
+The Light - End   
 
