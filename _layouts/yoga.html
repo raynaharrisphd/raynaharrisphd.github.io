@@ -147,7 +147,6 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 {% for tags in sorted_tags %}
 
 
-
   <h2>{{ tags[0] }}</h2>
   
   {{ post.description[0] }}
@@ -162,17 +161,3 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 
 
 
-
-<!--   Test Section  </a> -->
-
-
-<h1> Testing Testing Testing</h1>
-
-
-{% assign mytags = site.data.tags[page.tags] %}
-
-<ul>
- {% for post in mytags[1] %}
-	{{ mytags.title }}  {{ mytags.description }}
- {% endfor %}
-</ul>
