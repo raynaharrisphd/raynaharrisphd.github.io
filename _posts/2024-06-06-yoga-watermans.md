@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Mindful Beach Yoga"
+title: "Mindful Yoga on the Beach"
 date: 2024-06-06
-excerpt: "A mountain top yoga class in Tahoe Meadows, NV designed for a younger audience with a focus on movement, breath, and mindfulness." 
+excerpt: "A beach yoga class in Carnelian Bay designed for a younger audience with a focus on movement, breath, and mindfulness." 
 categories: yoga
 tags: kids
 org: "The Courage Project"
