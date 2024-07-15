@@ -5,7 +5,8 @@ date: 2023-08-25
 excerpt: "A mountain top yoga class in Tahoe Meadows, NV designed for a younger audience with a focus on movement, breath, and mindfulness."
 image: "/images/yoga/friday-yoga.png"
 categories: yoga
-tags: kids
+tags: "Yoga for Kids"
+description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
 spotify: 7zgs64Pnw2QqlSNduyzmlc
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"

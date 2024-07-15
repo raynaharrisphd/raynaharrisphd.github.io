@@ -4,7 +4,8 @@ title: "Mindful Yoga in the Mountains"
 date: 2024-07-12
 excerpt: "A mountain top yoga class in Tahoe Meadows, NV designed for a younger audience with a focus on movement, breath, and mindfulness." 
 categories: yoga
-tags: kids
+tags: "Yoga for Kids"
+description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
 spotify: 5zoiDKbhBlFDST84olNn2y
