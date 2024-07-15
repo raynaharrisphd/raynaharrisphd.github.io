@@ -16,7 +16,7 @@ spotify: 5zoiDKbhBlFDST84olNn2y
 **When:** Friday, July 12, 2024 8 AM    
 **Where:** Tahoe Meadows Ophir Creek Trailhead, Mt Rose Hwy [Directions](https://www.google.com/maps/dir//Mt+Rose+Hwy,+New+Washoe+City,+NV+89704/@39.3016141,-120.0010702,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x80996e50dc563fbb:0x3dedbf0be21ccb41!2m2!1d-119.9186693!2d39.3016431?entry=ttu)      
 **Description:** {{ page.description }}          
-**With:** <a href={{ page.orgurl }} >{{ page.org }}</a>
+**With:** [{{page.org}}]({{page.orgurl}})
 
 
 ## Class Outline
