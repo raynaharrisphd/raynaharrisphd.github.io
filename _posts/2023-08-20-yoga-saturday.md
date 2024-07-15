@@ -5,6 +5,7 @@ date: 2023-08-26
 excerpt: "A lakefront top yoga class on King's Beach designed for a younger audience with a focus on movement, breath, and mindfulness."
 #image: "/images/yoga/saturday-yoga.png"
 categories: yoga
+tags: kids
 spotify: 6tpwzTZdgK8ht5Xwbd4gM4
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"

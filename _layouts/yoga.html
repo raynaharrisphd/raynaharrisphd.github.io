@@ -55,11 +55,39 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 </ul>    
 
 
+<h3> Kids Yoga </h3>
+
+<ul>
+
+{% for post in site.tags.kids %}
+
+{% if post.spotify == "" or post.spotify == nil or post.spotify == blank %}
+        
+         <!-- Do nothing -->
+         
+    {% else %}
+        
+        <i> {{ post.date | date_to_string }} </i> •
+        <b> <a href="{{ post.url }}"> {{ post.title }}</a> </b> 
+        with {{ post.org }}. {{ post.excerpt }} 
+      
+      <!--   <a href="{{ post.url | absolute_url }}" class="image right"><img src="{{ post.image | absolute_url }}" alt="" />  </a> -->
+                   
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+            
+        <br> <br>
+                                        
+    {% endif %}              
+                                             
+    {% endfor %}
+ 
+</ul>    
+
 
 
 <h3> Stand Up Paddle Yoga </h3>
 
-<p> Stand Up Paddle Yoga is a series of fun class for all levels with flowing poses and breathwork to build stability, flexibility, and mindfulness. This class will follow an arc of opening awareness, warm-up stretch, balancing poses, inversions, grounding poses, and a closing. Bring a towel for a cold plunge following class. </p>
+<p> Stand Up Paddle Yoga is a series of fun class for all levels with flowing poses and breathwork to build stability, flexibility, and mindfulness. This class will follow an arc of opening awareness, warm-up stretch, balancing poses, inversions, grounding poses, savasana, and a cold plunge. </p>
 
 <ul>
 
