@@ -149,6 +149,8 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 
   <h2>{{ tags[0] }}</h2>
   
+  <meta description="{{ description }}">
+  
   <ul>
     {% for post in tags[1] %}
     
@@ -160,22 +162,4 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 
 
 
-<!--   Test Section 2 </a> -->
 
- <h1>Test 2</h1>
-
-
-{% if page.layout == 'autopage_tags' %}
-  {% assign taxonomy = page.autopages.display_name | downcase | slugify %}
-  {% assign tag = site.data.taxonomy[taxonomy] %}
-{% endif %}
-
-{% if page.layout == 'autopage_tags' %}
-  {% if tag.description %}
-    {% assign description = tag.description %}
-  {% else %}
-    {% assign description = page.autopages.display_name | prepend: 'An archive of posts tagged ' %}
-  {% endif %}
-{% endif %}
-
-<meta description="{{ description }}">
