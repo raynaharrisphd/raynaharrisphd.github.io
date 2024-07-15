@@ -172,7 +172,7 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 {% assign mytags = site.data.tags[page.tags] %}
 
 <ul>
- {% for post in tags[1] %}
+ {% for post in mytags[1] %}
 	{{ mytags.title }}  {{ mytags.description }}
  {% endfor %}
 </ul>
