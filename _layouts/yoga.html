@@ -170,10 +170,10 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 
 
 <ul>
-{% for tags in site.data.tags %}
+{% for tag in site.data.tags %}
   <li>
-    {{ tags.title }}
-    {{ tags.description }}
+    {{ tag.title }}
+    {{ tag.description }}
   </li>
 {% endfor %}
 </ul>
