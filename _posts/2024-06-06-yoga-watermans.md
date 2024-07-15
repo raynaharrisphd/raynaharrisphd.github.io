@@ -4,7 +4,7 @@ title: "Mindful Yoga on the Beach"
 date: 2024-06-06
 excerpt: "A beach yoga class in Carnelian Bay designed for a younger audience with a focus on movement, breath, and mindfulness." 
 categories: yoga
-tags: "Yoga for Kids"
+tags: "Kids Yoga"
 description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
