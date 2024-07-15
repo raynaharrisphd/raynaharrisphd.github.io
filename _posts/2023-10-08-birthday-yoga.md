@@ -7,7 +7,7 @@ excerpt: "For my 40th birthday I organized a beach yoga class. The playlist was 
 org: "Me!"
 orgurl: "https://www.raynaharris.com/yoga/"
 categories: yoga
-tags: beach
+tags: ['Yoga on the Beach']
 spotify: 2rf0dgJFl3iaoMGyjNXfpX
 ---
 
