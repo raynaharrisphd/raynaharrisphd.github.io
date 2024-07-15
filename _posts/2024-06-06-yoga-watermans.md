@@ -3,9 +3,9 @@ layout: post
 title: "Mindful Yoga on the Beach"
 date: 2024-06-06
 excerpt: "A beach yoga class in Carnelian Bay designed for a younger audience with a focus on movement, breath, and mindfulness." 
+description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
 categories: yoga
 tags: kids
-description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
 spotify: 7pPtF7nEiD3twBNKn4zPWv
@@ -14,12 +14,13 @@ spotify: 7pPtF7nEiD3twBNKn4zPWv
 ## Details
 
 **When:** Sunday, June 6, 2024 8 AM    
-**Where:** Waterman's Landing 5166 N Lake Blvd, Carnelian Bay, CA 96140[Directions](https://www.google.com/maps?rlz=1C5CHFA_enUS818US818&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyEAgBEC4YrwEYxwEYgAQYjgUyBwgCEAAYgAQyBwgDEAAYgAQyCAgEEAAYFhgeMggIBRAAGBYYHjINCAYQABiGAxiABBiKBTIKCAcQABiABBiiBDIKCAgQABiiBBiJBdIBCDIyOThqMGo3qAIIsAIB&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KaVlVghNY5mAMRlCwikIOLCd&daddr=5166+N+Lake+Blvd,+Carnelian+Bay,+CA+96140)   
+**Where:** Waterman's Landing 5166 N Lake Blvd, Carnelian Bay, CA 96140[Directions](https://www.google.com/maps?rlz=1C5CHFA_enUS818US818&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyEAgBEC4YrwEYxwEYgAQYjgUyBwgCEAAYgAQyBwgDEAAYgAQyCAgEEAAYFhgeMggIBRAAGBYYHjINCAYQABiGAxiABBiKBTIKCAcQABiABBiiBDIKCAgQABiiBBiJBdIBCDIyOThqMGo3qAIIsAIB&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KaVlVghNY5mAMRlCwikIOLCd&daddr=5166+N+Lake+Blvd,+Carnelian+Bay,+CA+96140)     
+**Description:** {{description}}  
 
 
 ## Spotify Playlist
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7pPtF7nEiD3twBNKn4zPWv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{spotify}}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
 
 ## Instagram 
