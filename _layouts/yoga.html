@@ -148,12 +148,12 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 {% for tags in sorted_tags %}
 
 {% assign sorted_descriptions = site.description | sort %}
-{% for description in sorted_descriptions %}
+{% for descriptions in sorted_descriptions %}
 
 
   <h2>{{ tags[0] }}</h2>
   
-  <p>{{ description[0] }}  </p>
+  <p>{{ descriptions[0] }}  </p>
   
   <ul>
     {% for post in tags[1] %}
