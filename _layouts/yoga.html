@@ -138,13 +138,20 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 <!--   Test Section  </a> -->
 
 
-<h1> Testing Testing Testing</h1>
+<h1> Testing Testing </h1>
+
+{% assign sorted_tags = site.tags | sort %}
+{% for tags in sorted_tags %}
 
 
-{% assign mytags = site.data.tags[page.tags] %}
-
-<ul>
- {% for post in mytags[1] %}
-	{{ mytags.title }}  {{ mytags.description }}
- {% endfor %}
-</ul>
+  <h3>{{ tags[0] }}</h3>
+  
+  {{ post.description[0] }}
+  
+  <ul>
+    {% for post in tags[1] %}
+    
+      <li> <b> <a href="{{ post.url }}">{{ post.title }}</a> {{ post.organization }}  </b> {{ post.excerpt }} <i> {{ post.date | date_to_string }} </i>  </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
