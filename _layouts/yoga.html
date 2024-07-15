@@ -169,11 +169,6 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 <h1> Testing Testing Testing</h1>
 
 
-<ul>
-{% for tag in site.data.tags %}
-  <li>
-    {{ tag.title }}
-    {{ tag.description }}
-  </li>
-{% endfor %}
-</ul>
+{% assign mytags = site.data.tags[page.tags] %}
+
+    {{ mytags.title }}  {{ mytags.description }}
