@@ -146,7 +146,11 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 {% assign sorted_tags = site.tags | sort %}
 {% for tags in sorted_tags %}
 
+
+
   <h2>{{ tags[0] }}</h2>
+  
+  {{ post.description[0] }}
   
   <ul>
     {% for post in tags[1] %}
