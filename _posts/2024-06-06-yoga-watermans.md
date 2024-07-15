@@ -15,7 +15,8 @@ spotify: 7pPtF7nEiD3twBNKn4zPWv
 
 **When:** Sunday, June 6, 2024 8 AM    
 **Where:** Waterman's Landing 5166 N Lake Blvd, Carnelian Bay, CA 96140[Directions](https://www.google.com/maps?rlz=1C5CHFA_enUS818US818&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyEAgBEC4YrwEYxwEYgAQYjgUyBwgCEAAYgAQyBwgDEAAYgAQyCAgEEAAYFhgeMggIBRAAGBYYHjINCAYQABiGAxiABBiKBTIKCAcQABiABBiiBDIKCAgQABiiBBiJBdIBCDIyOThqMGo3qAIIsAIB&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KaVlVghNY5mAMRlCwikIOLCd&daddr=5166+N+Lake+Blvd,+Carnelian+Bay,+CA+96140)     
-**Description:** {{ page.description }}  
+**Description:** {{ page.description }}          
+**With:** <a href={{ page.orgurl }} >{{ page.org }}</a>
 
 
 ## Spotify Playlist
