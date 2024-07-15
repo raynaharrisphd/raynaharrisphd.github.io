@@ -6,6 +6,7 @@ excerpt: "As part of my yoga instructor training, I wrote a sequence that incorp
 #image: "/images/yoga/SuryaNamaskar.gif"
 categories: yoga
 spotify: 2vF8jBosLcL5E4AYbLO8wM
+tags: training
 org: "Palisades Yoga"
 orgurl: "https://palisadesyoga.com/"
 ---
