@@ -3,6 +3,7 @@ layout: post
 title: "Saturday Lakefront Yoga"
 date: 2023-08-26
 excerpt: "A lakefront top yoga class on King's Beach designed for a younger audience with a focus on movement, breath, and mindfulness."
+image: "/images/yoga/saturday-yoga.png"
 categories: yoga
 tags: ['Yoga for Kids']
 description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
