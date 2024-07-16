@@ -34,12 +34,15 @@
     <p>{{page.excerpt}}</p>
     </header>
     
+    {% if post.category != "yoga" %}
+    
     <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ page.image | absolute_url }}" alt="" /></a>
+    
+    {% endif %}
 
     <p>{{content}}</p>
-    </section>	
     
-
+    </section>	
     
 <!-- Post Navigation from  https://david.elbe.me/jekyll/2015/06/20/how-to-link-to-next-and-previous-post-with-jekyll.html -->
 
