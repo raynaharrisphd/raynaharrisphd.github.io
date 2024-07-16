@@ -38,7 +38,7 @@ How did we get all the information about 500 milestones ingot GitHub issues? **W
 Right now, the DCPPC bot only deals with DCPPC milestones and deliverables, but you could imagine how this tools could be modified and adapted to many other large-scale community projects. 
 
 
-<img src="/images/dcppcbot.png.png" alt="fig 2" width="95%"/>
+<img src="/images/dcppcbot.png" alt="fig 2" width="95%"/>
 
 
 ## On-boarding existing and new members
