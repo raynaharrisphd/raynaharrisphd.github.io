@@ -3,7 +3,6 @@ layout: post
 title: "Sun Salutation with Affirmations"
 date: 2023-11-24
 excerpt: "As part of my yoga instructor training, I wrote a sequence that incorporates movement, mantra recitation, and meditation to learn more about ourselves. I taught it in class with a large group of people, but I also repeat this regularly at home and outdoors."
-#image: "/images/yoga/SuryaNamaskar.gif"
 spotify: 2vF8jBosLcL5E4AYbLO8wM
 tags: training
 org: "Palisades Yoga"
