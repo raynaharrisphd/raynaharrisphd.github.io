@@ -34,7 +34,27 @@
     <p>{{page.excerpt}}</p>
     </header>
     
-    <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ page.image | absolute_url }}" alt="" /></a>
+    
+    
+    
+    
+{% for post in site.categories %}
+
+{% if post.category == "yoga" %}
+        
+         <!-- Do nothing -->
+         
+{% else %}
+        
+        <a href="{{ post.url | absolute_url }}" class="image right"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+        <br> 
+                                        
+{% endif %}              
+                                             
+{% endfor %}
+    
+    
+
 
     <p>{{content}}</p>
     </section>	
