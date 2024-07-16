@@ -54,16 +54,7 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 
 {% for post in site.categories.yoga %}
 
-{% if post.image == "" or post.image == nil or post.image == blank %}
-        
-         <!-- Do nothing -->
-         
-{% else %}
-        
-        <a href="{{ post.url | absolute_url }}" class="image right"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-        <br> 
-                                        
-{% endif %}              
+ <a href="{{ post.url | absolute_url }}" class="image right"><img src="{{ post.image | absolute_url }}" alt="" /></a>                                                       
                                              
 {% endfor %}
    
