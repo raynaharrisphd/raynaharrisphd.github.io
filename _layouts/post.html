@@ -34,7 +34,7 @@
     <p>{{page.excerpt}}</p>
     </header>
     
-    {% if post.category != "yoga" %}
+    {% if post.categories != "yoga" %}
     
     <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ page.image | absolute_url }}" alt="" /></a>
     
