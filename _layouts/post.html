@@ -34,14 +34,12 @@
     <p>{{page.excerpt}}</p>
     </header>
     
-        
-        <a href="{{ post.url | absolute_url }}" class="image right"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-        
-    
+    <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ page.image | absolute_url }}" alt="" /></a>
 
     <p>{{content}}</p>
     </section>	
     
+
     
 <!-- Post Navigation from  https://david.elbe.me/jekyll/2015/06/20/how-to-link-to-next-and-previous-post-with-jekyll.html -->
 

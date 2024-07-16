@@ -10,7 +10,7 @@ categories: teaching
 
 This is a 4 minute video tutorial for adjusting notification settings.
 
-Link to YouTube: https://youtu.be/4vhWJ_lgG0c
+Link to YouTube: [https://youtu.be/4vhWJ_lgG0c](https://youtu.be/4vhWJ_lgG0c)
 
 I recommend watching it a 2x speed. 
 
