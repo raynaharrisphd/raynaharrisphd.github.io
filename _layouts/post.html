@@ -34,34 +34,14 @@
     <p>{{page.excerpt}}</p>
     </header>
     
-    
-    
-    
-    
-{% for post in site.categories %}
-
-{% if post.category == "yoga" %}
-        
-        <p> </p>
-        
-
-         
-{% else %}
         
         <a href="{{ post.url | absolute_url }}" class="image right"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-        <br> 
-                                        
-{% endif %}              
-                                             
-{% endfor %}
+        
     
-    
-
 
     <p>{{content}}</p>
     </section>	
     
-
     
 <!-- Post Navigation from  https://david.elbe.me/jekyll/2015/06/20/how-to-link-to-next-and-previous-post-with-jekyll.html -->
 
