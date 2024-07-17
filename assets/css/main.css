@@ -2425,11 +2425,11 @@
 		}
 
 		.image.left, .image.right {
-			max-width: 90%;
+			max-width: 40%;
 		}
 
 			.image.left img, .image.right img {
-				width: 90%;
+				width: 100%;
 			}
 
 		.image.left {
