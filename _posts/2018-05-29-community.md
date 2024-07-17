@@ -2,7 +2,7 @@
 layout: post
 title:  "Open-source style community engagement for the Data Commons Pilot Phase Consortium"
 date:   2018-05-29
-excerpt: "This blog post discusses how we are building an open community around a larger goal of making big data more findable and usable to accelerate biomedical discovery"
+excerpt: "This blog post discusses how we are building an open community around a larger goal of making big data more findable and usable to accelerate biomedical discovery. I wrote it at the very beginning of my first postdoctoral scholar position at UC Davis."
 image: "/images/dcppc.png"
 comments: true
 categories: community
