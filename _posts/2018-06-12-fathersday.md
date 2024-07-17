@@ -2,7 +2,7 @@
 layout: post
 title:  "How my father shaped my career before and after his death"
 date:   2018-06-12
-excerpt: "A Father's Day reflection"
+excerpt: "This post is a Father's Day reflection. I read a lot of posts where male academics write about their fathers scholarly influence, so I thought is would be fun to write something from a similar but different experience."
 image: "/images/fathersday.png"
 comments: true
 categories: science
