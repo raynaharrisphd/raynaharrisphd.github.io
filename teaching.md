@@ -13,8 +13,8 @@ sitemap:
 
 ### Tahoe Flow Arts & Fitness 
 
-- Stand Up Paddle Yoga, Summer 2024
-- Yoga on the Beach, Summer 2024
+- Stand Up Paddle Yoga, Summer 2024 [Resources](https://www.raynaharris.com/yoga/)
+- Yoga on the Beach, Summer 2024 [Resources](https://www.raynaharris.com/yoga/)
 
 ### The Courage Projects
 
