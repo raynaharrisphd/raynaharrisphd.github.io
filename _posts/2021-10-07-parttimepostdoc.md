@@ -2,7 +2,7 @@
 layout: post
 title: "Why aren't there more part-time positions in academia?"
 date: 2021-10-07
-excerpt: "I left academia for a year, and it changed how I think about the 'leaky pipeline' in STEM."
+excerpt: "I left academia for a year, and it changed how I think about the 'leaky pipeline' in STEM. This blog post is a data-supported rant I wrote right before returning back to a post doc position after a one-year hiatus."
 image: "/images/fullparttime.png"
 comments: true
 categories: science
