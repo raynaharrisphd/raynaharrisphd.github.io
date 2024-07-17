@@ -2425,7 +2425,7 @@
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 90%;
 		}
 
 			.image.left img, .image.right img {
