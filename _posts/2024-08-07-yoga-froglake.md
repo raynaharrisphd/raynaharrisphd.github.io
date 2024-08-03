@@ -7,7 +7,7 @@ categories: yoga
 tags: ['Yoga with Kids']
 org:  
 orgurl:  
-spotify: 5zoiDKbhBlFDST84olNn2y
+spotify: 2umDf8pcfNq97Y7CpOWntc
 ---
 
 ## Details
@@ -23,37 +23,36 @@ spotify: 5zoiDKbhBlFDST84olNn2y
 
 ### Part I: Mindfulness, Meditation, and Breathwork
 
-Music | Activity   
+Activity | Music 
 ---- | ----
-El Camino De Mi Alma and Cielo Grande | Welcome
-safe (in my body) | Safe Space
-Waves, Despacito | Gratitude 
-Silence | Non-Judgement
-Going Home, Les Petits Gris, Nada que perder, Tension in the Sky, Wonders, | Mindfulness
-Faith's Hymn, wayitis | Pranayama
-Affirmation Song, Mr. White, Bus, Cold Spring | Affirmations
-396, 417, 538, 639, 741, 852, and 963 Hz | Chakras
-Making Space, Hari Om | Sun Salutation A
+Welcome | El Camino De Mi Alma and Cielo Grande 
+Safe Space | safe (in my body) 
+Gratitude | Waves, Despacito 
+Non-Judgement | Silence 
+Mindfulness | Going Home, Les Petits Gris, Nada que perder, Tension in the Sky, Wonders
+Pranayama | Faith's Hymn, wayitis 
+Affirmations | Affirmation Song, Mr. White, Bus, Cold Spring 
+Chakras | 396, 417, 538, 639, 741, 852, and 963 Hz 
+Sun Salutations | Making Space, Hari Om 
 
 ### Part II: Yoga Flow
 
-Song | Asanas   
+Asanas | Song  
 ---- | ----
-Sun & Sea | Breathwork
-Quiet  | Body Scan
-Kusanangi | Childs Pose and Seated Stretch 
-Me Gustas Tu | Cat Cow Down Dog Cobra Flow
-Sun is Shining |  High Lunge and Warrior I Flow
-Feeling Good |  Warrior II Flow
-Love is Alive | Warrior III Flow
-6s to 9s | Tree + Standing Figure 4
-Thank You (Sly & the Family Stone) | Boat + Bridge
-Limon y Sal | Legs Up Wall + Reclined Twists
-Waves - Extended | Final Poses + Savasana
-Thank You (Beautiful Chorus) | Savasana
-Silence | Namaste
-Like Water for My Soul | Journal
-Om | End
+Breathwork | Sun & Sea | 
+Body Scan | Quiet  
+Childs Pose + Seated Stretch | Kusanangi 
+Cat Cow Down Dog Cobra Flow | Me Gustas Tu 
+High Lunge and Warrior I Flow | Sun is Shining 
+Warrior II Flow | Feeling Good 
+Warrior III Flow | Love is Alive 
+Tree + Standing Figure 4 | 6s to 9s 
+Boat + Bridge | Thank You (Sly & the Family Stone)
+Legs Up Wall + Reclined Twists | Limon y Sal 
+Final Poses | Waves - Extended 
+Savasana | Thank You (Beautiful Chorus) 
+Namaste | Silence  
+Journal | Like Water for My Soul, Om
 
 
 ## Spotify Playlist
