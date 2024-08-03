@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yoga at Frog Lake"
-date: 2024-07-12
+date: 2024-08-2
 excerpt: "A three hour workshop on mindfulness, breath-work, and yoga designed for _La Fuerza Latina_."
 categories: yoga
 tags: ['Yoga with Kids']
@@ -12,7 +12,7 @@ spotify: 5zoiDKbhBlFDST84olNn2y
 
 ## Details
 
-**When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 9:00 AM  - 12:00 PM  
+**When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 9:30 AM  - 12:30 PM  
 **Where:** Frog Lake Backcountry Huts, Truckee CA [Detail](https://www.truckeedonnerlandtrust.org/frog-lake-huts)      
 **Description:** {{ page.description }}          
 **With:** [{{page.org}}]({{page.orgurl}})
@@ -21,40 +21,39 @@ spotify: 5zoiDKbhBlFDST84olNn2y
 ## Class Outline
 
 
+### Part I: Mindfulness, Meditation, and Breathwork
 
-### Part I: Mindfulness (1 hr 30)
+Music | Activity   
+---- | ----
+El Camino De Mi Alma and Cielo Grande | Welcome
+safe (in my body) | Safe Space
+Waves, Despacito | Gratitude 
+Silence | Non-Judgement
+Going Home, Les Petits Gris, Nada que perder, Tension in the Sky, Wonders, | Mindfulness
+Faith's Hymn, wayitis | Pranayama
+Affirmation Song, Mr. White, Bus, Cold Spring | Affirmations
+396, 417, 538, 639, 741, 852, and 963 Hz | Chakras
+Making Space, Hari Om | Sun Salutation A
+
+### Part II: Yoga Flow
 
 Song | Asanas   
 ---- | ----
-? | Delay 10
-? | Welcome & Icebreaker 10
-? | Journal 10
-? | Pair 10
-? | Share 10
-? | Dance? 10
-? | Breath-work 10
-? | Break  20
-
-### Part II: Yoga in Practice (1 hr 20 min)
-
-Yoga 101 (25)
-Yoga Flow (55 Min)
-
-Song | Asanas   
----- | ----
-Heart Chakra | Gratitude Share 
-The Journey  | Neck and Shoulder Stretch 
-Quiet | Leg Stretch 
-Safe in My Body | Half Salutation
-Feeling Good |  Warrior I
-Thank You (Sly & the Family Stone) | Warrior II
-6s to 9s | Tree + Figure 4 Chair Flow
-Thank You (Beautiful Chorus) | Gratitude Flow
-Thank You (Led Zeppelin) | Seated or Reclined Twists
-Like Water for My Soul | Inversions
+Sun & Sea | Breathwork
+Quiet  | Body Scan
+Kusanangi | Childs Pose and Seated Stretch 
+Me Gustas Tu | Cat Cow Down Dog Cobra Flow
+Sun is Shining |  High Lunge and Warrior I Flow
+Feeling Good |  Warrior II Flow
+Love is Alive | Warrior III Flow
+6s to 9s | Tree + Standing Figure 4
+Thank You (Sly & the Family Stone) | Boat + Bridge
+Limon y Sal | Legs Up Wall + Reclined Twists
 Waves - Extended | Final Poses + Savasana
-
-
+Thank You (Beautiful Chorus) | Savasana
+Silence | Namaste
+Like Water for My Soul | Journal
+Om | End
 
 
 ## Spotify Playlist
