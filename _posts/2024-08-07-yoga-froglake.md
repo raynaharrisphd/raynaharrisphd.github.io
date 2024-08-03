@@ -63,6 +63,6 @@ Journal | Like Water for My Soul, Om
 
 Here the the handout I used for notes and journalling. 
 
-<object data="../assets/pdfs/lafuerzalatinayoga.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/assets/pdfs/lafuerzalatinayoga.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
