@@ -2,7 +2,7 @@
 layout: post
 title: "Yoga at Frog Lake"
 date: 2024-08-2
-excerpt: "A three hour workshop on mindfulness, breath-work, and yoga designed for _La Fuerza Latina_."
+excerpt: "A three hour yoga workshop on mindfulness, meditation, mantras, breathwork, and asanas designed for La Fuerza Latina."
 categories: yoga
 tags: ['Yoga with Kids']
 org:  
@@ -55,15 +55,15 @@ Silence | Namaste
 Like Water for My Soul | Journal
 Om | End
 
+
+## Spotify Playlist
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+
 ## Handout
 
 Here the the handout I used for notes and journalling. 
 
 <object data="../assets/pdfs/lafuerzalatinayoga.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-
-## Spotify Playlist
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
 
