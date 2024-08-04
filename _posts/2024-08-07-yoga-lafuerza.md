@@ -15,6 +15,12 @@ spotify: 2umDf8pcfNq97Y7CpOWntc
 **When:** Wednesday, August 7, 2024 from 9:30 AM  - 12:30 PM  
 **Where:** Frog Lake Backcountry Huts, Truckee CA  [Details](https://www.truckeedonnerlandtrust.org/frog-lake-huts)      
 
+## Handout
+
+Here is the handout I made for the workshop for journalling and for future reference. 
+
+<object data="/assets/pdfs/lafuerzalatinayoga.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 ## Class Outline
 
 
@@ -56,10 +62,6 @@ Journal | Like Water for My Soul, Om
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
-## Handout
 
-Here is the handout I used for notes and journalling. 
-
-<object data="/assets/pdfs/lafuerzalatinayoga.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
