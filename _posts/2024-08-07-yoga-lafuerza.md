@@ -12,11 +12,8 @@ spotify: 2umDf8pcfNq97Y7CpOWntc
 
 ## Details
 
-**When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 9:30 AM  - 12:30 PM  
-**Where:** Frog Lake Backcountry Huts, Truckee CA [Detail](https://www.truckeedonnerlandtrust.org/frog-lake-huts)      
-**Description:** {{ page.description }}          
-**With:** [{{page.org}}]({{page.orgurl}})
-
+**When:** Wednesday, August 7, 2024 from 9:30 AM  - 12:30 PM  
+**Where:** Frog Lake Backcountry Huts, Truckee CA  [Details](https://www.truckeedonnerlandtrust.org/frog-lake-huts)      
 
 ## Class Outline
 
