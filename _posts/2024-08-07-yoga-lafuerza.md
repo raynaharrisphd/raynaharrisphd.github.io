@@ -21,6 +21,13 @@ Here is the handout I made for the workshop for journalling and for future refer
 
 <object data="/assets/pdfs/lafuerzalatinayoga.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+
+## Spotify Playlist
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+
+
+
 ## Class Outline
 
 
@@ -56,11 +63,6 @@ Final Poses | Waves - Extended
 Savasana | Thank You (Beautiful Chorus) 
 Namaste | Silence  
 Journal | Like Water for My Soul, Om
-
-
-## Spotify Playlist
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
 
 
