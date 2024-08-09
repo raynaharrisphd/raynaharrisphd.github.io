@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Yoga for La Fuera Latina Summer Retreat at Frog Lake"
-date: 2024-08-2
+date: 2024-08-7
 excerpt: "A three hour yoga workshop on mindfulness, meditation, mantras, breathwork, and asanas designed for La Fuerza Latina."
 categories: yoga
-tags: ['Yoga with Kids']
+tags: ['Yoga Retreats']
 org:  
 orgurl:  
 spotify: 2umDf8pcfNq97Y7CpOWntc
