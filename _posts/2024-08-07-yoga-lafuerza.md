@@ -42,8 +42,9 @@ Non-Judgement | Silence
 Mindfulness | Going Home, Les Petits Gris, Nada que perder, Tension in the Sky, Wonders
 Pranayama | Faith's Hymn, wayitis 
 Affirmations | Affirmation Song, Mr. White, Bus, Cold Spring 
-Chakras | 396, 417, 538, 639, 741, 852, and 963 Hz 
 Sun Salutations | Making Space, Hari Om 
+Chakras | 396, 417, 538, 639, 741, 852, and 963 Hz 
+
 
 ### Part II: Yoga Flow
 
@@ -55,14 +56,12 @@ Childs Pose + Seated Stretch | Kusanangi
 Cat Cow Down Dog Cobra Flow | Me Gustas Tu 
 High Lunge and Warrior I Flow | Sun is Shining 
 Warrior II Flow | Feeling Good 
-Warrior III Flow | Love is Alive 
-Tree + Standing Figure 4 | 6s to 9s 
-Boat + Bridge | Thank You (Sly & the Family Stone)
-Legs Up Wall + Reclined Twists | Limon y Sal 
-Final Poses | Waves - Extended 
+Warrior III Flow | 6s to 9s 
+Tree + Standing Figure 4 | Happiness 
+Final Poses | Waves 
 Savasana | Thank You (Beautiful Chorus) 
 Namaste | Silence  
-Journal | Like Water for My Soul, Om
+Closing | Like Water for My Soul, Om
 
 
 
