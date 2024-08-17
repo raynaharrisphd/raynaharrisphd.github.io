@@ -55,35 +55,7 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
  <br> <br> 
  
  
- 
- <h2> Testing </h2>
- 
-{% assign sorted_tags = site.tags | sort %}
-{% for tags in sorted_tags %}
 
-   <h3>{{ tags[0] }}</h3>
-  
-  <ul>
-  
-    {% for post in tags[1] %}
-          
-      <i> {{ post.date | date: '%B %-d, %Y' }} </i> •
-        <b> <a href="{{ post.url }}"> {{ post.title }}</a> </b> 
-        with {{ post.org }}. {{ post.excerpt }} 
-        
-        <a href="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator">Listen on Spotify.</a> </p> <br>
-                                   
-     
-    {% endfor %}
-    
-  </ul>
-  
-{% endfor %}
-  
-
- 
- 
-  
 
 <h2> Media </h2>
 
