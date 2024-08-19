@@ -4517,6 +4517,11 @@
   margin-left: 3%
 }
 
+.column6 {
+  float: left;
+  width: 50%;
+}
+
 
 /* Clear floats after image containers */
 .row::after {
