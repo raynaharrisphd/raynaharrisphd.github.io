@@ -62,14 +62,34 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 
 <h2> Testing </h2>
 
+  	
+  	{% assign sorted_tags = site.tags | sort %}
+	{% for tags in sorted_tags %}
+
+
 <body>
   <div class="column6" style="background-color:red;">
-  	<h2>Column 1</h2>
-  	<p>Data..</p>
+
+  <h3>{{ tags[0] }}</h3>
+  
+  <ul>
+    {% for post in tags[1] %}
+    
+      <i> {{ post.date | date: '%B %-d, %Y' }} </i> •
+        <b> <a href="{{ post.url }}"> {{ post.title }}</a> </b> 
+        with {{ post.org }}. {{ post.excerpt }} 
+      	
+  	
   </div>
   <div class="column6" style="background-color:blue;">
-  	<h2>Column 2</h2>
-  	<p>Data..</p>
+  	
+  	{% if post.spotify != blank %}
+                       
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        
+        {% endif %}  
+     
+    {% endfor %}
   </div>
 </body>
  
