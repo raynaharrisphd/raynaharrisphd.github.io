@@ -4519,7 +4519,12 @@
 
 .column6 {
   float: left;
-  width: 49%;
+  width: 47.5%;
+}
+
+.column7 {
+  float: right;
+  width: 47.5%;
 }
 
 
