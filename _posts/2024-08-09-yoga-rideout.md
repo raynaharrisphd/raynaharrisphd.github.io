@@ -9,6 +9,7 @@ tags: ['Yoga with Kids']
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
 spotify: 3NVsjQ1BnCj5Qv3K5BWDaM
+image: "/images/yoga/IMG_0078.png" 
 ---
 
 ## Details
