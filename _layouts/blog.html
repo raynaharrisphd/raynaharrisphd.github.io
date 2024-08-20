@@ -6,6 +6,8 @@ title: blog
 	
 <h1> Blog Posts </h1>
 
+Some posts I've written over the years grouped by category: Community, Science, Spanish, Teaching, and Yoga
+
 {% assign sorted_categories = site.categories | sort %}
 {% for categories in sorted_categories %}
 
@@ -27,7 +29,7 @@ title: blog
 
 
 
- <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}"alt=""/></a>                                                
+ <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"alt=""  width="90%"/></a>                                                
                                                    
               
 		{% endif %}                   
