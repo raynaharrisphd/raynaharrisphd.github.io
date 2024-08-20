@@ -24,11 +24,11 @@ Some posts I've written over the years grouped by category: Community, Science, 
        {{ post.excerpt }}    
        <i>{{post.org}}</i> 
       
+      <br/>
+      
 		{% if post.image != blank %}
-		
-<div style="width:80%;text-align:center;">
- <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"alt=""/></a>   
-</div>                                             
+
+ <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"alt=""  width="80%"/></a>                                                
                                                    
               
 		{% endif %}                   
