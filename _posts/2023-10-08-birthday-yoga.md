@@ -8,6 +8,7 @@ orgurl: "https://www.raynaharris.com/yoga/"
 categories: yoga
 tags: ['Yoga on the Beach']
 spotify: 2rf0dgJFl3iaoMGyjNXfpX
+image: "/images/yoga/birthday.png" 
 ---
 
 ![](/images/yoga/birthday.png)

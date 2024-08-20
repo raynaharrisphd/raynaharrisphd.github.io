@@ -13,7 +13,6 @@ categories: yoga
 
 I teach with <a href="https://www.courageproject.org/">The Courage Project</a> and <a href="https://tahoeflow.com/">Tahoe Flow Arts & Fitness</a>. </p>
 
-
 {% assign sorted_tags = site.tags | sort %}
 
 {% for tags in sorted_tags %}
@@ -22,13 +21,14 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
         
 		{% if post.image != blank %}
 
-		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"  width="16%"/> </a>                                                       
+		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" width="19%"/> </a>                                                       
               
 		{% endif %}   
 
 	{% endfor %}
   
 {% endfor %}
+
 
 
 <h2> Yoga Calendar </h2>
