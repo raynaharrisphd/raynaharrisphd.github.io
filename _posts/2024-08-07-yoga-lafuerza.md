@@ -8,6 +8,7 @@ tags: ['Yoga Retreats']
 org:  
 orgurl:  
 spotify: 2umDf8pcfNq97Y7CpOWntc
+image: "/images/yoga/lafuerza.jpg"
 ---
 
 ## Details
