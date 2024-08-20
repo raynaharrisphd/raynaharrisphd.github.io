@@ -5,8 +5,10 @@ date: 2023-11-24
 excerpt: "As part of my yoga instructor training, I wrote a sequence that incorporates movement, mantra recitation, and meditation to learn more about ourselves. I taught it in class with a large group of people, but I also repeat this regularly at home and outdoors."
 spotify: 2vF8jBosLcL5E4AYbLO8wM
 tags: training
+categories: yoga
 org: "Palisades Yoga"
 orgurl: "https://palisadesyoga.com/"
+image: "/images/yoga/SuryaNamaskar.gif" 
 ---
 
 _"Study thy self, discover the divine." — Patanjali’s Yogasutra, II.44_
@@ -29,9 +31,6 @@ During my yoga instructor training course, I designed a "moving mantra mediation
 1. Raised Arms Pose  (Hasta Uttanasana) - I am energetic 
 1. Mountain Pose (Tadasana) - I am enough
 
-![](/images/yoga/SuryaNamaskar.gif)
-
-_Gif from https://www.artofliving.org/us-en/yoga/poses/sun-salutation_
 
 
 When I lead this in class, a room full of 15 people chanted the affirmations in unions, and it sounded amazing. I also like doing this at home on a regular basis when I need a little bost of energy or mental clarity. Here's a quick video of the sun salutation affirmations at the beach. 
@@ -42,3 +41,7 @@ When I lead this in class, a room full of 15 people chanted the affirmations in 
 The mantra "Om shanti shanti shanti om" means "peace peace peace". Shanti is repeated three times representing peace in mind, body, and spirit. This is a nice song to play in the background while doing this sun salutation with affirmations.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2vF8jBosLcL5E4AYbLO8wM?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+_The gif is from <https://www.artofliving.org/us-en/yoga/poses/sun-salutation>._
