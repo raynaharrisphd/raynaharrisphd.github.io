@@ -106,26 +106,21 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
     
      <li> 
      
+     <div class="row">
       <div class="column6"> 
-     
       	<i> {{ post.date | date: '%B %-d, %Y' }} </i> •
         <b> <a href="{{ post.url }}"> {{ post.title }}</a> </b> 
         with {{ post.org }}. {{ post.excerpt }} 
         </div>
   
-     <div class="column7">
-    
-         {% if post.spotify != blank %}
-                       
+       <div class="column7">                   
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="95%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
-        </div>
-
-		{% endif %}    
-	
-            
+ 
+	 </div>
+	</div>        
+    
     </li>
             
-     
     {% endfor %}
   
     
