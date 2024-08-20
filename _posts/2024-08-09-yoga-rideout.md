@@ -12,6 +12,7 @@ spotify: 3NVsjQ1BnCj5Qv3K5BWDaM
 image: "/images/yoga/IMG_0078.png" 
 ---
 
+
 ## Details
 
 **When:** {{ page.date | date: '%A, %B %-d, %Y' }} at 9:00 AM       

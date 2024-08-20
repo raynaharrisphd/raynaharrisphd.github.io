@@ -12,9 +12,6 @@ image: "/images/yoga/lafuerza.jpg"
 ---
 
 
-<img src="/images/yoga/lafuerza.jpg" alt="photo" width="95%"/>
-
-
 ## Details
 
 **When:** Wednesday, August 7, 2024 from 9:30 AM  - 12:30 PM  

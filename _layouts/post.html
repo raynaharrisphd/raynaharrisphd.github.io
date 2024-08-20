@@ -35,11 +35,9 @@
     </header>
     
     {% for post in site.blog %}
-    {% if post.categories != "yoga" %}
     
     <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ page.image | absolute_url }}" alt="" /></a>
     
-    {% endif %}
     {% endfor %}
 
     <p>{{content}}</p>
