@@ -95,7 +95,8 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 
  <!-- Testing -->
 
-
+{% assign sorted_tags = site.tags | sort %}
+{% for tags in sorted_tags %}
 
 
   <h3>{{ Test -  tags[0] }}</h3>
