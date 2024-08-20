@@ -24,12 +24,13 @@ Some posts I've written over the years grouped by category: Community, Science, 
        {{ post.excerpt }}    
        <i>{{post.org}}</i> 
       
-      <br/>
+      <p>
       
 		{% if post.image != blank %}
 
- <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"alt=""  width="80%"  align="right"/></a>                                                
-                                                   
+ <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"alt=""  width="80%"  align="center"/></a>                                                
+ 
+        </p>                                            
               
 		{% endif %}                   
       
