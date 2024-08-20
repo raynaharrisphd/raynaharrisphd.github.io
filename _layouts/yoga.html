@@ -14,27 +14,23 @@ categories: yoga
 I teach with <a href="https://www.courageproject.org/">The Courage Project</a> and <a href="https://tahoeflow.com/">Tahoe Flow Arts & Fitness</a>. </p>
 
 
+{% assign sorted_tags = site.tags | sort %}
 
-<img src="/images/yoga/saturday-yoga.png" alt="FLier" width="24%"/>
+{% for tags in sorted_tags %}
 
-<img src="/images/yoga/friday-yoga.png" alt="FLier" width="24%"/>
+	{% for post in tags[1] %}
 
-<img src="/images/yoga/britt.png" alt="FLier" width="24%"/>
+	{% endif %}  
+        
+		{% if post.image != blank %}
 
-<img src="/images/yoga/sup-yoga.png" alt="FLier" width="24%"/>
+		 <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}"  alt="" width="16%"/> </a>                                                       
+              
+		{% endif %}   
 
-<p> </p>
-
-<img src="/images/yoga/beachyoga_cover.png" alt="FLier" width="24%"/>
-
-<img src="/images/yoga/beachyoga_asanas-jun01.png" alt="FLier" width="24%"/>
-
-<img src="/images/yoga/beachyoga_asanas-jun08.png" alt="FLier" width="24%"/>
-
-<img src="/images/yoga/beachyoga_asanas-jun15.png" alt="FLier" width="24%"/>
-
-
-
+	{% endfor %}
+  
+{% endfor %}
 
 
 <h2> Yoga Calendar </h2>
