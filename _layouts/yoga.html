@@ -101,30 +101,25 @@ I teach with <a href="https://www.courageproject.org/">The Courage Project</a> a
 
   <h3> Test - {{ tags[0] }}</h3>
   
-  <ul>
-  
-    {% for post in tags[1] %}
-    
-     <li> 
+  	<ul>
+	<li>
+    	{% for post in tags[1] %} 
      
-     <div class="row">
-      <div class="column6"> 
-      	<i> {{ post.date | date: '%B %-d, %Y' }} </i> •
-        <b> <a href="{{ post.url }}"> {{ post.title }}</a> </b> 
+    	 <div class="row">
+     	 <div class="column6"> 
+      		<i> {{ post.date | date: '%B %-d, %Y' }} </i> •
+        	<b> <a href="{{ post.url }}"> {{ post.title }}</a> </b> 
         with {{ post.org }}. {{ post.excerpt }} 
         </div>
   
-       <div class="column7">                   
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="95%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+       	<div class="column7">                   
+        	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="95%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
  
-	 </div>
-	</div>        
-    
-    </li>
-            
+	 	</div>
+		</div>        
+      
     {% endfor %}
-  
-    
+    </li>
   </ul>
   
 {% endfor %}
