@@ -46,9 +46,11 @@ I write a blog post for every class that includes an outline and/or image of the
 
 
 
-{% for category in site.categories %}
+{% for categories in site.categories %}
 
-{% if post.tags != blank %}
+{% for post in categories[1] %}
+
+{% if post.categories == "yoga" %}
 
   
   	<ul>
@@ -70,7 +72,7 @@ I write a blog post for every class that includes an outline and/or image of the
 
 {% endif %}
 {% endfor %}
-
+{% endfor %}
 
 
 
