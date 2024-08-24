@@ -45,9 +45,9 @@ I write a blog post for every class that includes an outline and/or image of the
 <p> </p> 
 
 
-
-{% assign sorted_tags = site.tags | sort %}
-{% for tags in sorted_tags %}
+ <!-- {% assign sorted_tags = site.tags | sort %}-->
+{% assign unsorted_tags = site.tags %}
+{% for tags in unsorted_tags %}
 
 
   <h3> {{ tags[0] }} </h3>
