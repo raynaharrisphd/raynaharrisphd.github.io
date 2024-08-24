@@ -45,8 +45,8 @@ I write a blog post for every class that includes an outline and/or image of the
 <p> </p> 
 
 
-{% assign sorted_tags = site.tags | sort %}
-{% for tags in sorted_tags %}
+<!--{% assign sorted_tags = site.tags | sort %}  -->
+{% for tags in site.tags reversed %}  <!-- reverse -->
 
 
   <h3> {{ tags[0] }} </h3>
