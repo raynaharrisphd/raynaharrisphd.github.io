@@ -25,9 +25,9 @@ categories: yoga
 
 Jump to:
 
-<p id="Stand Up Paddle Yoga">Stand Up Paddle Yoga.</p>
-<p id="Yoga For Kids">Yoga For Kids.</p>
-<p id="Yoga at the Beach">Yoga at the Beach</p>
+<a id="Stand Up Paddle Yoga">Stand Up Paddle Yoga.</a>
+<a id="Yoga For Kids">Yoga For Kids.</a>
+<a id="Yoga at the Beach">Yoga at the Beach</a>
 
 
  <!-- Linked images -->
@@ -57,9 +57,8 @@ Jump to:
 {% assign sorted_tags = site.tags | sort %}
 {% for tags in sorted_tags %}
 
-<section id="{{ tags[0] }}">
 
-  <h3> {{ tags[0] }}</h3>
+  <h3 id="{{ tags[0] }}" > {{ tags[0] }} </h3>
   
   	<ul>
 
@@ -82,7 +81,6 @@ Jump to:
 
   </ul>
 
-</section>  
   
 {% endfor %}
 
