@@ -45,17 +45,16 @@ I write a blog post for every class that includes an outline and/or image of the
 <p> </p> 
 
 
- <!-- {% assign sorted_tags = site.tags | sort %}
-{% assign unsorted_tags = site.tags %}
-{% for tags in unsorted_tags %}
--->
+{% assign sorted_tags = site.tags | sort %}
+{% for tags in sorted_tags %}
 
-{% for post in site.categories.yoga %}
 
-  <h3> {{ post[0] }} </h3>
+  <h3> {{ tags[0] }} </h3>
   
   	<ul>
-   
+
+    	{% for post in tags[1] %} 
+     
     	 <div class="row">
      	 <div class="column6"> 
       		<i> {{ post.date | date: '%B %-d, %Y' }} </i> •
@@ -69,6 +68,7 @@ I write a blog post for every class that includes an outline and/or image of the
 	 	</div>
 		</div>        
       
+    {% endfor %}
 
   </ul>
 
