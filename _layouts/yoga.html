@@ -47,6 +47,7 @@ I write a blog post for every class that includes an outline and/or image of the
 
 
 {% for categories in site.categories.yoga %}
+{% for post in categories[1] %}
   
   	<ul>
      
@@ -65,6 +66,7 @@ I write a blog post for every class that includes an outline and/or image of the
       
   </ul>
 
+{% endfor %}
 {% endfor %}
 
 
