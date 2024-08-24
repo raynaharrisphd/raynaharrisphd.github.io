@@ -23,6 +23,12 @@ categories: yoga
 
 <h2> Past Classes </h2>
 
+Jump to:
+
+<p id="Stand Up Paddle Yoga">Stand Up Paddle Yoga.</p>
+<p id="Yoga For Kids">Yoga For Kids.</p>
+<p id="Yoga at the Beach">Yoga at the Beach</p>
+
 
  <!-- Linked images -->
 
@@ -51,6 +57,7 @@ categories: yoga
 {% assign sorted_tags = site.tags | sort %}
 {% for tags in sorted_tags %}
 
+<section id={{ tags[0] }}>
 
   <h3> {{ tags[0] }}</h3>
   
@@ -74,6 +81,8 @@ categories: yoga
     {% endfor %}
 
   </ul>
+
+</section>  
   
 {% endfor %}
 
