@@ -26,6 +26,7 @@ I write a blog post for every class that includes an outline and/or image of the
 <p> <b> Stand Up Paddle Yoga · Yoga Retreats · Yoga at the Ritz · Yoga at the Beach Yoga with Kids · Training
 </b> </p>
 
+
  <!-- Linked images -->
 
 {% assign sorted_tags = site.tags | sort %}
@@ -36,7 +37,7 @@ I write a blog post for every class that includes an outline and/or image of the
         
 		{% if post.image != blank %}
 
-		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" width="19%"/> </a>                                                       
+		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" height="150"/> </a>                                                       
               
 		{% endif %}   
 
@@ -87,24 +88,3 @@ I write a blog post for every class that includes an outline and/or image of the
 
  <!-- Testing -->
 
-
- <!-- Linked images -->
-
-{% assign sorted_tags = site.tags | sort %}
-
-{% for tags in sorted_tags %}
-
-	{% for post in tags[1] %}
-        
-		{% if post.image != blank %}
-
-		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" height="100"/> </a>                                                       
-              
-		{% endif %}   
-
-	{% endfor %}
-  
-{% endfor %}
-
-
-<p> </p> 
