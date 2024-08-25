@@ -79,19 +79,3 @@ I write a blog post for every class that includes an outline and/or image of the
  <!-- Testing -->
 
 
-
-
-{% for post in site.pages %}
-    {% for tag in post.tags %}
-        {% assign tagcloud = tagcloud | append:tag | append:', ' %}
-    {% endfor %} 
-{% endfor %} 
-
-{% assign tagcloud = tagcloud | split:", " | uniq | sort %}
-
-{% for tag in tagcloud %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <div>
-        <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>
-    </div>
-{% endfor %}
