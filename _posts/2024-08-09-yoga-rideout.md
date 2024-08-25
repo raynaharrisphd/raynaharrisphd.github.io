@@ -5,7 +5,7 @@ date: 2024-08-09
 excerpt: "A mindfulness yoga class in Tahoe City, TA designed for a younger audience with a focus on movement, breath, and mindfulness." 
 description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
 categories: yoga
-tags: ['Yoga with Kids']
+tags: ['Courage Project']
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
 spotify: 3NVsjQ1BnCj5Qv3K5BWDaM
