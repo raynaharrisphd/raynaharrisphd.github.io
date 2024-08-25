@@ -110,7 +110,7 @@ I write a blog post for every class that includes an outline and/or image of the
 <!-- Test -->
 
 {% for p in site.categories.yoga %}
-  {% spotifyunique = p.spotify | uniq %}
+  {% assign spotifyunique = p.spotify | uniq %}
   
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ spotifyunique }}?utm_source=generator" width="30%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
 {% endfor %}
