@@ -107,16 +107,8 @@ I write a blog post for every class that includes an outline and/or image of the
 					</section>
 
 
-<!-- Spotify -->
+<!-- Test -->
 
-					<section class="posts">
-						{% for post in site.posts %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
-						
-						{% if post.spotify != blank %}
-						
-							<article>
-                
-        	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="95%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
- 
-</article>
+{% for p in site.tags.yoga %}
+  {{ p.url }}
+{% endfor %}
