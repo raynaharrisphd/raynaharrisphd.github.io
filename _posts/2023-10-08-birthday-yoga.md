@@ -2,11 +2,11 @@
 layout: post
 title: "Birthday Beach Yoga and Breathwork"
 date: 2023-10-08
-excerpt: "For my 40th birthday I organized a beach yoga class. The playlist was designed to bring awareness to the breath and the beauty of nature. It was awesome!"
+excerpt: "For my 40th birthday I organized a beach yoga class. I wasn't a certified instructor yet, but I had started my training. The playlist was designed to bring awareness to the breath and the beauty of nature. It was awesome!"
 org: "Me!"
 orgurl: "https://www.raynaharris.com/yoga/"
 categories: yoga
-tags: ['Yoga on the Beach']
+tags: ['Training']
 spotify: 2rf0dgJFl3iaoMGyjNXfpX
 image: "/images/yoga/birthday.png" 
 ---
