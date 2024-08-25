@@ -88,20 +88,18 @@ I write a blog post for every class that includes an outline and/or image of the
 						{% if post.spotify != blank %}
 						
 							<article>
-								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-								</header>
-							
-								<p>{{ post.excerpt }}</p>
-								
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-								
-								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-								</ul>
-							</article>
-							
+    	 <div class="row">
+     	 <div class="column6"> 
+      		<i> {{ post.date | date: '%B %-d, %Y' }} </i> •
+        	<b> <a href="{{ post.url }}"> {{ post.title }}</a> </b>
+        	{{ post.excerpt }} 
+        </div>
+  
+       	<div class="column7">                   
+        	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="95%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+ 
+	 	</div>
+		</div>  							
 							
 							{% endif %}
 							
