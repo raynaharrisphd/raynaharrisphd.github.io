@@ -110,7 +110,7 @@ I write a blog post for every class that includes an outline and/or image of the
 <!-- Spotify -->
 
 {% assign sorted_playlists = site.spotify | sort %}  
-{% for playlist in sorted_playlists reversed %}  <!-- reverse -->
+{% for playlist in sorted_playlists %}  <!-- reverse -->
 
 
     	{% for post in playlist[1] %} 
