@@ -79,3 +79,33 @@ I write a blog post for every class that includes an outline and/or image of the
 
  <!-- Testing -->
 
+
+<!-- Post -->
+					<section class="posts">
+						{% for post in site.posts %}
+						{% assign mod3 = forloop.index | modulo: 3 %}
+							<article>
+								<header>
+									<span class="date">{{ post.date | date_to_string }}</span>
+									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+								</header>
+							
+								<p>{{ post.excerpt }}</p>
+								
+								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								
+								<ul class="actions">
+									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+								</ul>
+							</article>
+							{% if mod3 == 0 %}
+							<article>
+								<header>
+									<h2><a href="#">Sponsored</a></h2>
+								</header>
+
+							</article>
+							{% endif %}
+						{% endfor %}
+
+					</section>
