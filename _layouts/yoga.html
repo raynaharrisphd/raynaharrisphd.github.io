@@ -72,7 +72,6 @@ I write a blog post for every class that includes an outline and/or image of the
 
   </ul>
 
-  
 {% endfor %}
 
 
@@ -106,3 +105,20 @@ I write a blog post for every class that includes an outline and/or image of the
 						{% endfor %}
 
 					</section>
+
+
+<!-- Spotify -->
+
+{% assign sorted_playlists = site.spotify | sort %}  
+{% for playlist in sorted_playlists reversed %}  <!-- reverse -->
+
+
+    	{% for post in tags[1] %} 
+                      
+        	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+        
+      
+    {% endfor %}
+
+
+{% endfor %}
