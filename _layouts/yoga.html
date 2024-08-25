@@ -85,7 +85,7 @@ I write a blog post for every class that includes an outline and/or image of the
 						{% for post in site.posts %}
 						{% assign mod3 = forloop.index | modulo: 3 %}
 						
-						{% if spotify != blank %}
+						{% if post.spotify != blank %}
 						
 							<article>
 								<header>
