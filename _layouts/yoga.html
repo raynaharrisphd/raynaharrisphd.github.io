@@ -110,7 +110,7 @@ I write a blog post for every class that includes an outline and/or image of the
 <!-- Test -->
 
 {% for p in site.categories.yoga %}
-{% assign spotifyunique = p.spotify | uniq %}
+{% assign spotifyunique = p.spotify | split: ' ' | uniq %}
 
 {{ spotifyunique }}
   
