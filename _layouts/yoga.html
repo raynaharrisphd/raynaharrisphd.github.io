@@ -27,9 +27,8 @@ I write a blog post for every class that includes an outline of the sequence, a 
 
  <!-- Linked images -->
 
-{% assign sorted_tags = site.tags | sort %}
-
-{% for tags in sorted_tags %}
+<!--{% assign sorted_tags = site.tags | sort %}  -->
+{% for tags in site.tags reversed %}  <!-- reverse -->
 
 	{% for post in tags[1] %}
         
