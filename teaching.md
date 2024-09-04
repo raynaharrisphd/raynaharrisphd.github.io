@@ -23,12 +23,12 @@ sitemap:
 
 ### Lake Tahoe Community College (LTCC)
 
-- Human Anatomy and Physiology Lab, Fall 2024
-- Dual Credit Chemistry, LTCC, Fall 2024
+- Human Anatomy and Physiology Lab (BIO 203), Fall 2024
+- Dual Credit Chemistry (CHM 100), LTCC, Fall 2024
 - Introduction to Cell and Molecular Biology Lab, Spring 2024
-- Organic Chemistry III Lab (CHM-223L), Spring 2023, [Lab materials](https://osf.io/qb2tu/)
-- Introduction to Cell and Molecular Biology, Spring 2023, [Lecture materials](https://osf.io/tk9y8/)
-- Principles of Biology III (BIO-103-01), Winter 2023, [Lecture materials](https://osf.io/aq5ek/)
+- Organic Chemistry III Lab (CHM 223L), Spring 2023, [Lab materials](https://osf.io/qb2tu/)
+- Introduction to Cell and Molecular Biology (BIO 110), Spring 2023, [Lecture materials](https://osf.io/tk9y8/)
+- Principles of Biology III (BIO 103), Winter 2023, [Lecture materials](https://osf.io/aq5ek/)
 
 
 ### University of California, Davis (UC Davis)
