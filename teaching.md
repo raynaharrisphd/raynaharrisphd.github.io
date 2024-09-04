@@ -66,7 +66,3 @@ sitemap:
 - Problems in Modern Biology (BIO 301E), 2013
 - Organic Chemistry Laboratory (CH 210C), 2007-2009 
 - Advanced Organic Chemistry Laboratory (CH 118K/L),2007 
-
-
-
-
