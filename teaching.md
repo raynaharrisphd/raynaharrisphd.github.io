@@ -13,12 +13,13 @@ sitemap:
 
 ### Tahoe Flow Arts & Fitness 
 
+- Yoga at the Ritz, Fall 2024 [Resources](https://www.raynaharris.com/yoga/)
 - Stand Up Paddle Yoga, Summer 2024 [Resources](https://www.raynaharris.com/yoga/)
 - Yoga on the Beach, Summer 2024 [Resources](https://www.raynaharris.com/yoga/)
 
-### The Courage Projects
+### The Courage Project
 
-- Mindfull Yoga for Kids, Summers 2023 - 2024
+- Mindfull Yoga, Summers 2023 - 2024
 
 ### Lake Tahoe Community College (LTCC)
 
