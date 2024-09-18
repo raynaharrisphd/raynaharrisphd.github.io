@@ -9,7 +9,7 @@ tags: ['Courage Project', 'Yoga Retreats']
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
 spotify: 5V9mKNNloT1csB8ziH7vjB
-image: "/images/yoga/IMG_0078.png" 
+image: "/images/yoga/mspe.png" 
 ---
 
 
