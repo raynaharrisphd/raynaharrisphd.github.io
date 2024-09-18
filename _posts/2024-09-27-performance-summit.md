@@ -25,21 +25,21 @@ image: "/images/yoga/mspe.png"
 **With:** [{{page.org}}]({{page.orgurl}})     
 
 
- ## Mindful Yoga Flow
+## Mindful Yoga Flow
  
 As part of the [2024 Lake Tahoe Performance Summit](https://www.eventbrite.com/e/2024-lake-tahoe-performance-summit-tickets-876987381867?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) I am teaching a 30 minute Mindful Yoga Flow that is inspired by the book [Mindful Sport Performance Enhancement](https://www.mindfulsportperformance.org/book). I have incorporated the script for mediation and breath-work, but I have modified the suggested asanas to created a sequence with standing poses only. Below is an outline of the flow and the accompanying Spotify playlist.
 
 
 | **Yoga**                      | **Song**                |
 | ----------------------------- | ----------------------- |
-| Setup                         | Practice Makes Progress |
-|                               | 528 Hz Dreaming         |
-|                               | 852 Hz Clarity          |
+| _Setup_                       | Practice Makes Progress |
+| _2 minutes to start_          | 528 Hz Dreaming         |
+| _1 minute to start_           | 852 Hz Clarity          |
 | Welcome                       | 963 Hz Self Limits      |
 | Breath-work                   | 396 Hz Clarity          |
 | Full Body Scan Mediation      | Tension in the Stars    |
-| Neck Circles                  | Wonders                 |
-| Cactus Arm Curls + Twists     | Kusanagi                |
+| Neck & Shoulder Circles       | Wonders                 |
+| Arm Lifts + Curls + Twists    | Kusanagi                |
 | High Lunge L                  | Chillin                 |
 | High Lunge R                  | Explosive               |
 | Warrior II L                  | Sun & Sea               |
