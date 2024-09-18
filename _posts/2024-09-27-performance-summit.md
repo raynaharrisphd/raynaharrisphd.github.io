@@ -22,7 +22,7 @@ image: "/images/yoga/mspe.png"
 **When:** Friday, September 27 · 8am - 3:30pm PDT        
 **Where:** Everline Resort and Spa, Olympic Valley CA        
 **Description:** {{ page.description }}              
-**With:** [{{page.org}}]({{page.orgurl}})     
+**Organized By:** [{{page.org}}]({{page.orgurl}})     
 
 
 ## Mindful Yoga Flow
@@ -30,7 +30,7 @@ image: "/images/yoga/mspe.png"
 As part of the [2024 Lake Tahoe Performance Summit](https://www.eventbrite.com/e/2024-lake-tahoe-performance-summit-tickets-876987381867?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) I am teaching a 30 minute Mindful Yoga Flow that is inspired by the book [Mindful Sport Performance Enhancement](https://www.mindfulsportperformance.org/book). I have incorporated the script for mediation and breathing, but I have modified the suggested asanas to created a sequence with standing poses only. Below is an outline of the flow and the accompanying Spotify playlist.
 
 
-| **Yoga**                      | **Song**                |
+| **Yoga**                      | **Music**               |
 | ----------------------------- | ----------------------- |
 | _Setup_                       | Practice Makes Progress |
 | _2 minutes to start_          | 528 Hz Dreaming         |
@@ -45,7 +45,7 @@ As part of the [2024 Lake Tahoe Performance Summit](https://www.eventbrite.com/e
 | Warrior II L                  | Sun & Sea               |
 | Warrior II R                  | Quiet                   |
 | Figure 4 + 1 Leg Tadasana     | Waves                   |
-| Forward Ben + Full Body Scan  | Starscape               |
+| Forward Bend + Full Body Scan | Starscape               |
 | Namaste                       | Silence                 |
 
 ## Spotify Playlist
