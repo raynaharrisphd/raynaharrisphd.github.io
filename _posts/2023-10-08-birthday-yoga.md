@@ -6,7 +6,7 @@ excerpt: "For my 40th birthday I organized a beach yoga class. I wasn't a certif
 org: "Me!"
 orgurl: "https://www.raynaharris.com/yoga/"
 categories: yoga
-tags: ['Yoga Retreats']
+tags: training
 spotify: 2rf0dgJFl3iaoMGyjNXfpX
 image: "/images/yoga/birthday.png" 
 ---
