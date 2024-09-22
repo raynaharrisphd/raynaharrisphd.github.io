@@ -29,10 +29,10 @@ As part of the [2024 Lake Tahoe Performance Summit](https://www.eventbrite.com/e
 
 | **Yoga**                      | **Music**               |
 | ----------------------------- | ----------------------- |
-| _Setup_                       | Practice Makes Progress |
+| _5 minutes to start_          | Practice Makes Progress |
 | _2 minutes to start_          | 528 Hz Dreaming         |
 | _1 minute to start_           | 852 Hz Clarity          |
-| Welcome                       | 963 Hz Self Limits      |
+| Welcome _(8:33 am)_           | 963 Hz Self Limits      |
 | Breathing + Grounding         | 396 Hz Clarity          |
 | Full Body Scan Mediation      | Tension in the Stars    |
 | Neck & Shoulder Circles       | Wonders                 |
