@@ -24,7 +24,7 @@ image: "/images/yoga/mspe.png"
 
 ## Mindful Yoga Flow
  
-As part of the [2024 Lake Tahoe Performance Summit](https://www.eventbrite.com/e/2024-lake-tahoe-performance-summit-tickets-876987381867?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) I am teaching a 30 minute Mindful Yoga Flow that is inspired by the book [Mindful Sport Performance Enhancement](https://www.mindfulsportperformance.org/book). I have incorporated the script for mediation and breathing, but I have modified the suggested asanas to created a sequence with standing poses only. Below is an outline of the flow and the accompanying Spotify playlist.
+As part of the [2024 Lake Tahoe Performance Summit](https://www.eventbrite.com/e/2024-lake-tahoe-performance-summit-tickets-876987381867?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl). The Mindful Sport Performance Enhancement (MSPE) exercises that inspired this flow are described in detail in [this book](https://www.mindfulsportperformance.org/book), and [audio recordings are available here](https://www.mindfulsportperformance.org/resources). 
 
 
 | **Yoga**                      | **Music**               |
@@ -33,7 +33,7 @@ As part of the [2024 Lake Tahoe Performance Summit](https://www.eventbrite.com/e
 | _2 minutes to start_          | 528 Hz Dreaming         |
 | _1 minute to start_           | 852 Hz Clarity          |
 | Welcome _(8:33 am)_           | 963 Hz Self Limits      |
-| Breathing + Grounding         | 396 Hz Clarity          |
+| Centering                     | 396 Hz Clarity          |
 | Full Body Scan Mediation      | Tension in the Stars    |
 | Neck & Shoulder Circles       | Wonders                 |
 | Arm Curls + Twists            | Kusanagi                |
@@ -63,8 +63,6 @@ The goal of this practice to is to developed greater awareness of our bodies rat
 ### Centering
 
 Let's begin to a comfortable standing or seated position. You may close your eyes or leave them open slightly, and turn your attention inward. Take a deep breath in. As you exhale feel feel or your sit bones ground into the surface below you. Continue breathing. Place one hand on your belly and one hand on your hearth. Notice the sensation of your chest and belly expanding with each inhale and falling with each exhale. Deepen your breath by counting to five on your inhales and exhales. 
-
-### Intention
 
 Lift your arms high over head for a big good morning stretch, then bring your hands together in front of your heart, palms touch. Take a moment to set and intension for your practice today, such as non-judgmentally listening to your body or being fully present with your thoughts. 
 
@@ -111,10 +109,3 @@ Gently close your eyes or soften your gase. Perform a _full body scan meditation
 
 Where ever you are, bring your attention to your heart center, and bring your palms to touch at heart center. The light in me acknowledges and honors the light in you. Thank you being here today to practice yoga and learn more about your body and mind and to share your experiences with this beautiful community. _Namaste_. 
 
-
-## MSPE Resources
-
-The Mindful Sport Performance Enhancement (MSPE) exercises that inspired this flow are described in detail in [this book](https://www.mindfulsportperformance.org/book), and [audio recordings are available here](https://www.mindfulsportperformance.org/resources). 
-
- 
-- 
