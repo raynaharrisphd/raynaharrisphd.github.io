@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024 Lake Tahoe Performance Summit"
-date: 2024-09-23
+date: 2024-09-27
 excerpt: "A 30-minute mediation and yoga flow for mindful sport performance enhancement." 
 description: "This interactive, experiential workshop will provide exposure to the educational content and mindfulness exercises that comprise a leading, evidence-informed, mental training program: Mindful Sport Performance Enhancement (Kaufman, Glass & Pineau, 2018). Participants will gain a deeper understanding of the theoretical and empirical basis of MSPE, factors relevant to its application across diverse populations and settings, and limitations of this research and future directions. Dr. Kaufman will present key strategies for integrating core mindfulness skills into practice, competition, and daily life. During a catered, working lunch, a moderated, multi-disciplinary panel will discuss factors related to sport performance from the sport science, coach, and athlete perspectives. Participants will gain hands-on, experiential instruction in MSPE concepts and practices via participation in an in-vivo, mindful yoga practice and a guided, mindful hike in the picturesque Olympic Valley."
 categories: yoga
