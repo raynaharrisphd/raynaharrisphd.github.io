@@ -52,7 +52,7 @@ As part of the [2024 Lake Tahoe Performance Summit](https://www.eventbrite.com/e
 
 ## Script
 
-### Welcome (Brie?)
+### Welcome
 
 Dr Rayna Harris is a biology professor and a yoga instructor with the Courage Project and Tahoe Flow Arts Fitness. She will lead today's yoga session.
 
@@ -107,3 +107,8 @@ Gently close your eyes or soften your gaze. Perform a _full body scan meditation
 
 Wherever you are, bring your attention to your heart center, and bring your palms to touch at heart center. The light in me acknowledges and honors the light in you. Thank you for practicing yoga today. _Namaste_. 
 
+## Post-class Feedback
+
+The yoga was excellent! It was outside on this astroturf green space in the Everline Resort courtyard. There was a huge manmade waterfall that sounded awesome, so I opted to not use a playlist. It was little brisk (maybe 55 degrees), and the sun wasn't out, so I skipped some of the slower neck warmups and got into the larger movements to warm up our bodies. There were 30-40 people in attendance, and it was so awesome to hear them talking to each other and sharing their experiences in each pose. 
+
+I got some great feedback from attendees. My friend said the class few by and was really fun and integrated very well with the rest of the conference. A college form Tahoe Flow really connected with the part about how we do often tell people what to feel, and it was nice to hear different peoples experiences. Brie, the organizer, was super happy with how it turned out. 10 out of 10!
