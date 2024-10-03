@@ -2,7 +2,7 @@
 layout: post
 title: "Birthday Yoga"
 date: 2024-10-3
-excerpt: "This is a private class for a group of celebrating a friend's 40th birthday. They requested a light flow ending with a nice restorative savasana."
+excerpt: "This is a private class for a group of celebrating a friend's 40th birthday. They requested a light flow ending with a nice restorative savasana. The class begins with writing 12 affirmation statements, breath-work, and a birthday meditation. After a brief warm-up, we do sun salutations and add in the 12 affirmations statements as mantras. This is followed by a series of standing poses to build strength, flexibility, and balance. After a little core-work, we cool down, relax, and end with a juicy savasana."
 categories: yoga
 tags: ['Yoga on the Beach']
 org: "Tahoe Flow Arts and Fitness"
@@ -17,6 +17,12 @@ spotify: 3Mt7tfRxJqZ33Lxb292hTi
 **When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 11 AM - 12:15 PM   
 **Where:** Mourelatos Lake Shore Resort, Tahoe Vista   
 **With:** [{{page.org}}]({{page.orgurl}})
+**Description:** {{ page.excerpt }}  
+
+## Spotify Playlist
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+
 
 ## Class Outline
 
@@ -35,6 +41,7 @@ spotify: 3Mt7tfRxJqZ33Lxb292hTi
 - Sun Salutation
 	- Once with Cues
 	- Once with Affirmations
+	- Flow on Your Own
 - Standing Poses
 	- Warrior I Flow
 	- Warrior II Flow
@@ -52,9 +59,4 @@ spotify: 3Mt7tfRxJqZ33Lxb292hTi
 	- Happy Baby
 	- Savasana
 - Closing	
-
-
-## Spotify Playlist
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
