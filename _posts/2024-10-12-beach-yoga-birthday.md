@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yoga on the Beach - Birthday Yoga"
-date: 2024-10-04
+date: 2024-10-05
 excerpt: "This is a private class for a group of celebrating a friend's 40th birthday. They requested a light flow ending with a nice restorative savasana. The class begins with writing 12 affirmation statements, breath-work, and a birthday meditation. After a brief warm-up, we do sun salutations and add in the 12 affirmations statements as mantras. This is followed by a series of standing poses to build strength, flexibility, and balance. After a little core-work, we cool down, relax, and end with a juicy savasana."
 categories: yoga
 tags: ['Yoga on the Beach']
@@ -30,7 +30,7 @@ spotify: 3Mt7tfRxJqZ33Lxb292hTi
 * Write Affirmations
 * Centering 
 	* Birthday Meditation (see script below)
-	* Breath-work
+	* Breath-work (4 and 8 counts)
 * Warm Up
 	* Neck and Shoulder Circles and Twists
 	* Seated Forward Bends
@@ -58,7 +58,11 @@ spotify: 3Mt7tfRxJqZ33Lxb292hTi
 	* Reclined Twists
 	* Happy Baby
 	* Gratitude Savasana
-* Closing	
+	* Fetal Position (Thank You Mom)
+* Closing 
+	* Birthday Candel Visualization
+	* The Light in Me Honors the Light in You
+	* Namaste
 
 
 ## Birthday Meditation Script
@@ -97,7 +101,7 @@ PAUSE…
 
 The people that have loved you,
 
-And those you’ve [so] held dear.
+And those you’ve held [so] dear.
 
 Have [pried] your heart [wide] open,
 
