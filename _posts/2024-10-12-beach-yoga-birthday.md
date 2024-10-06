@@ -99,7 +99,7 @@ The people that have loved you,
 
 And those you’ve [so] held dear.
 
-Have [pried] your heart open,
+Have [pried] your heart [wide] open,
 
 And expanded your love past fear.
 
@@ -111,7 +111,7 @@ Just one year ago.
 
 [You are] so much wiser now,
 
-The year has [about a] glow.
+The year has [brought about a] glow.
 
 PAUSE…
 
@@ -145,7 +145,7 @@ Right here and now is where you belong.
 
 PAUSE…
 
-Happy birthday, beautiful,
+[Alive and breathing],
 
 Celebrate this chance to be,
 
