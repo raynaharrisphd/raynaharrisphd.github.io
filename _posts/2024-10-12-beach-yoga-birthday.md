@@ -26,37 +26,37 @@ spotify: 3Mt7tfRxJqZ33Lxb292hTi
 
 ## Class Outline
 
-- Welcome
-- Write Affirmations
-- Centering 
-	- Birthday Meditation
-	- Breath-work
-- Warm Up
-	- Neck and Shoulder Circles and Twists
-	- Seated Forward Bends
-	- One Leg Forward Bend 
-	- Cat + Cow
-	- Childs Pose + Cobra + Childs Pose
-	- Down Dog + Bear Pose Flow
-- Sun Salutation
-	- Once with Cues
-	- Once with Affirmations
-	- Flow on Your Own
-- Standing Poses   
-	- Warrior I Flow
-	- Warrior II Flow
-	- Goddess + Wide Leg Forward Fold
-	- Warrior III + Standing Split
-	- Tree Pose
-- Core Work   
- 	- Boat (Count to 40)
- 	- Bow or Swimmer
- 	- Bridge + 1 Leg Lifts
-- Relaxation
-	- Legs Up Wall
-	- Knees to Chest
-	- Reclined Twists
-	- Happy Baby
-	- Gratitude Savasana
-- Closing	
+* Welcome
+* Write Affirmations
+* Centering 
+	* Birthday Meditation
+	* Breath-work
+* Warm Up
+	* Neck and Shoulder Circles and Twists
+	* Seated Forward Bends
+	* One Leg Forward Bend 
+	* Cat + Cow
+	* Childs Pose + Cobra + Childs Pose
+	* Down Dog + Bear Pose Flow
+* Sun Salutation
+	* Once with Cues
+	* Once with Affirmations
+	* Flow on Your Own
+* Standing Poses   
+	* Warrior I Flow
+	* Warrior II Flow
+	* Goddess + Wide Leg Forward Fold
+	* Warrior III + Standing Split
+	* Tree Pose
+* Core Work   
+ 	* Boat (Count to 40)
+ 	* Bow or Swimmer
+ 	* Bridge + 1 Leg Lifts
+* Relaxation
+	* Legs Up Wall
+	* Knees to Chest
+	* Reclined Twists
+	* Happy Baby
+	* Gratitude Savasana
+* Closing	
 
