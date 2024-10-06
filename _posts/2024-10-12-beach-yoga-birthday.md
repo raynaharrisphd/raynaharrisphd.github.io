@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Birthday Yoga"
+title: "Yoga on the Beach - Birthday Yoga"
 date: 2024-10-04
 excerpt: "This is a private class for a group of celebrating a friend's 40th birthday. They requested a light flow ending with a nice restorative savasana. The class begins with writing 12 affirmation statements, breath-work, and a birthday meditation. After a brief warm-up, we do sun salutations and add in the 12 affirmations statements as mantras. This is followed by a series of standing poses to build strength, flexibility, and balance. After a little core-work, we cool down, relax, and end with a juicy savasana."
 categories: yoga
@@ -49,9 +49,9 @@ spotify: 3Mt7tfRxJqZ33Lxb292hTi
 	* Warrior III + Standing Split
 	* Tree Pose
 * Core Work   
- 	* Boat (Count to 40)
- 	* Bow or Swimmer
- 	* Bridge + 1 Leg Lifts
+	* Boat (Count to 40)
+	* Bow or Swimmer
+	* Bridge + 1 Leg Lifts
 * Relaxation
 	* Legs Up Wall
 	* Knees to Chest
