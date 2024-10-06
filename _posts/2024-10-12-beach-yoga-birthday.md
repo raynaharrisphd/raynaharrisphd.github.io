@@ -29,7 +29,7 @@ spotify: 3Mt7tfRxJqZ33Lxb292hTi
 * Welcome
 * Write Affirmations
 * Centering 
-	* Birthday Meditation
+	* Birthday Meditation (see script below)
 	* Breath-work
 * Warm Up
 	* Neck and Shoulder Circles and Twists
@@ -60,3 +60,99 @@ spotify: 3Mt7tfRxJqZ33Lxb292hTi
 	* Gratitude Savasana
 * Closing	
 
+
+## Birthday Meditation Script
+
+_Adapted from the [Women's Meditation Network](https://womensmeditationnetwork.com/happy-birthday-guided-meditation-mfw/) Guided Birthday Meditation._
+
+Today we pause to honor,
+
+The person that you are,
+
+The journey you have taken,
+
+Has brought you oh so far.
+
+PAUSE…
+
+The ups and downs,
+
+And everything in between,
+
+[Have evolved you into]
+
+A luminous queen.
+
+PAUSE…
+
+The lessons from the failures,
+
+And pain from all the nos,
+
+Have made you quite resilient,
+
+Kept you [on] your toes.
+
+PAUSE…
+
+The people that have loved you,
+
+And those you’ve [so] held dear.
+
+Have [pried] your heart open,
+
+And expanded your love past fear.
+
+PAUSE…
+
+Think about the [woman] you were,
+
+Just one year ago.
+
+[You are] so much wiser now,
+
+The year has [about a] glow.
+
+PAUSE…
+
+You may not be where you want,
+
+You may have shifts to make.
+
+That’s part of what makes you you,
+
+Always growing for your own sake.
+
+PAUSE…
+
+So on this special day,
+
+Feel the love [and light] within you [shine].
+
+[And know you warm the hearts of others],
+
+[Just like a beautiful ray of sunshine].
+
+LONG PAUSE…
+
+So breathe in deep,
+
+And breathe out long.
+
+[Accept] yourself [in the moment],
+
+Right here and now is where you belong.
+
+PAUSE…
+
+Happy birthday, beautiful,
+
+Celebrate this chance to be,
+
+Fully and completely you,
+
+Wild, magical, and free.
+
+PAUSE…
+
+Happy 40th Birthday, Kateryna.
