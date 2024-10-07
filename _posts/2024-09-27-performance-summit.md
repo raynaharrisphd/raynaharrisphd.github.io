@@ -9,7 +9,7 @@ tags: ['Courage Project']
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
 spotify: 5V9mKNNloT1csB8ziH7vjB
-image: "/images/yoga/mspe.png" 
+image: "/images/yoga/summit.jpg" 
 ---
 
 ## Details
