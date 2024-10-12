@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yoga for La Fuera Latina Summer Retreat at Frog Lake"
+title: "Yoga for La Fuerza Latina Summer Retreat at Frog Lake"
 date: 2024-08-7
 excerpt: "A three hour yoga workshop on mindfulness, meditation, mantras, breathwork, and asanas designed for an amazing group of current and former Truckee High School students."
 categories: yoga
