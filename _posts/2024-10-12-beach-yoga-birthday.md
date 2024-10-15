@@ -29,38 +29,38 @@ image: "images/yoga/kateryna.png"
 
 ## Class Outline (Songs)
 
-* Welcome (**Wonders**)
-* Write Affirmations  (**Tension in the Stars**)
-* Centering (**396 Hz, The Light**)
+* Welcome (*Wonders*)
+* Write Affirmations  (*Tension in the Stars*)
+* Centering (*396 Hz, The Light*)
 	* Birthday Meditation  _see script below_
 	* Breath-work  
-* Warm Up (**Kusangi, Quiet, August 10, Solar**)
+* Warm Up (*Kusangi, Quiet, August 10, Solar*)
 	* Neck and Shoulder Circles and Twists
 	* Seated Forward Bends
 	* One Leg Forward Bend 
 	* Cat + Cow
 	* Childs Pose + Cobra + Childs Pose
 	* Down Dog + Bear Pose Flow
-* Sun Salutation (**Hari Om**)
+* Sun Salutation (*Hari Om*)
 	* Once with Cues
 	* Once with Affirmations
 	* Flow on Your Own
-* Standing Poses  (**Feeling Good, Colors, 6s to 9s, Happiness**)  
+* Standing Poses  (*Feeling Good, Colors, 6s to 9s, Happiness*)  
 	* Warrior I Flow
 	* Warrior II Flow
 	* Goddess + Wide Leg Forward Fold
 	* Warrior III + Standing Split
 	* Tree Pose
-* Core Work (**Evan Finds the 3rd Room**)  
+* Core Work (*Evan Finds the 3rd Room*)  
 	* Boat pose variations
 	* Bow or Swimmer
 	* Bridge + 1 Leg Lifts
-* Relaxation (**Fantasy, Fade into You, Cold Spring**)
+* Relaxation (*Fantasy, Fade into You, Cold Spring*)
 	* Legs Up Wall
 	* Knees to Chest
 	* Reclined Twists
 	* Happy Baby
-* Closing (**Thank You, Silence**)
+* Closing (*Thank You, Silence*)
 	* Gratitude Savasana
 	* Birthday Candel Visualization
 	* The Light in Me Honors the Light in You
