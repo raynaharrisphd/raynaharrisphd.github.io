@@ -28,42 +28,41 @@ image: "images/yoga/kateryna.png"
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
 
-## Class Outline
+## Class Outline (Songs)
 
-* Welcome
-* Write Affirmations
-* Centering 
-	* Birthday Meditation (see script below)
-	* Breath-work (4 and 8 counts)
-* Warm Up
+* Welcome (**Wonders**)
+* Write Affirmations  (**Tension in the Stars**)
+* Centering (**396 Hz, The Light**)
+	* Birthday Meditation  
+	* Breath-work  
+* Warm Up (**Kusangi, Quiet, August 10, Solar**)
 	* Neck and Shoulder Circles and Twists
 	* Seated Forward Bends
 	* One Leg Forward Bend 
 	* Cat + Cow
 	* Childs Pose + Cobra + Childs Pose
 	* Down Dog + Bear Pose Flow
-* Sun Salutation
+* Sun Salutation (**Hari Om**)
 	* Once with Cues
 	* Once with Affirmations
 	* Flow on Your Own
-* Standing Poses   
+* Standing Poses  (**Feeling Good, Colors, 6s to 9s, Happiness**)  
 	* Warrior I Flow
 	* Warrior II Flow
 	* Goddess + Wide Leg Forward Fold
 	* Warrior III + Standing Split
 	* Tree Pose
-* Core Work   
-	* Boat (Count to 40)
+* Core Work (Evan Finds the 3rd Room)  
+	* Boat pose variations
 	* Bow or Swimmer
 	* Bridge + 1 Leg Lifts
-* Relaxation
+* Relaxation (Fantasy, Fade into You, Cold Spring )
 	* Legs Up Wall
 	* Knees to Chest
 	* Reclined Twists
 	* Happy Baby
+* Closing (Thank You, Silence)
 	* Gratitude Savasana
-	* Fetal Position (Thank You Mom)
-* Closing 
 	* Birthday Candel Visualization
 	* The Light in Me Honors the Light in You
 	* Namaste
