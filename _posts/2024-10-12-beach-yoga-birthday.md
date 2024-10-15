@@ -29,6 +29,7 @@ image: "images/yoga/kateryna.png"
 
 ## Class Outline (Songs)
 
+* Setup (*Affirmations, Chillin*)
 * Welcome (*Wonders*)
 * Write Affirmations  (*Tension in the Stars*)
 * Centering (*396 Hz, The Light*)
