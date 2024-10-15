@@ -46,15 +46,15 @@ I write a blog post for every class that includes an outline of the sequence, a 
 <p> </p> 
 
 
-<!--{% assign sorted_tags = site.tags | sort %}  -->
+<!--{% assign sorted_tags = site.tags | sort %}  <!--
 {% for tags in site.tags reversed %}  <!-- reverse -->
 
 
-  <h3> {{ tags[0] }} </h3>
+ <!-- <h3> {{ tags[0] }} </h3> -->
   
   	<ul>
 
-    	{% for post in tags[1] %} 
+    	 <!-- {% for post in tags[1] %}   -->
      
     	 <div class="row">
      	 <div class="column6"> 
@@ -69,7 +69,7 @@ I write a blog post for every class that includes an outline of the sequence, a 
 	 	</div>
 		</div>        
       
-    {% endfor %}
+    <!--  {% endfor %} -->
 
   </ul>
 
