@@ -52,16 +52,16 @@ image: "images/yoga/kateryna.png"
 	* Goddess + Wide Leg Forward Fold
 	* Warrior III + Standing Split
 	* Tree Pose
-* Core Work (Evan Finds the 3rd Room)  
+* Core Work (**Evan Finds the 3rd Room**)  
 	* Boat pose variations
 	* Bow or Swimmer
 	* Bridge + 1 Leg Lifts
-* Relaxation (Fantasy, Fade into You, Cold Spring )
+* Relaxation (**Fantasy, Fade into You, Cold Spring**)
 	* Legs Up Wall
 	* Knees to Chest
 	* Reclined Twists
 	* Happy Baby
-* Closing (Thank You, Silence)
+* Closing (**Thank You, Silence**)
 	* Gratitude Savasana
 	* Birthday Candel Visualization
 	* The Light in Me Honors the Light in You
