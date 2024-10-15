@@ -17,10 +17,10 @@ image: "images/yoga/kateryna.png"
 ## Details
 
 **When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 11 AM - 12:15 PM   
-**Where:** Mourelatos Lake Shore Resort, Tahoe Vista   
-**With:** [{{page.org}}]({{page.orgurl}})
+**Where:** Mourelatos Lake Shore Resort, Tahoe Vista      
+**With:** [{{page.org}}]({{page.orgurl}})    
 **Description:** {{ page.excerpt }}  
-**Theme:** {{ page.excerpt }}         
+**Theme:** {{ page.excerpt }}             
 
 
 ## Spotify Playlist
