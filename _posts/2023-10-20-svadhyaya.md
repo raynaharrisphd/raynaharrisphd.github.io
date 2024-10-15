@@ -8,8 +8,8 @@ tags: training
 categories: yoga
 org: "Palisades Yoga"
 orgurl: "https://palisadesyoga.com/"
-image: "/images/yoga/SuryaNamaskar.gif" 
 ---
+
 
 _"Study thy self, discover the divine." — Patanjali’s Yogasutra, II.44_
 
@@ -42,6 +42,7 @@ The mantra "Om shanti shanti shanti om" means "peace peace peace". Shanti is rep
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2vF8jBosLcL5E4AYbLO8wM?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+<img src="/images/yoga/SuryaNamaskar.gif" alt="review" width="50%" align="center"/>
 
 
 _The gif is from <https://www.artofliving.org/us-en/yoga/poses/sun-salutation>._
