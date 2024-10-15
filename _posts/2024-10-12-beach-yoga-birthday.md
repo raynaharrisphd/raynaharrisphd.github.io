@@ -33,7 +33,7 @@ image: "images/yoga/kateryna.png"
 * Welcome (**Wonders**)
 * Write Affirmations  (**Tension in the Stars**)
 * Centering (**396 Hz, The Light**)
-	* Birthday Meditation  
+	* Birthday Meditation  _see script below_
 	* Breath-work  
 * Warm Up (**Kusangi, Quiet, August 10, Solar**)
 	* Neck and Shoulder Circles and Twists
