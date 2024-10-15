@@ -33,7 +33,7 @@ image: "images/yoga/kateryna.png"
 * Welcome (*Wonders*)
 * Write Affirmations  (*Tension in the Stars*)
 * Centering (*396 Hz, The Light*)
-	* Birthday Meditation  _see script below_
+	* Birthday Meditation (see script below)
 	* Breath-work  
 * Warm Up (*Kusangi, Quiet, August 10, Solar*)
 	* Neck and Shoulder Circles and Twists
@@ -48,8 +48,7 @@ image: "images/yoga/kateryna.png"
 	* Flow on Your Own
 * Standing Poses  (*Feeling Good, Colors, 6s to 9s, Happiness*)  
 	* Warrior I Flow
-	* Warrior II Flow
-	* Goddess + Wide Leg Forward Fold
+	* Warrior II Flow + Goddess + Wide Leg Forward Fold
 	* Warrior III + Standing Split
 	* Tree Pose
 * Core Work (*Evan Finds the 3rd Room*)  
