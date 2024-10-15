@@ -30,7 +30,7 @@ I write a blog post for every class that includes an outline of the sequence, a 
 
 
 {% for post in site.posts %}
-	{% if post.category == page.yoga %}
+	{% if post.category[page.yoga] %}
         
 		{% if post.image != blank %}
 
@@ -51,7 +51,7 @@ I write a blog post for every class that includes an outline of the sequence, a 
 
 
 {% for post in site.posts %}
-	{% if post.category == page.yoga %}
+	{% if post.category[page.yoga] %}
   
   	<ul>
      
