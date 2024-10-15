@@ -8,7 +8,8 @@ tags: ['Yoga on the Beach']
 org: "Tahoe Flow Arts and Fitness"
 orgurl: "https://tahoeflow.com/"
 spotify: 3Mt7tfRxJqZ33Lxb292hTi
-#image: " " 
+image: "images/yoga/kateryna.png"
+
 ---
 
 
