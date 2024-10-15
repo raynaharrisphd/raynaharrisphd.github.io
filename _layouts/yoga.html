@@ -51,8 +51,8 @@ I write a blog post for every class that includes an outline of the sequence, a 
 <h2> Past Classes </h2>
 
 
-{% for post in site.posts %}
-	{% if post.categories == page.yoga %}
+{% assign sorted-posts = site.posts | where: "categories","yoga" %}
+	{% for post in sorted-posts %}
   
   	<ul>
      
@@ -69,7 +69,6 @@ I write a blog post for every class that includes an outline of the sequence, a 
 	 	</div>
 		</div>        
        </ul> 
-      
-    {% endif %}   
+        
 {% endfor %}
 
