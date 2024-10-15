@@ -30,7 +30,7 @@ I write a blog post for every class that includes an outline of the sequence, a 
 
 
 {% assign sorted-posts = site.posts | where: "categories","yoga" %}
-	{% for post in sorted-posts limit: 5 %}
+	{% for post in sorted-posts %}
   	
 		{% if post.image != blank %}
 
