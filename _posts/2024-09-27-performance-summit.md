@@ -19,8 +19,10 @@ image: "/images/yoga/summit.jpg"
 --->
 **When:** Friday, September 27 · 8am - 3:30pm PDT        
 **Where:** Everline Resort and Spa, Olympic Valley CA        
+**Organized By:** [{{page.org}}]({{page.orgurl}})  
 **Description:** {{ page.description }}              
-**Organized By:** [{{page.org}}]({{page.orgurl}})     
+**Theme:** {{ page.excerpt }}            
+  
 
 ## Mindful Yoga Flow
  
