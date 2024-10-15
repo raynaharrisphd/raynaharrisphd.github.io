@@ -20,7 +20,6 @@ image: "images/yoga/kateryna.png"
 **Where:** Mourelatos Lake Shore Resort, Tahoe Vista      
 **With:** [{{page.org}}]({{page.orgurl}})    
 **Description:** {{ page.excerpt }}  
-**Theme:** {{ page.excerpt }}             
 
 
 ## Spotify Playlist
