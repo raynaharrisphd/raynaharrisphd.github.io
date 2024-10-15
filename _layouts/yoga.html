@@ -29,16 +29,16 @@ I write a blog post for every class that includes an outline of the sequence, a 
 <h2> Media </h2>
 
 
-{% for post in site.posts %}
-	{% if post.categories == page.yoga %}
-        
+{% if site.categories[page.categories_yoga] %}
+    {% for post in site.categories[page.categories_yoga] %}        
 		{% if post.image != blank %}
 
 		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" height="150"/> </a>                                                       
               
 		{% endif %}   
-	{% endif %}   	
-{% endfor %}
+	{% endfor %}
+{% endif %}   	
+
 
 
 <p> </p> 
