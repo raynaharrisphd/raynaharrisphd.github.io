@@ -65,8 +65,11 @@ Click the links below or the images for class outlines and playlists.
         	{{ post.excerpt }} 
         </div>
   
-       	<div class="column7">                   
+       	<div class="column7">      
+       	
+       		{% if post.spotify != blank %}             
         	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="95%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+        	{% endif %}   	
  
 	 	</div>
 		</div>        
