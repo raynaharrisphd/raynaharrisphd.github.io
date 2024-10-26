@@ -48,7 +48,7 @@ sitemap:
 - Meet and Analyze Data (MAD), 2020 [Slides](https://speakerdeck.com/raynamharris/life-lessons-and-scientific-insight-from-methods-hypothesis-and-data-driven-research)
 - Biological Science for Social Justice (NPB 13), 2019 [Slides](https://speakerdeck.com/raynamharris/biological-science-for-social-justice-democratizing-data-science)
 
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/868e9da1c37b4683b5893c0e6b501d75" title="RNAseq:  A five course meal" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/868e9da1c37b4683b5893c0e6b501d75" title="RNAseq:  A five course meal" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 50%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 
 
 ### Software Carpentry, Data, Carpentry and The Carpentries
@@ -63,7 +63,7 @@ sitemap:
 - Software Carpentry: Version Control with Git (Spanish) [Lesson](https://swcarpentry.github.io/git-novice-es/) 
 
 
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/079bc032e62e43fbab52c4dc273b99fb" title="Community-driven efforts to translate educational materials into many languages" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 420;" data-ratio="1.3333333333333333"></iframe>
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/079bc032e62e43fbab52c4dc273b99fb" title="Community-driven efforts to translate educational materials into many languages" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 50%; height: auto; aspect-ratio: 560 / 420;" data-ratio="1.3333333333333333"></iframe>
 
 ### The University of Texas at Austin (UT Austin)
 
