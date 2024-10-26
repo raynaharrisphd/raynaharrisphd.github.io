@@ -1,0 +1,1 @@
+Yoga on the Beach is a series of fun classes for all levels and ages.  Practicing yoga outside is a way to connect with nature while focusing on breath and alignment. These classes follow an arc of opening awareness, warm-up stretches, balancing poses, inversions, grounding poses, relaxation, and a cold plunge.
