@@ -10,6 +10,8 @@ sitemap:
 
 # Teaching Philosophy
 
+_Last updated, June 28, 2024_
+
 My teaching philosophy has been shaped through 18 years of teaching different disciplines and diverse communities of students. At its core, I believe learning should be goal-oriented, accessible to all, measurable through assessment, and fun. 
 
 After graduating from college with a B.S. in Biochemistry in 2006, I began teaching Organic Chemistry laboratory courses to undergraduates. Organic Chemistry is notorious for being people’s least favorite class, so I did my best to make the laboratory welcoming and to help students learn from mistakes without fear of failure. I received positive student feedback on my evaluations, and I thought I was a great teacher. However, I had no idea what I was doing, because I had no formal training education. When I started graduate school in 2012, I took a one-day workshop on pedagogy, but it didn’t have much impact on my teaching style.  
