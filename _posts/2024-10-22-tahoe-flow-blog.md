@@ -2,17 +2,22 @@
 layout: post
 title: "Sharing Yoga Sequences and Spotify Playlists"
 date: 2024-10-26
-excerpt: "A guest blog post for Tahoe Flow."
+excerpt: "Have you ever wanted to pause during a yoga class and write down the name of a song that is playing or the poses you just practiced? I know I have, that's why I like to share my sequences and playlist."
 #image: 
 categories: teaching
 #spotify: 
 ---
 
-Have you ever wanted to pause during a yoga class and write down the name of a song that is playing or the poses you just practiced? I know I have. But that would be weird (right?), so instead I try to hold it in my memory, but I often forget. 
+Before I started teaching yoga, I taught computer science workshops for about five years. One of our standard teaching practices was to make a website for the workshop that contains all the necessary instructions, files, and useful researchers. This was a valuable resource for students and teachers during and after the workshop. This practice of making all the educational resources freely available is called "open source education".
 
-I like to provide people who come to my yoga classes an outline of the yoga sequence I have planned as well as a link to the Spotify playlist that corresponds to the yoga flow. Sometimes I print physical copies, but I always write a blog post so that there is an easily accessible digital copy. 
+When I started teaching yoga, I wanted to bring a similar approach to my 
+yoga classes. So, for every class I teach, I write a blog post that includes details about when and where, an general description, the theme of class, and outline of the sequence of poses, and a link to the Spotify playlist. 
 
+My classes tend to follow an arc of opening awareness, warm-up stretches, balancing poses, inversions, twists, grounding poses, and relaxation. I specifically chose songs that fit the energy level of each to make my playlist. For instance, I usually start with songs without words during the welcome and meditation. When we start moving our bodies, I like to choose songs with lyrics that match the poses or beats that flow nicely with the breath. 
 
-<img src="/images/yoga/yogablog.png" alt="review" width="50%" align="center"/>
+Here is one example of an outline of poses and the coreponsing playlist from a [mindful beach yoga class](https://www.raynaharris.com/blog/beach-yoga-13/). 
 
-  
+<img src="/images/yoga/yogablog-3.png" alt="review" width="40%" />
+
+<img src="/images/yoga/yogablog-2.png" alt="review" width="40%" />
+ 
