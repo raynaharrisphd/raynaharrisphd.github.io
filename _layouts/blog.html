@@ -9,8 +9,10 @@ title: blog
 Some posts I've written over the years grouped by category: Community, Science, Spanish, Teaching, and Yoga.
 
 {% assign sorted_categories = site.categories | sort %}
+
 {% for categories in sorted_categories %}
-{% if post.categories != yoga %}
+	
+	{% if post.categories != yoga %}
 
   <h2>{{ categories[0] }}</h2>
   
@@ -34,14 +36,13 @@ Some posts I've written over the years grouped by category: Community, Science, 
         </p>                                            
               
 		{% endif %}   
-	{% endfor %}	
-	{% endif %}                  
+			
+	{% endfor %}                  
       
        </ul>
-          
+      </ul>      
+      
 {% endif %}
-    
-  </ul>
-  
+
 {% endfor %}
 
