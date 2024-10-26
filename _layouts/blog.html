@@ -9,8 +9,10 @@ title: blog
 Some posts I've written over the years grouped by category: Community, Science, Spanish, Teaching, and Yoga.
 
 {% assign sorted_categories = site.categories | sort %}
+
 {% for categories in sorted_categories %}
-{% unless categories contains 'yoga' %}
+
+{% if categories != "yoga" %}
 
   <h2>{{ categories[0] }}</h2>
   
