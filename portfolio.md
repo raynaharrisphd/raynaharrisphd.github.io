@@ -18,10 +18,6 @@ This teaching portfolio was prepared as part of the Cultural Fluency Teaching Ac
 
 ## Mantra
 
-## Teaching Philosophy
-
-Read my [teaching phylosophy](https://www.raynaharris.com/blog/teaching-philosophy/).
-
 ## Equity Minded Syllabus
 
 _Post syllabus updates here._
@@ -30,13 +26,11 @@ _Maybe also discussing grading practices here._
 
 ## Welcome 
 
-Read my welcome letters and watch welcome videos [here phylosophy](https://www.raynaharris.com/welcome/).
+Read my welcome letters and watch welcome videos [here](https://www.raynaharris.com/welcome/).
 
 ## Extras 
 
-Read my [teaching phylosophy](https://www.raynaharris.com/blog/teaching-philosophy/).
-
-View my [teaching resume](https://www.raynaharris.com/teaching/).
+View my teaching [Resume](https://www.raynaharris.com/teaching/).
 
 Watch some lectures from my Chemistry 100 class.
 
