@@ -26,16 +26,17 @@ Read my [teaching phylosophy](https://www.raynaharris.com/blog/teaching-philosop
 
 _Post syllabus updates here._
 
+_Maybe also discussing grading practices here._
+
 ## Welcome 
 
 Read my welcome letters and watch welcome videos [here phylosophy](https://www.raynaharris.com/welcome/).
 
-
-## Grading Practices
-
 ## Extras 
 
 Read my [teaching phylosophy](https://www.raynaharris.com/blog/teaching-philosophy/).
+
+View my [teaching resume](https://www.raynaharris.com/teaching/).
 
 Watch some lectures from my Chemistry 100 class.
 
