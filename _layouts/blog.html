@@ -8,7 +8,7 @@ title: blog
 
 Some posts I've written over the years grouped by category: Community, Science, Spanish, Teaching, and Yoga.
 
-{% assign sorted-posts = site.posts | where: "categories","community", "science", "spanish", "teaching" %}
+{% assign sorted_categories = site.categories | sort %}
 
 {% for categories in sorted_categories %}
 
