@@ -8,9 +8,11 @@ sitemap:
     changefreq: yearly
 ---
 
-# Cultural Fluency Teaching Academy ePortfolio
+# Teaching Portfolio
 
 Cultural fluency is the ability to understand and engage with people from different cultures, and culturally responsive teaching is a student-centered approach that recognizes and develops student's unique strengths.
+
+This teaching portfolio was prepared as part of the Cultural Fluency Teaching Academy in 2024-2025 at Lake Tahoe Community College.
 
 
 ## Online Resouces
