@@ -3,7 +3,7 @@ layout: post
 title: "Mindful Yoga on the Beach"
 date: 2024-06-06
 excerpt: "A beach yoga class in Carnelian Bay designed for a younger audience with a focus on movement, breath, and mindfulness." 
-description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
+description: "courage.md"
 categories: yoga
 tags: ['Courage Project']
 org: "The Courage Project"
@@ -16,7 +16,7 @@ image: "/images/yoga/IMG_0982.png"
 
 **When:** Sunday, June 6, 2024 8 AM    
 **Where:** Waterman's Landing 5166 N Lake Blvd, Carnelian Bay, CA 96140[Directions](https://www.google.com/maps?rlz=1C5CHFA_enUS818US818&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyEAgBEC4YrwEYxwEYgAQYjgUyBwgCEAAYgAQyBwgDEAAYgAQyCAgEEAAYFhgeMggIBRAAGBYYHjINCAYQABiGAxiABBiKBTIKCAcQABiABBiiBDIKCAgQABiiBBiJBdIBCDIyOThqMGo3qAIIsAIB&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KaVlVghNY5mAMRlCwikIOLCd&daddr=5166+N+Lake+Blvd,+Carnelian+Bay,+CA+96140)     
-**Description:** {{ page.description }}          
+**Description:** {% include {{ page.description }} %}            
 **With:** [{{page.org}}]({{page.orgurl}})
 
 

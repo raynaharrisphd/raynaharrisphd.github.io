@@ -6,20 +6,20 @@ excerpt: "A mountain top yoga class in Tahoe Meadows, NV designed for a younger 
 image: "/images/yoga/friday-yoga.png"
 categories: yoga
 tags: ['Courage Project']
-description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
+description: "courage.md"
 spotify: 7zgs64Pnw2QqlSNduyzmlc
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
 ---
 
+# Courage Project 
 
-
-_“When the breath wanders the mind also is unsteady. But when the breath is calmed the mind too will be still, and the Yogi achieves long life. Therefore, one should learn to control the breath.” ~ Hatha Yoga Pradipika_
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% include {{ page.description }} %}   
 
 
 ## Opening Awareness
+
+_“When the breath wanders the mind also is unsteady. But when the breath is calmed the mind too will be still, and the Yogi achieves long life. Therefore, one should learn to control the breath.” ~ Hatha Yoga Pradipika_
 
 
 <div class="row">
@@ -230,6 +230,12 @@ _“When the breath wanders the mind also is unsteady. But when the breath is ca
 </div>
 
 _The black and white yoga icons from created by <a href="https://www.flaticon.com/free-icons/workout" title="workout icons">dDara </a>, <a href="https://www.flaticon.com/free-icons/exercise" title="exercise icons">monkik</a>, <a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Freepik </a>, and <a href="https://www.flaticon.com/free-icons/yoga-pose" title="yoga pose icons">Eideticmemo</a>._
+
+## Music 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 
 ## Comments
 

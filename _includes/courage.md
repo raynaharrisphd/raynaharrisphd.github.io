@@ -1,0 +1,1 @@
+The Courage Project seeks to enhance the lives of children who experience anxiety and depression through mindful engagement in inspiring outdoor experiences, education, and training. Our yoga classes for children ages 8-13 are designed to promote mindfulness and resilance.

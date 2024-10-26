@@ -6,16 +6,15 @@ excerpt: "A lakefront top yoga class on King's Beach designed for a younger audi
 image: "/images/yoga/saturday-yoga.png"
 categories: yoga
 tags: ['Courage Project']
-description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
+description: "courage.md"
 spotify: 6tpwzTZdgK8ht5Xwbd4gM4
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
 ---
 
+# Courage Project
 
-<img src="/images/yoga/saturday-yoga.png" alt="FLier" width="95%"/>
-
-
+{% include {{ page.description }} %}   
 
 ## Opening Awareness 
 

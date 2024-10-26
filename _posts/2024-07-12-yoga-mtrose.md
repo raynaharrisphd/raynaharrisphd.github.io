@@ -3,7 +3,7 @@ layout: post
 title: "Mindful Yoga in the Mountains"
 date: 2024-07-12
 excerpt: "A mountain top yoga class in Tahoe Meadows, NV designed for a younger audience with a focus on movement, breath, and mindfulness." 
-description: "For children ages 8-13, kids yoga classes are designed to promote mindfullness and stress tolerance."
+description: "courage.md"
 categories: yoga
 tags: ['Courage Project']
 org: "The Courage Project"
@@ -15,7 +15,7 @@ spotify: 5zoiDKbhBlFDST84olNn2y
 
 **When:** {{ page.date | date: '%A, %B %-d, %Y' }} at 9:00 AM       
 **Where:** Tahoe Meadows Ophir Creek Trailhead, Mt Rose Hwy [Directions](https://www.google.com/maps/dir//Mt+Rose+Hwy,+New+Washoe+City,+NV+89704/@39.3016141,-120.0010702,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x80996e50dc563fbb:0x3dedbf0be21ccb41!2m2!1d-119.9186693!2d39.3016431?entry=ttu)      
-**Description:** {{ page.description }}          
+**Description:** {% include {{ page.description }} %}           
 **With:** [{{page.org}}]({{page.orgurl}})
 
 
