@@ -30,7 +30,7 @@ Read my welcome letters and watch welcome videos [here](https://www.raynaharris.
 
 ## Extras 
 
-View my teaching [Resume](https://www.raynaharris.com/teaching/).
+View my [full CV](https://www.raynaharris.com/CV/) or my [teaching Resume](https://www.raynaharris.com/teaching/).
 
 Watch some lectures from my Chemistry 100 class.
 
