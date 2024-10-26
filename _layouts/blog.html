@@ -10,6 +10,7 @@ Some posts I've written over the years grouped by category: Community, Science, 
 
 {% assign sorted_categories = site.categories | sort %}
 {% for categories in sorted_categories %}
+{% unless post.categories contains 'yoga' %}
 
   <h2>{{ categories[0] }}</h2>
   
@@ -33,5 +34,6 @@ Some posts I've written over the years grouped by category: Community, Science, 
     
   </ul>
   
+{% endif %} 
 {% endfor %}
 
