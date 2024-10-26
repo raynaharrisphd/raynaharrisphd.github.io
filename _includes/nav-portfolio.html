@@ -1,17 +1,14 @@
 <ul class="links">
 
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
-  
   <li class="{% if page.url contains '/portfolio/' %} active {% endif %}"><a href="{{ "/portfolio/" | absolute_url }}">Portfolio</a></li>
 
-  <li class="{% if page.url contains '/welcome/' %} active {% endif %}"><a href="{{ "/teaching/" | absolute_url }}">Teaching Experimence</a></li>
-
   <li class="{% if page.url contains '/welcome/' %} active {% endif %}"><a href="{{ "/welcome/" | absolute_url }}">Welcome</a></li>
-
 
 </ul>
 
 <ul class="icons">
+  
+   <li><a href="https://github.com/raynaharrisphd" class="icon fa-house" rel="me"><span class="label">Home</span></a></li>
 
   <li><a href="https://github.com/raynaharrisphd" class="icon fa-github" rel="me"><span class="label">GitHub</span></a></li>
   
