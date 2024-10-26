@@ -19,7 +19,8 @@ sitemap:
 
 ### The Courage Project
 
-- Mindfull Yoga, Summers 2023 - 2024
+- 2024 Lake Tahoe Performance Summit, September 27, 2024
+- Mindful Yoga, Summers 2023 - 2024
 
 ### Lake Tahoe Community College (LTCC)
 
