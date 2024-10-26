@@ -20,6 +20,7 @@ _[Click here to view .pdf version online.](https://github.com/raynamharris/CV/bl
 
 ## Work Experience
 
+**Tahoe Flow Arts & Fitness** Yoga Instructor, Tahoe Vista, California, 2024  
 <!---**Crest Cafe** Barista and Cashier, Alpine Meadows, 2023-->
 **Lake Tahoe Community College** Adjunct Faculty, South Lake Tahoe, California, 2023      
 <!---**River Ranch** Hostess, Alpine Meadows, 2021-->    
