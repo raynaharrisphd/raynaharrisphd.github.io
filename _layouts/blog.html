@@ -19,7 +19,7 @@ Some posts I've written over the years grouped by category: Community, Science, 
     
     {% if post.categories != yoga %}
     
-      <li> 
+      <ul> 
       
        <b> <a href="{{post.url}}">{{post.title}}</a> </b> •
        <i> {{ post.date | date: '%B %-d, %Y' }} </i>
@@ -38,7 +38,7 @@ Some posts I've written over the years grouped by category: Community, Science, 
 		
 	{% endif %}                  
       
-       </li>
+       </ul>
         
     
     {% endfor %}
