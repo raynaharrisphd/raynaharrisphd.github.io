@@ -6,12 +6,15 @@ title: blog
 	
 <h1> Blog Posts </h1>
 
-Scroll down to read blog posts I've written over the years about 
+Scroll down to read blog posts I've written over the years about: 
+
 
 {% for categories in site.categories %}
 
+	<li> 
   {{ categories[0] }} 
-
+	</li> 
+	
 {% endfor %}
 
 
