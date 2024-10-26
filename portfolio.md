@@ -8,7 +8,7 @@ sitemap:
     changefreq: yearly
 ---
 
-# Teaching Portfolio
+# Cultural Fluency Teaching Portfolio
 
 Cultural fluency is the ability to understand and engage with people from different cultures, and culturally responsive teaching is a student-centered approach that recognizes and develops student's unique strengths.
 
