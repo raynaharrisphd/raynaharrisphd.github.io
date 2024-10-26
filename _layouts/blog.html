@@ -10,15 +10,14 @@ Some posts I've written over the years grouped by category: Community, Science, 
 
 {% assign sorted_categories = site.categories | sort %}
 {% for categories in sorted_categories %}
+{% if post.categories != yoga %}
 
   <h2>{{ categories[0] }}</h2>
   
   <ul>
   
     {% for post in categories[1] %}
-    
-    {% if post.categories != yoga %}
-    
+        
       <ul> 
       
        <b> <a href="{{post.url}}">{{post.title}}</a> </b> •
@@ -35,13 +34,12 @@ Some posts I've written over the years grouped by category: Community, Science, 
         </p>                                            
               
 		{% endif %}   
-		
+	{% endfor %}	
 	{% endif %}                  
       
        </ul>
-        
-    
-    {% endfor %}
+          
+{% endif %}
     
   </ul>
   
