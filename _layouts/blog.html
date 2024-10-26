@@ -9,6 +9,18 @@ title: blog
 Some posts I've written over the years grouped by category: Community, Science, Spanish, Teaching, and Yoga.
 
 
+
+
+{% for categories in site.categories %}
+
+  {{ categories[0] }}
+
+{% endfor %}
+
+
+
+
+
 {% for categories in site.categories %}
 
   <h2>{{ categories[0] }}</h2>
