@@ -24,15 +24,20 @@ Read my [teaching phylosophy](https://www.raynaharris.com/blog/teaching-philosop
 
 ## Equity Minded Syllabus
 
-## Welcome Letter
+_Post syllabus updates here._
 
-## Welcome Video
+## Welcome 
 
-_I need to make a welcome video for students in my future classes. The video should probably include an introduction to me and my teaching philosophy to manage course expectations._
+Read my welcome letters and watch welcome videos [here phylosophy](https://www.raynaharris.com/welcome/).
 
-### Chemistry 100 Lecture Playlist
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ogRs3R5niweSTLfr&amp;list=PLNfIROxhN1JCCS7MgLIfV824yAF1Jg3al" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Grading Practices
+
+## Extras 
+
+Read my [teaching phylosophy](https://www.raynaharris.com/blog/teaching-philosophy/).
+
+Watch some lectures from my Chemistry 100 class.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ogRs3R5niweSTLfr&amp;list=PLNfIROxhN1JCCS7MgLIfV824yAF1Jg3al" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
