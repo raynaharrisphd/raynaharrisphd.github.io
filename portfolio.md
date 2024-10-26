@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-portfolio
 title: Portfolio
 description: Portfolio for the Cultural Fluency Teaching Academy 
 sitemap:
