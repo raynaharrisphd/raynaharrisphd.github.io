@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sharing Yoga Sequences and Spotify Playlists"
-date: 2024-10-31
+date: 2024-11-30
 excerpt: "Have you ever wanted to pause during a yoga class and write down the name of a song playing or the poses you just practiced? I know I have, so I like to share my sequences and playlist."
 #image: 
 categories: teaching
