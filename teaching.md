@@ -27,7 +27,8 @@ sitemap:
 - Human Anatomy and Physiology Lab (BIO 203), Fall 2024
 - Dual Credit Chemistry (CHM 100), LTCC, Fall 2024 _Lecture recordings available on YouTube._
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ogRs3R5niweSTLfr&amp;list=PLNfIROxhN1JCCS7MgLIfV824yAF1Jg3al" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLNfIROxhN1JCCS7MgLIfV824yAF1Jg3al" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 - Introduction to Cell and Molecular Biology Lab, Spring 2024
