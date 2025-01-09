@@ -14,19 +14,23 @@ Cultural fluency is the ability to understand and engage with people from differ
 
 This teaching portfolio was prepared as part of the Cultural Fluency Teaching Academy in 2024-2025 at Lake Tahoe Community College. 
 
-## Goals
+Here is my lastest [teaching philosophy statment](https://www.raynaharris.com/blog/teaching-philosophy/), written June 2024.
+ 
 
-- Increase engagement in Chemistry (CHM 100)
-- Improve grading for Anatomy & Physiology (BIO 204)
+## Goals for CFTA Fellowship
 
-## Grades 
+- Increase engagement 
+- Improve grading 
+
+
+## Outcomes: CHM 100 Grading Changes 
 
 From multi-step, opened-ended Canvas quiz questions 
 
 <img src="/images/CFTA-1.png" alt="review" width="50%" align="center"/>
 
-To step-by-step multiple choice Canvas question.s
+To step-by-step multiple choice Canvas questions
 
 <img src="/images/CFTA-1.png" alt="review" width="50%" align="center"/>
 
-Multi-step, opened-ended questions discussed "think-pair-share" style in class 
+With multi-step, opened-ended questions discussed "think-pair-share" style in class 
