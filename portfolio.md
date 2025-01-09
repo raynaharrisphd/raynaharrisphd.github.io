@@ -10,29 +10,28 @@ sitemap:
 
 # Cultural Fluency Teaching Portfolio
 
-Cultural fluency is the ability to understand and engage with people from different cultures, and culturally responsive teaching is a student-centered approach that recognizes and develops student's unique strengths.
+Cultural fluency is the ability to understand and engage with people from different cultures, and culturally responsive teaching is a student-centered approach that recognizes and develops student's unique strengths. 
 
-This teaching portfolio was prepared as part of the Cultural Fluency Teaching Academy in 2024-2025 at Lake Tahoe Community College.
+This teaching portfolio was prepared as part of the Cultural Fluency Teaching Academy in 2024-2025 at Lake Tahoe Community College. 
 
 ## Goals
 
-## Mantra
+- Increase engagement in Chemistry (CHM 100)
+- Improve grading for Anatomy & Physiology (BIO 204)
 
 ## Equity Minded Syllabus
 
-_Post syllabus updates here._
+Here's a syllabus from my Winter 2025 Anatomy and Physiology course. 
 
-_Maybe also discussing grading practices here._
+<object data="/assets/pdfs/syllabus.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## Welcome 
 
-Read my welcome letters and watch welcome videos [here](https://www.raynaharris.com/welcome/).
+Watch a "Welcome to A&P" video made by a colleague [here](https://www.raynaharris.com/welcome/).
 
-## Extras 
-
-View my [full CV](https://www.raynaharris.com/CV/) or my [teaching Resume](https://www.raynaharris.com/teaching/).
-
-Watch some lectures from my Chemistry 100 class.
+Watch some lectures from my CHM 100 class.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ogRs3R5niweSTLfr&amp;list=PLNfIROxhN1JCCS7MgLIfV824yAF1Jg3al" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+View my [full CV](https://www.raynaharris.com/CV/) or my [teaching Resume](https://www.raynaharris.com/teaching/).
 
