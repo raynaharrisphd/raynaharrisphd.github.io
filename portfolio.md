@@ -19,10 +19,3 @@ This teaching portfolio was prepared as part of the Cultural Fluency Teaching Ac
 - Increase engagement in Chemistry (CHM 100)
 - Improve grading for Anatomy & Physiology (BIO 204)
 
-## Equity Minded Syllabus
-
-Here's a syllabus from my Winter 2025 Anatomy and Physiology course. 
-
-<object data="/assets/pdfs/syllabus.pdf" width="900" height="500" type='application/pdf'></object>
-
-
