@@ -19,3 +19,14 @@ This teaching portfolio was prepared as part of the Cultural Fluency Teaching Ac
 - Increase engagement in Chemistry (CHM 100)
 - Improve grading for Anatomy & Physiology (BIO 204)
 
+## Grades 
+
+From multi-step, opened-ended Canvas quiz questions 
+
+<img src="/images/CFTA-1.png" alt="review" width="50%" align="center"/>
+
+To step-by-step multiple choice Canvas question.s
+
+<img src="/images/CFTA-1.png" alt="review" width="50%" align="center"/>
+
+Multi-step, opened-ended questions discussed "think-pair-share" style in class 
