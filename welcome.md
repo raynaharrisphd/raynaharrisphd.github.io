@@ -8,8 +8,8 @@ sitemap:
     changefreq: yearly
 ---
 
-# Welome
+# Welome Video
 
-_Write a welcome letter to students enrolled in a class._
+The welcome video below was created by my co-instructor for Anatomy and Physiology 204 at Lake Tahoe Community Community College. 
 
-_Make video for students enrolled in a class. The video should probably include an introduction to me and my teaching philosophy to manage course expectations. It may use the welcome letter as a script_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mQKptphUSJo?si=vf1B89LVO8eWMDWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
