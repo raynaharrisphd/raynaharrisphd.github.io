@@ -27,10 +27,10 @@ Here is my lastest [teaching philosophy statment](https://www.raynaharris.com/bl
 
 From multi-step, opened-ended Canvas quiz questions 
 
-<img src="/images/CFTA-1.png" alt="review" width="50%" align="center"/>
+<img src="/images/CFTA-1.png" alt="review" width="90%" align="center"/>
 
 To step-by-step multiple choice Canvas questions
 
-<img src="/images/CFTA-2.png" alt="review" width="50%" align="center"/>
+<img src="/images/CFTA-2.png" alt="review" width="90%" align="center"/>
 
 With multi-step, opened-ended questions discussed "think-pair-share" style in class 
