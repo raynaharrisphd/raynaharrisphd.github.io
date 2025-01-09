@@ -10,7 +10,9 @@ sitemap:
 
 # Welome 
 
-Watch a "Welcome to A&P" video made by a colleague [here](https://www.raynaharris.com/welcome/).
+Watch a "Welcome to A&P" video made by a colleague 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mQKptphUSJo?si=HachER6Xay5yj3qZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Watch some lectures from my CHM 100 class.
 
