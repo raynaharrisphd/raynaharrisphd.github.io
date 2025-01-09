@@ -23,7 +23,7 @@ This teaching portfolio was prepared as part of the Cultural Fluency Teaching Ac
 
 Here's a syllabus from my Winter 2025 Anatomy and Physiology course. 
 
-<object data="/assets/pdfs/syllabus.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/assets/pdfs/syllabus.pdf" width="900" height="500" type='application/pdf'></object>
 
 ## Welcome 
 
