@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Sugar Bowl Yoga Flow"
-date: 2025-01-14
+date: 2025-01-15
 excerpt: "A 5 minute yoga class with a welcome, warm-up stretch, Warrior II Flow, and a gratitude meditation."
 categories: yoga
 tags: training
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/krROC18EsYs?si=7WWtm32aRHB7SccF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/krROC18EsYs?si=7WWtm32aRHB7SccF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
  
        
 ## Outline
