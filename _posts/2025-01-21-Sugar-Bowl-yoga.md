@@ -55,3 +55,11 @@ Guided affirmations
 
 ![](http://thestrangeisbeautiful.com/wp-content/uploads/2014/10/half-sun-salutation1-1024x668.jpg) (_Image source: http://thestrangeisbeautiful.com/pose-day-2-yoga-anxiety-depression/_)
 
+
+one
+
+<img src="http://thestrangeisbeautiful.com/wp-content/uploads/2014/10/half-sun-salutation1-1024x668.jpg" alt="half sal" width="50%" align="center"/>
+
+two
+
+<img src="/images/yoga/halfsunsal.jpg" alt="half sal" width="50%" align="center"/>
