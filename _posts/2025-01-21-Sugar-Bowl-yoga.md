@@ -49,7 +49,7 @@ Guided affirmations
 * Forward bend (_uttanasana_): **I embrace challenges**
 * Forward bend half lift (_ardha uttanasana_): **I am strong and capable**
 * Forward bend (_uttanasana_): **I trust my body's wisdom**
-* Mountain pose arms up (_urdhva hastasana_): ** am worthy of all good things**
+* Mountain pose arms up (_urdhva hastasana_): **I am worthy of all good things**
 * Mountain pose palms at heart center (_tadasana with anjali mudra_): **I trust the journey of my soul**
 
 
