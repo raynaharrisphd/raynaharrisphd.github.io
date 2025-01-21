@@ -52,14 +52,6 @@ Guided affirmations
 * Mountain pose arms up (_urdhva hastasana_): **I am worthy of all good things**
 * Mountain pose palms at heart center (_tadasana with anjali mudra_): **I trust the journey**
 
+<img src="/images/yoga/halfsunsal.jpg" alt="half sal" width="95%" align="center"/>  
 
-![](http://thestrangeisbeautiful.com/wp-content/uploads/2014/10/half-sun-salutation1-1024x668.jpg) (_Image source: http://thestrangeisbeautiful.com/pose-day-2-yoga-anxiety-depression/_)
-
-
-one
-
-<img src="http://thestrangeisbeautiful.com/wp-content/uploads/2014/10/half-sun-salutation1-1024x668.jpg" alt="half sal" width="50%" align="center"/>
-
-two
-
-<img src="/images/yoga/halfsunsal.jpg" alt="half sal" width="50%" align="center"/>
+(_Image source: http://thestrangeisbeautiful.com/pose-day-2-yoga-anxiety-depression/_)
