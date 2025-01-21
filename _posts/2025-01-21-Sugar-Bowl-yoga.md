@@ -54,4 +54,4 @@ Guided affirmations
 
 <img src="/images/yoga/halfsunsal.jpg" alt="half sal" width="95%" align="center"/>  
 
-(_Image source: http://thestrangeisbeautiful.com/pose-day-2-yoga-anxiety-depression/_)
+(_Image source: <http://thestrangeisbeautiful.com/pose-day-2-yoga-anxiety-depression/>_)
