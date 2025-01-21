@@ -48,9 +48,9 @@ Guided affirmations
 * Mountain pose arms up (_urdhva hastasana_): **I am filled with light and love**
 * Forward bend (_uttanasana_): **I embrace challenges**
 * Forward bend half lift (_ardha uttanasana_): **I am strong and capable**
-* Forward bend (_uttanasana_): **I trust my body's wisdom**
+* Forward bend (_uttanasana_): **I am compassionate and forgiving**
 * Mountain pose arms up (_urdhva hastasana_): **I am worthy of all good things**
-* Mountain pose palms at heart center (_tadasana with anjali mudra_): **I trust the journey of my soul**
+* Mountain pose palms at heart center (_tadasana with anjali mudra_): **I trust the journey**
 
 
 ![](http://thestrangeisbeautiful.com/wp-content/uploads/2014/10/half-sun-salutation1-1024x668.jpg) (_Image source: http://thestrangeisbeautiful.com/pose-day-2-yoga-anxiety-depression/_)
