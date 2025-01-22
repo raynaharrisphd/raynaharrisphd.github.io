@@ -38,13 +38,18 @@ tags: training
 * Squat (_malasana_) to mountain pose (_tadasana_) to standing forward bend (_uttanasana_) to squat (_malasana_) x3
 * Mountain pose (_tadasana_)
 * Sun Salutation A (_surya namaskar_) with affirmations
-	* Mountain pose (_tadasana_): **I am present and connected**
-	* Mountain pose arms up (_urdhva hastasana_): **I am filled with light and love**
-	* Forward bend (_uttanasana_): **I embrace challenges**
-	* Forward bend half lift (_ardha uttanasana_): **I am strong and capable**
+	* Begin in mountain pose (_tadasana_) 
+	* Inhale arms up (_urdhva hastasana_): **I am filled with light and love**
+	* Exhale forward bend (_uttanasana_):  **I am present and connected** 
+	* Inhale half lift (_ardha uttanasana_): **I embrace challenges**
+	* Exhale four-limbed staff pose(_chaturanga dandasana_): **I am strong and resilient**
+	* Inhale upward-facing dog (_urdhva mukha svanasana_): **My heart is open**
+	* Exhale downward-facing dog (_adho mukha svanasana_): **I am compassionate and forgiving**
+	* Inhale forward bend half lift (_ardha uttanasana_): **I trust journey and the process**
 	* Forward bend (_uttanasana_): **I am compassionate and forgiving**
-	* Mountain pose arms up (_urdhva hastasana_): **I am worthy of all good things**
-	* Mountain pose palms at heart center (_tadasana with anjali mudra_): **I trust the journey**
+	* Mountain pose arms up (_urdhva hastasana_): **I am worthy of good things**
+	* Mountain pose palms at heart center (_tadasana with anjali mudra_): **Namaste**
+	* End in mountain pose (_tadasana_) 
 
 <img src="/images/yoga/sunsalA.jpg" alt="half sal" width="95%" align="center"/>  
 
