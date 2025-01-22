@@ -10,6 +10,16 @@ tags: training
 
 <iframe width="100%" height="375" src="https://www.youtube.com/embed/gtSiIwNoKUg?si=u9wGYJPmJZ62VNTV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+## Logic
+
+Yoga yokes mind, body and spirit. The following sections of the yoga class illustrate the various combinations.
+
+Graditude mediation - mind and spirit <br>
+Body scan with massage - mind and body <br>
+Warm-up stretch - body and spirit <br>
+Surya Namaskar with affirmations - mind, body, and spirit <br>
+
        
 ## Class Outline
 
