@@ -15,10 +15,10 @@ tags: training
 
 * Easy cross-legged pose (_sukhasana_)
 	* Deep breaths
-	* Gratitude meditation x 3 each
-		* 3 people - palms up
-		* 3 places -  middle fingers to thumbs (_akash mudra_)
-		* 3 experiences - palms at heart center (_anjali mudra_)
+	* Gratitude meditation 
+		* person - palms up
+		* places -  middle fingers to thumbs (_akash mudra_)
+		* experience - palms at heart center (_anjali mudra_)
 * Staff pose (_dandasana_) to seated forward bend pose (_paschimottanasana_)	
 * Butterfly or cobbler's pose (_baddha konasana_) 
 	* Lower body scan + massage
