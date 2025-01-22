@@ -2,7 +2,7 @@
 layout: post
 title: "Sugar Bowl Yoga Flow"
 date: 2025-01-21
-excerpt: "Part 1 of a 4 part 60-minute yoga class as SportHaus at Sugar Bowl. Part 1 is focuses on grounding, mediating, and gentle stretching to prepare the mind, body, and spirit for the deeper stretches later in the class."
+excerpt: "Part 1 of a 4 part 60-minute yoga class as SportHaus at Sugar Bowl. Part 1 is focuses on grounding, mediating, and gentle stretching to prepare the mind, body, and spirit for the deeper stretches later in the class. The practice begins with a gratitude mediation focusing on people, places, and experiences. The practice ends with Sun Salutation A (Surya Namaskar) with affirmations to link the mind to the body and the spirit or breath. The full sequence of poses is listed below along with a YouTube video to follow along."
 categories: yoga
 tags: training
 ---
