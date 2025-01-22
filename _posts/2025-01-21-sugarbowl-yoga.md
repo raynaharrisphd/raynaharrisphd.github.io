@@ -61,9 +61,9 @@ Mindful control of the breath (_pranayama_)  allows us to clear the mind and cal
 	* Standing forward bend (_uttanasana_)
 	* Half lift (_ardha uttanasana_)
 
-Lizard and _malasana_ strengthen and stretche the lower body including hips, knees, ankles, glutes, and core. Thes poses improve range of motion and  flexibility while also releasing stress, tension, anxiety, and pain.
+Lizard (_utthan pristhasana_) and and squat (_malasana_) strengthen and stretch the lower body including hips, knees, ankles, glutes, and core. Thes poses improve range of motion and  flexibility while also releasing stress, tension, anxiety, and pain.
 
-
+_Utthan_ means "stretch out" and _pristha_ means "page of a book" or "back of the body" and _asana_ mean "pose."
 
 ### Sun salutation (_Surya Namaskar_) with affirmations
 
@@ -83,7 +83,6 @@ Lizard and _malasana_ strengthen and stretche the lower body including hips, kne
 	* End in mountain pose (_tadasana_) 
 
 <img src="/images/yoga/sunsalA.jpg" alt="half sal" width="45%" align="center"/>  
-
 
 <img src="/images/yoga/sunsalA2.png" alt="half sal" width="45%" align="center"/>  
 
