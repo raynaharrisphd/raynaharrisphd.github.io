@@ -46,7 +46,7 @@ Mindful control of the breath (_pranayama_)  allows us to clear the mind and cal
 ### Warm-up stretch
 
 * Seated windshield wiper pose (_upavistha jathara parivartanasana_)
-* Hero's pose (_virasana_)	
+* Hero's pose (_virasana_) with toes and wrist stretches	
 * Table top pose (_bharmanasana_) to lizard pose () flow
 	* One leg extended toes (_bharmanasana uttana eka pada prapadaih_)
 	* One leg hip rotation (_bharmanasana eka pada shroni chakra_)
@@ -55,8 +55,10 @@ Mindful control of the breath (_pranayama_)  allows us to clear the mind and cal
 	* Half split (_ardha hanumanasana_)
 	* Lizard pose (_utthan pristhasana_)
 	* Repeat on the opposite side
+
+(Optional)
+
 * Squat (_malasana_) to mountain pose (_tadasana_) to standing forward bend (_uttanasana_) to squat (_malasana_) x3
-* Mountain pose (_tadasana_)
 
 ### Sun salutation (_Surya Namaskar_) with affirmations
 
