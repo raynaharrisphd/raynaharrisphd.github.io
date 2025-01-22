@@ -2,10 +2,13 @@
 layout: post
 title: "Sugar Bowl Yoga Flow"
 date: 2025-01-21
-excerpt: "Part 1 of a 4 part 60-minute yoga class as SportHau at Sugar Bowl. Part 1 is focuses on grounding, mediating, and gentle stretching to prepare the mind, body, and spirit for the deeper stretchers later in the class."
+excerpt: "Part 1 of a 4 part 60-minute yoga class as SportHaus at Sugar Bowl. Part 1 is focuses on grounding, mediating, and gentle stretching to prepare the mind, body, and spirit for the deeper stretches later in the class."
 categories: yoga
 tags: training
 ---
+
+
+<iframe width="100%" height="275" src="https://www.youtube.com/embed/gtSiIwNoKUg?si=u9wGYJPmJZ62VNTV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
        
 ## Class Outline
