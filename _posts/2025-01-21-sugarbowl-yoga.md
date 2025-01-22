@@ -23,18 +23,26 @@ Sun salutation (_Surya Namaskar_) with affirmations - mind, body, and spirit <br
        
 ## Class Outline
 
+### Graditude mediation
+
 * Easy cross-legged pose (_sukhasana_)
 	* Deep breaths
 	* Gratitude meditation 
 		* person - palms up
 		* places -  middle fingers to thumbs (_akash mudra_)
 		* experience - palms at heart center (_anjali mudra_)
+
+### Body scan with massage
+
 * Staff pose (_dandasana_) to seated forward bend pose (_paschimottanasana_)	
 * Butterfly or cobbler's pose (_baddha konasana_) 
 	* Lower body scan + massage
 	* Soles of feet, toes, ankles 
 	* Calfs and knees
 	* Quads and hamstrings
+
+### Warm-up stretch
+
 * Seated windshield wiper pose (_upavistha jathara parivartanasana_)
 * Hero's pose (_virasana_)	
 * Table top pose (_bharmanasana_) to lizard pose () flow
@@ -46,6 +54,10 @@ Sun salutation (_Surya Namaskar_) with affirmations - mind, body, and spirit <br
 	* Lizard pose (_utthan pristhasana_)
 	* Repeat on the opposite side
 * Squat (_malasana_) to mountain pose (_tadasana_) to standing forward bend (_uttanasana_) to squat (_malasana_) x3
+* Mountain pose (_tadasana_)
+
+### Sun salutation (_Surya Namaskar_) with affirmations
+
 * Mountain pose (_tadasana_)
 * Sun Salutation A (_surya namaskar_) with affirmations
 	* Begin in mountain pose (_tadasana_) 
