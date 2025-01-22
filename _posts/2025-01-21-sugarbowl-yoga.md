@@ -41,14 +41,14 @@ tags: training
 	* Begin in mountain pose (_tadasana_) 
 	* Inhale arms up (_urdhva hastasana_): <br> **I am filled with light and love**
 	* Exhale forward bend (_uttanasana_): <br> **I am present and connected** 
-	* Inhale half lift (_ardha uttanasana_): <br /> **I embrace challenges**
-	* Exhale four-limbed staff pose (_chaturanga dandasana_): <br><br> **I am strong and resilient**
-	* Inhale upward-facing dog (_urdhva mukha svanasana_): **My heart is open**
-	* Exhale downward-facing dog (_adho mukha svanasana_): **I am compassionate and forgiving**
-	* Inhale forward bend half lift (_ardha uttanasana_): **I trust the journey and the process**
-	* Forward bend (_uttanasana_): **I am compassionate and forgiving**
-	* Mountain pose arms up (_urdhva hastasana_): **I am worthy of good things**
-	* Mountain pose palms at heart center (_tadasana with anjali mudra_): **Namaste**
+	* Inhale half lift (_ardha uttanasana_): <br> **I embrace challenges**
+	* Exhale four-limbed staff pose (_chaturanga dandasana_): <br> **I am strong and resilient**
+	* Inhale upward-facing dog (_urdhva mukha svanasana_): <br> **My heart is open**
+	* Exhale downward-facing dog (_adho mukha svanasana_): <br> **I am compassionate and forgiving**
+	* Inhale forward bend half lift (_ardha uttanasana_): <br> **I trust the journey and the process**
+	* Forward bend (_uttanasana_): <br> **I am compassionate and forgiving**
+	* Mountain pose arms up (_urdhva hastasana_): <br> **I am worthy of good things**
+	* Mountain pose palms at heart center (_tadasana with anjali mudra_): <br> **Namaste**
 	* End in mountain pose (_tadasana_) 
 
 <img src="/images/yoga/sunsalA.jpg" alt="half sal" width="95%" align="center"/>  
