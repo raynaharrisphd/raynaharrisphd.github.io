@@ -39,8 +39,8 @@ tags: training
 * Mountain pose (_tadasana_)
 * Sun Salutation A (_surya namaskar_) with affirmations
 	* Begin in mountain pose (_tadasana_) 
-	* Inhale arms up (_urdhva hastasana_): **I am filled with light and love**
-	* Exhale forward bend (_uttanasana_):  **I am present and connected** 
+	* Inhale arms up (_urdhva hastasana_): <br> **I am filled with light and love**
+	* Exhale forward bend (_uttanasana_): <br> **I am present and connected** 
 	* Inhale half lift (_ardha uttanasana_): **I embrace challenges**
 	* Exhale four-limbed staff pose (_chaturanga dandasana_): **I am strong and resilient**
 	* Inhale upward-facing dog (_urdhva mukha svanasana_): **My heart is open**
