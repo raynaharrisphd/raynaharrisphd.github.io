@@ -43,27 +43,25 @@ Mindful control of the breath (_pranayama_)  allows us to clear the mind and cal
 	* Calfs and knees
 	* Quads and hamstrings
 
-### Warm-up stretch - hamstrings and hips
+### Lower Body and Spine Warm-up Stretch 
 
 * Seated windshield wiper pose (_upavistha jathara parivartanasana_)
 * Hero's pose (_virasana_) with toes and wrist stretches	
-* Lizard flow
+* Lizard flow (left then right)
 	* Table top pose (_bharmanasana_) to 
 	* One leg extended toes (_bharmanasana uttana eka pada prapadaih_)
 	* One leg hip rotation (_bharmanasana eka pada shroni chakra_)
 	* Modified lizard pose (_utthan pristhasana_)
 	* Half split (_ardha hanumanasana_)
 	* Lizard pose (_utthan pristhasana_)
-	* Repeat on the opposite side
 * Malasana flow x 3
 	* Squat (_malasana_)
 	* Mountain pose (_tadasana_) 
 	* Standing forward bend (_uttanasana_)
 	* Half lift (_ardha uttanasana_)
 
-Lizard (_utthan pristhasana_) and and squat (_malasana_) strengthen and stretch the lower body including hips, knees, ankles, glutes, and core. Thes poses improve range of motion and  flexibility while also releasing stress, tension, anxiety, and pain.
+Lizard (_utthan pristhasana_) and and squat (_malasana_) strengthen and stretch the lower body including hips, knees, ankles, glutes, and core. Thes poses improve range of motion and  flexibility while also releasing stress, tension, anxiety, and pain. 
 
-_Utthan_ means "stretch out" and _pristha_ means "page of a book" or "back of the body" and _asana_ mean "pose."
 
 ### Sun salutation (_Surya Namaskar_) with affirmations
 
