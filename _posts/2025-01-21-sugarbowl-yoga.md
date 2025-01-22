@@ -18,7 +18,7 @@ Yoga yokes mind, body and spirit. The following sections of the yoga class illus
 Graditude mediation - mind and spirit <br>
 Body scan with massage - mind and body <br>
 Warm-up stretch - body and spirit <br>
-Surya Namaskar with affirmations - mind, body, and spirit <br>
+Sun salutation (_Surya Namaskar_) with affirmations - mind, body, and spirit <br>
 
        
 ## Class Outline
