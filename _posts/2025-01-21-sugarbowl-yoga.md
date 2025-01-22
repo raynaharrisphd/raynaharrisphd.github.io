@@ -15,21 +15,23 @@ tags: training
 
 Yoga yokes mind, body and spirit. The following sections of the yoga class illustrate the various combinations.
 
-Graditude mediation - mind and spirit <br>
+Gratitude mediation - mind and spirit <br>
 Body scan with massage - mind and body <br>
 Warm-up stretch - body and spirit <br>
 Sun salutation (_Surya Namaskar_) with affirmations - mind, body, and spirit <br>
 
+Mindful control of the breath (_pranayama_)  allows us to clear the mind and calm the body. 
+
        
 ## Class Outline
 
-### Graditude mediation
+### Gratitude mediation
 
 * Easy cross-legged pose (_sukhasana_)
 	* Deep breaths
 	* Gratitude meditation 
 		* person - palms up
-		* places -  middle fingers to thumbs (_akash mudra_)
+		* place -  middle fingers to thumbs (_akash mudra_)
 		* experience - palms at heart center (_anjali mudra_)
 
 ### Body scan with massage
@@ -81,3 +83,5 @@ Sun salutation (_Surya Namaskar_) with affirmations - mind, body, and spirit <br
 
 
 (_Image source: <https://www.mondaycampaigns.org/destress-monday/sun-salutation>_)
+
+
