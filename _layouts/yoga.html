@@ -62,13 +62,14 @@ I write a blog post for every class that includes an outline of the sequence, a 
         	{% if post.spotify != blank %}  
         	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="95%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
         	
-        	{% endif %}   	
+        	{% esle if %}   	
  
         		{% if post.youtube != blank %}             
 	
 			<iframe width="95%" height="152" src="https://www.youtube.com/embed/{{ post.youtube }}?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>         	
         	
-        	{% endif %}   	
+        	{% endif %}   
+        	{% endif %}   		
         	
 
 	 	</div>
