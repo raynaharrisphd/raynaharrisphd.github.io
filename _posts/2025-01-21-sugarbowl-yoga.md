@@ -61,6 +61,10 @@ Mindful control of the breath (_pranayama_)  allows us to clear the mind and cal
 	* Standing forward bend (_uttanasana_)
 	* Half lift (_ardha uttanasana_)
 
+Lizard and _malasana_ strengthen and stretche the lower body including hips, knees, ankles, glutes, and core. Thes poses improve range of motion and  flexibility while also releasing stress, tension, anxiety, and pain.
+
+
+
 ### Sun salutation (_Surya Namaskar_) with affirmations
 
 * Mountain pose (_tadasana_)
