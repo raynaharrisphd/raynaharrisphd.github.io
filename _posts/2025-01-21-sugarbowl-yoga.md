@@ -64,3 +64,8 @@ Sun salutation (_Surya Namaskar_) with affirmations - mind, body, and spirit <br
 <img src="/images/yoga/sunsalA.jpg" alt="half sal" width="95%" align="center"/>  
 
 (_Image source: <https://pranayoga.co.in/asana/surya-namaskar-a-ashtanga-yoga/>_)
+
+<img src="/images/yoga/sunsalA2.png" alt="half sal" width="95%" align="center"/>  
+
+
+(_Image source: <https://www.mondaycampaigns.org/destress-monday/sun-salutation>_)
