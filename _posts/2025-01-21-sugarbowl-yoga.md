@@ -78,13 +78,11 @@ Mindful control of the breath (_pranayama_)  allows us to clear the mind and cal
 	* Mountain pose palms at heart center (_tadasana with anjali mudra_): <br> **Namaste**
 	* End in mountain pose (_tadasana_) 
 
-<img src="/images/yoga/sunsalA.jpg" alt="half sal" width="95%" align="center"/>  
-
-(_Image source: <https://pranayoga.co.in/asana/surya-namaskar-a-ashtanga-yoga/>_)
-
-<img src="/images/yoga/sunsalA2.png" alt="half sal" width="95%" align="center"/>  
+<img src="/images/yoga/sunsalA.jpg" alt="half sal" width="45%" align="center"/>  
 
 
-(_Image source: <https://www.mondaycampaigns.org/destress-monday/sun-salutation>_)
+<img src="/images/yoga/sunsalA2.png" alt="half sal" width="45%" align="center"/>  
+
+(_Image sources: <https://pranayoga.co.in/asana/surya-namaskar-a-ashtanga-yoga/> and <https://www.mondaycampaigns.org/destress-monday/sun-salutation>_)
 
 
