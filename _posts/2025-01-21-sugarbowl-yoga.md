@@ -45,8 +45,8 @@ tags: training
 	* Exhale four-limbed staff pose (_chaturanga dandasana_): <br> **I am strong and resilient**
 	* Inhale upward-facing dog (_urdhva mukha svanasana_): <br> **My heart is open**
 	* Exhale downward-facing dog (_adho mukha svanasana_): <br> **I am compassionate and forgiving**
-	* Inhale forward bend half lift (_ardha uttanasana_): <br> **I trust the journey and the process**
-	* Forward bend (_uttanasana_): <br> **I am compassionate and forgiving**
+	* Inhale forward bend half lift (_ardha uttanasana_): <br> **I am capable of transformation**
+	* Forward bend (_uttanasana_): <br> **I trust the journey and the process**
 	* Mountain pose arms up (_urdhva hastasana_): <br> **I am worthy of good things**
 	* Mountain pose palms at heart center (_tadasana with anjali mudra_): <br> **Namaste**
 	* End in mountain pose (_tadasana_) 
