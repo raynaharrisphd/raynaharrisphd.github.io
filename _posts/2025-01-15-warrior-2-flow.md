@@ -5,11 +5,11 @@ date: 2025-01-15
 excerpt: "A 5 minute yoga flow with a welcome, warm-up stretch, Warrior II Flow, and a gratitude meditation."
 categories: yoga
 tags: training
-spotify: krROC18EsYs?si=7WWtm32aRHB7SccF
+youtube: krROC18EsYs?si=7WWtm32aRHB7SccF
 
 ---
 
-<iframe width="100%" height="275" src="https://www.youtube.com/embed/{{ page.spotify }}?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="100%" height="275" src="https://www.youtube.com/embed/{{ page.youtube }}?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
  
        
 ## Outline

@@ -2,15 +2,16 @@
 layout: post
 title: "Sugar Bowl Yoga Flow"
 date: 2025-01-22
-excerpt: "This 15-minute yoga class is part 1 of a 4-part 60-minute yoga class at SportHaus at Sugar Bowl. Part 1 is focused on grounding, meditating, and gentle stretching to prepare the mind, body, and spirit for the deeper stretches later in the class. The practice begins with a gratitude meditation focusing on people, places, and experiences. The practice ends with Sun Salutation A (Surya Namaskar) with affirmations to link the mind to the body and the spirit or breath. The full sequence of poses is listed below along with a YouTube video to follow along."
+excerpt: "This 15-minute yoga class is part 1 of a 3-part 60-minute yoga class at SportHaus at Sugar Bowl. Part 1 is focused on grounding, meditating, and gentle stretching to prepare the mind, body, and spirit for the deeper stretches later in the class. The practice begins with a gratitude meditation focusing on people, places, and experiences. The practice ends with Sun Salutation A (Surya Namaskar) with affirmations to link the mind to the body and the spirit or breath. The full sequence of poses is listed below along with a YouTube video to follow along."
 categories: yoga
 tags: training
+spotify: 01W4uxeaa0AnZKeNZHV1h1
 youtube: gtSiIwNoKUg?si=u9wGYJPmJZ62VNTV
 ---
 
 <iframe width="100%" height="275" src="https://www.youtube.com/embed/{{ page.spotify }}?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-## Logic
+## Overview
 
 Yoga yokes mind, body and spirit. The following sections of the yoga class illustrate the various combinations.
 
@@ -85,4 +86,10 @@ Lizard (_utthan pristhasana_) and and squat (_malasana_) strengthen and stretch 
 
 (_Image sources: <https://pranayoga.co.in/asana/surya-namaskar-a-ashtanga-yoga/> and <https://www.mondaycampaigns.org/destress-monday/sun-salutation>_)
 
+
+## Music
+
+Since I taught this yoga class in combination with two other yoga teachers, I didn't design a playlist because I thought the change over would be too difficult. However, my fellow Yogi, Meghan Fuss was in the audience and she took charge of the music for us and queued this lovely playlist.
+
+<iframe style="border*radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard*write; encrypted*media; fullscreen; picture*in*picture" loading="lazy"></iframe>  
 
