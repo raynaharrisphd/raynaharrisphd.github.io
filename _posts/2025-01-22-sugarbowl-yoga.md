@@ -81,11 +81,14 @@ Lizard (_utthan pristhasana_) and and squat (_malasana_) strengthen and stretch 
 	* Mountain pose palms at heart center (_tadasana with anjali mudra_): <br> **Namaste**
 	* End in mountain pose (_tadasana_) 
 
-<img src="/images/yoga/sunsalA.jpg" alt="half sal" width="45%" align="center"/>  
 
-<img src="/images/yoga/sunsalA2.png" alt="half sal" width="45%" align="center"/>  
+<img src="/images/yoga/sugarbowl.png" alt="half sal" width="40%" align="center"/>  
 
-(_Image sources: <https://pranayoga.co.in/asana/surya-namaskar-a-ashtanga-yoga/> and <https://www.mondaycampaigns.org/destress-monday/sun-salutation>_)
+<img src="/images/yoga/sunsalA2.png" alt="half sal" width="40%" align="center"/>  
+
+(_Image source: <https://www.mondaycampaigns.org/destress-monday/sun-salutation>_)
+
+
 
 
 ## Music
