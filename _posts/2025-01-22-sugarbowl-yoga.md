@@ -7,6 +7,7 @@ categories: yoga
 tags: training
 spotify: 01W4uxeaa0AnZKeNZHV1h1
 youtube: gtSiIwNoKUg?si=u9wGYJPmJZ62VNTV
+image: "/images/yoga/sugarbowl.png"
 ---
 
 <iframe width="100%" height="275" src="https://www.youtube.com/embed/{{ page.spotify }}?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
