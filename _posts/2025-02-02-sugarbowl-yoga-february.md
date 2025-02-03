@@ -13,20 +13,31 @@ spotify: 1BD83JMeGy0S7oGTQLNT9U
 ## Overview
 
 Intro
+
 * welcome
 * loving kindness meditation
+
 Warm-Up
+
 * arms & legs
 * neck and core 
+
 Flow 1
+
 * supported warrior II flow*
+
 Flow 2
+
 * warrior II flow*
+
 Restoration
+
 * supported forward bends
 * supported heart pose
 * Savasana
+
 Outro
+
 * loving kindness meditation
 * closing
 
