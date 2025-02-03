@@ -25,7 +25,9 @@ Flow 2
 Restoration
 * supported forward bends
 * supported heart pose
-* savasana
+* Savasana
 Outro
 * loving kindness meditation
 * closing
+
+## Notes
