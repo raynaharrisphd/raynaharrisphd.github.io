@@ -42,3 +42,5 @@ Outro
 * closing
 
 ## Notes
+
+I had two lovely clients in this class. It was more hatha + restorative than vinyasa, but that is what the students wanted. 
