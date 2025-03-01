@@ -10,6 +10,7 @@ sitemap:
 
 <h1> Teaching </h1>
 
+**Anatomy & Physiology, Introductory Biology, Molecular Biology, General Chemistry, Organic Chemistry, Statistics, Data Science, Computer Science, Spanish, Yoga**
 
 ### Tahoe Flow Arts & Fitness 
 
@@ -26,11 +27,7 @@ sitemap:
 ### Lake Tahoe Community College (LTCC)
 
 - Human Anatomy and Physiology Lab (BIO 203, BIO 204), Fall 2024
-- Dual Credit Chemistry (CHM 100), LTCC, Fall 2024 _Lecture recordings available on YouTube._
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ogRs3R5niweSTLfr&amp;list=PLNfIROxhN1JCCS7MgLIfV824yAF1Jg3al" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+- Dual Credit Chemistry (CHM 100), LTCC, Fall 2024 _Lecture recordings available on YouTube._ [Resources](https://youtu.be/4E8kQx6f7tc?list=PLNfIROxhN1JCCS7MgLIfV824yAF1Jg3al)
 - Introduction to Cell and Molecular Biology Lab, Spring 2024
 - Organic Chemistry III Lab (CHM 223L), Spring 2023, [Lab materials](https://osf.io/qb2tu/)
 - Introduction to Cell and Molecular Biology (BIO 110), Spring 2023, [Lecture materials](https://osf.io/tk9y8/)
