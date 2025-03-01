@@ -8,38 +8,41 @@ tags: training
 spotify: 1BD83JMeGy0S7oGTQLNT9U
 ---
 
-<iframe width="100%" height="275" src="https://www.youtube.com/embed/{{ page.spotify }}?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+## Playlist
 
-## Overview
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+
+
+## Class Ouline
 
 Intro
 
-* welcome
-* loving kindness meditation
+* Welcome
+* Loving Kindness Meditation
 
 Warm-Up
 
-* arms & legs
-* neck and core 
+* Arms and legs
+* Neck and core 
 
 Flow 1
 
-* supported warrior II flow*
+* Supported Warrior II Flow
 
 Flow 2
 
-* warrior II flow*
+* Warrior II Flow
 
 Restoration
 
-* supported forward bends
-* supported heart pose
+* Supported forward bends
+* Supported heart pose
 * Savasana
 
 Outro
 
-* loving kindness meditation
-* closing
+* Loving Kindness Meditation
+* Closing
 
 ## Notes
 
