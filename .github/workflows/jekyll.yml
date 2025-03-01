@@ -53,7 +53,6 @@ jobs:
       with:
         path: my-artifact
         pattern: my-artifact-*
-        overwrite: true
     - run: ls -R my-artifact
   merge:
     runs-on: ubuntu-latest
