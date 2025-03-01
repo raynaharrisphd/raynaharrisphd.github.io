@@ -12,14 +12,14 @@ sitemap:
 
 Cultural fluency is the ability to understand and engage with people from different cultures, and culturally responsive teaching is a student-centered approach that recognizes and develops student's unique strengths. This teaching portfolio was prepared as part of the Cultural Fluency Teaching Academy in 2024-2025 at Lake Tahoe Community College. 
 
-## Teaching Philosophy
-
-Here is my lastest [teaching philosophy statment](https://www.raynaharris.com/blog/teaching-philosophy/), written June 2024.
+[**Teaching Philosophy**](https://www.raynaharris.com/blog/teaching-philosophy/) 
+[**Welcome Video**](https://www.raynaharris.com/welcome/) 
+[**Syllabus Changes](https://www.raynaharris.com/syllabus/) 
  
 ## Goals for CFTA Fellowship
 
 - Increase engagement 
-- Improve grading 
+- Improve grading
 
 
 ## Course Mantras
@@ -43,11 +43,7 @@ To step-by-step multiple choice Canvas questions
 
 With multi-step, opened-ended questions discussed "think-pair-share" style in class 
 
-## Welcome Video
 
-Welcome to BIO 205 Human Anatomy and Physiology III
-
-<iframe width="90%" height="315" src="https://www.youtube.com/embed/PgWxfAfsc48?si=iAJZBI5loWcwg8Cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Syllabus Changes
 

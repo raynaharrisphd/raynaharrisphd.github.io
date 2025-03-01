@@ -8,20 +8,18 @@ sitemap:
     changefreq: yearly
 ---
 
-# Welome 
+# Welome Videos
 
-Watch my "Welcome to A&P III" video 
+Welcome to BIO 205 Human Anatomy and Physiology III
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mQKptphUSJo?si=HachER6Xay5yj3qZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/PgWxfAfsc48?si=iAJZBI5loWcwg8Cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Watch some lectures from my CHM 100 class.
+
+Welcome to BIO 204 Human Anatomy and Physiology II
+
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/mQKptphUSJo" title="Lecture 0. Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+CHM 100 Playlist.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ogRs3R5niweSTLfr&amp;list=PLNfIROxhN1JCCS7MgLIfV824yAF1Jg3al" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-View my [full CV](https://www.raynaharris.com/CV/) or my [teaching Resume](https://www.raynaharris.com/teaching/).
-
-# Mantras
-
-"Chemistry Is Exciting"
-
-"Structure and Function"
