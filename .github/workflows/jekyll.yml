@@ -59,8 +59,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: upload
     steps:
-    - name: Merge Artifacts
-      uses: actions/upload-artifact/merge@v4
+    - name: upload contect
+      uses: actions/upload-pages-artifact@v3
       with:
         name: github-pages
         pattern: my-artifact-*
