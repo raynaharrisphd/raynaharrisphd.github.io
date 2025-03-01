@@ -13,18 +13,19 @@ sitemap:
 
 ### Tahoe Flow Arts & Fitness 
 
-- Yoga at the Ritz, Fall 2024 [Resources](https://www.raynaharris.com/yoga/)
+- Morning Yoga at Sugar Bowl, Winter 2025 [Resources](https://www.raynaharris.com/blog/sugarbowl-yoga/)
+- Yoga Flow at the Ritz, Since Fall 2024 [Resources](https://www.raynaharris.com/yoga/)
 - Stand Up Paddle Yoga, Summer 2024 [Resources](https://www.raynaharris.com/yoga/)
 - Yoga on the Beach, Summer 2024 [Resources](https://www.raynaharris.com/yoga/)
 
 ### The Courage Project
 
 - 2024 Lake Tahoe Performance Summit, September 27, 2024
-- Mindful Yoga, Summers 2023 - 2024
+- Mindful Yoga for Kids, Summers 2023 - 2024
 
 ### Lake Tahoe Community College (LTCC)
 
-- Human Anatomy and Physiology Lab (BIO 203), Fall 2024
+- Human Anatomy and Physiology Lab (BIO 203, BIO 204), Fall 2024
 - Dual Credit Chemistry (CHM 100), LTCC, Fall 2024 _Lecture recordings available on YouTube._
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ogRs3R5niweSTLfr&amp;list=PLNfIROxhN1JCCS7MgLIfV824yAF1Jg3al" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
