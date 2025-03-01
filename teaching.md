@@ -10,7 +10,7 @@ sitemap:
 
 <h1> Teaching </h1>
 
-**Anatomy & Physiology, Introductory Biology, Molecular Biology, General Chemistry, Organic Chemistry, Statistics, Data Science, Computer Science, Spanish, Yoga**
+**Anatomy & Physiology, Molecular Biology, General Chemistry, Organic Chemistry, Statistics, Data Science, Computer Science, Spanish, Yoga**
 
 ### Tahoe Flow Arts & Fitness 
 
