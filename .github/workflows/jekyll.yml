@@ -62,7 +62,7 @@ jobs:
     - name: Merge Artifacts
       uses: actions/upload-artifact/merge@v4
       with:
-        name: all-my-files
+        name: github-pages
         pattern: my-artifact-*
 
   # Deployment job
