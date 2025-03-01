@@ -67,7 +67,7 @@ jobs:
 
   # Deployment job
   deploy:
-    needs: build
+    needs: upload
     permissions:
       pages: write
       id-token: write
