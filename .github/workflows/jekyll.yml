@@ -60,7 +60,7 @@ jobs:
     needs: upload
     steps:
     - name: Merge Artifacts
-      uses: actions/upload-pages-artifact
+      uses: actions/upload-pages-artifact/merge@v4
       with:
         name: github-pages
         pattern: my-artifact-*
