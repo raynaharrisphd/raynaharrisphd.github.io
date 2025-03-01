@@ -66,7 +66,7 @@ jobs:
         pattern: my-artifact-*
 
   # Deployment job
- deploy:
+  deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
