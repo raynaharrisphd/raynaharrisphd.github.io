@@ -26,9 +26,7 @@ Here is my lastest [teaching philosophy statment](https://www.raynaharris.com/bl
 
 Structure determines function.
 
-
-
-<img src="https://media.springernature.com/w580h326/nature-cms/uploads/collections/Structure_function-57bdce4ad4938bbe5ebac14695e92db5.jpg" alt="review" width="90%" align="center"/>
+<img src="https://www.bio.purdue.edu/news/articles/2017/images/Advances_manuscript_Figure_1-article.jpg" alt="review" width="90%" align="center"/>
 
 
 ## Equitable Grading Changes
