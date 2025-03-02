@@ -2,18 +2,19 @@
 layout: post
 title: "Monday Morning February Flow"
 date: 2025-02-02
+time: "9:15 AM" 
 excerpt: "An hour long vinyasa-style class with Heart Chakra / Love theme."
 categories: yoga
 tags: ['Sugar Bowl']
 description: "sugarbowl.md" 
 spotify: 1BD83JMeGy0S7oGTQLNT9U
-org: "The Sport Haus at Sugar Bowl "
-orgurl: "https://www.sugarbowl.com/sporthaus"
+org: "The Sport Haus at Sugar Bowl"
+orgurl: "https://www.sugarbowl.com/sporthaus/"
 ---
 
 ## Details
 
-**When:** {{ page.date | date: '%A, %B %-d, %Y' }} from {{ page.time }}   
+**When:** {{ page.date | date: '%A, %B %-d, %Y' }} at {{ page.time }}   
 **Where:** [{{page.org}}]({{page.orgurl}})   
 **Description:** {{ page.description }}     
 
