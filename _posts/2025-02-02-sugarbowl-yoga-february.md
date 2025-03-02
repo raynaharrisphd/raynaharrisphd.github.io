@@ -9,7 +9,7 @@ tags: ['Sugar Bowl']
 description: "sugarbowl.md" 
 spotify: 1BD83JMeGy0S7oGTQLNT9U
 org: "The Sport Haus at Sugar Bowl"
-orgurl: "https://www.sugarbowl.com/sporthaus/"
+orgurl: "https://www.sugarbowl.com/sporthaus"
 ---
 
 ## Details
