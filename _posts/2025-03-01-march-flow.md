@@ -51,12 +51,11 @@ Series 2: Dancing Warrior Flow
 * Star Pose
 * Repeat at back of mat to switch sides
 
-Hold poses for 3 breaths. 
-Repeat three times. First with cues only. Second with partner 1 talking about sensations and variations. Third with partner 2 talking about sensations and variations.
+_Hold poses for 3 breaths. Repeat three times. First with cues only. Second with partner 1 talking about sensations and variations. Third with partner 2 talking about sensations and variations._
 
 Series 3: Balancing Poses
 
-* Standing split - Half Moon*
+* Standing split - Half Moon
 * 1 leg tadasana - Warrior III flow
 * 1 leg tadasana - Warrior III - Half Moon
 
