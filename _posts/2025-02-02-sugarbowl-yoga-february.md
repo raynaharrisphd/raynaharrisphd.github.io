@@ -15,7 +15,7 @@ orgurl: "https://www.sugarbowl.com/sporthaus/"
 ## Details
 
 **When:** {{ page.date | date: '%A, %B %-d, %Y' }} at {{ page.time }}   
-**Where:** [{{page.org}}]({{page.orgurl}})   
+**Where:** [{{page.org}}]({{page.orgurl}})  
 **Description:** {{ page.description }}     
 
 ## Playlist
@@ -23,7 +23,7 @@ orgurl: "https://www.sugarbowl.com/sporthaus/"
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
 
-## Class Ouline
+## Class Outline
 
 Intro
 
