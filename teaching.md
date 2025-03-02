@@ -10,19 +10,7 @@ sitemap:
 
 <h1> Teaching </h1>
 
-**Anatomy & Physiology, Molecular Biology, General Chemistry, Organic Chemistry, Statistics, Data Science, Computer Science, Spanish, Yoga**
-
-### Tahoe Flow Arts & Fitness 
-
-- Morning Yoga at Sugar Bowl, Winter 2025 [Resources](https://www.raynaharris.com/blog/sugarbowl-yoga/)
-- Yoga Flow at the Ritz, Since Fall 2024 [Resources](https://www.raynaharris.com/yoga/)
-- Stand Up Paddle Yoga, Summer 2024 [Resources](https://www.raynaharris.com/yoga/)
-- Yoga on the Beach, Summer 2024 [Resources](https://www.raynaharris.com/yoga/)
-
-### The Courage Project
-
-- 2024 Lake Tahoe Performance Summit, September 27, 2024
-- Mindful Yoga for Kids, Summers 2023 - 2024
+**Anatomy & Physiology, General Chemistry, Organic Chemistry, Molecular Biology, Statistics, Data Science, Computer Science, Spanish, Yoga**
 
 ### Lake Tahoe Community College (LTCC)
 
@@ -33,9 +21,23 @@ sitemap:
 - Introduction to Cell and Molecular Biology (BIO 110), Spring 2023, [Lecture materials](https://osf.io/tk9y8/)
 - Principles of Biology III (BIO 103), Winter 2023, [Lecture materials](https://osf.io/aq5ek/)
 
+The Sport Haus at Sugar Bowl
+
+- Morning Yoga [Resources](https://www.raynaharris.com/blog/sugarbowl-yoga/)
+- Apres Ski Yoga 
+
+### Tahoe Flow Arts & Fitness 
+
+- Yoga Flow at the Ritz, Since Fall 2024 [Resources](https://www.raynaharris.com/yoga/)
+- Stand Up Paddle Yoga, Summer 2024 [Resources](https://www.raynaharris.com/yoga/)
+- Yoga on the Beach, Summer 2024 [Resources](https://www.raynaharris.com/yoga/)
+
+### The Courage Project
+
+- 2024 Lake Tahoe Performance Summit, September 27, 2024
+- Mindful Yoga for Kids, Summers 2023 - 2024
 
 ### University of California, Davis (UC Davis)
-
 
 - The Common Fund Data Ecosystem: Introduction to R for RNA-Seq Analysis [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/R-for-RNA-Seq/)
 - The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/UNIX/)  
@@ -59,7 +61,6 @@ sitemap:
 - Data Carpentry: Data Analysis and Visualization in Python for Ecologists (Spanish)[Lesson](https://datacarpentry.org/python-ecology-lesson-es/index.html)
 - Software Carpentry: The Unix Shell (Spanish) [Lesson](https://swcarpentry.github.io/shell-novice-es/) 
 - Software Carpentry: Version Control with Git (Spanish) [Lesson](https://swcarpentry.github.io/git-novice-es/) 
-
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/079bc032e62e43fbab52c4dc273b99fb" title="Community-driven efforts to translate educational materials into many languages" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 50%; height: auto; aspect-ratio: 560 / 420;" data-ratio="1.3333333333333333"></iframe>
 
