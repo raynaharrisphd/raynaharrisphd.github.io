@@ -20,7 +20,7 @@ orgurl: "https://www.sugarbowl.com/sporthaus"
 **Where:** [{{page.org}}]({{page.orgurl}})   
 **Description:** Whether you’re bombing through powder or cruising groomers, good balance and flexibility keep your turns smooth and help you stay injury-free. Morning Flow at Sugar Bowl is an invigorating Vinyasa flow class designed to work out the kinks, get your blood flowing, and optimize performance on and off the slopes.
 
-<iframe width="100%" height="275" src="https://www.youtube.com/embed/{{ page.spotify }}?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="100%" height="275" src="https://www.youtube.com/embed/{{ page.youtube }}?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 
 ## Overview
@@ -98,7 +98,6 @@ Lizard (_utthan pristhasana_) and and squat (_malasana_) strengthen and stretch 
 <img src="/images/yoga/sunsalA2.png" alt="half sal" width="40%" align="center"/>  
 
 (_Image source: <https://www.mondaycampaigns.org/destress-monday/sun-salutation>_)
-
 
 
 
