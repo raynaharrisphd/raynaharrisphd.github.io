@@ -68,11 +68,13 @@ Series 3: Balancing Poses
 * Savasana
 * Loving Kindness Meditation
 
-### Notes on Theme Integration
+## Notes on Theme Integration
 
 Encourage eye contact and smiling at partner. Touch fingertips. Active listending. Encourage discussion of modification during partner poses.
 
-   
+## Music
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
 
 
