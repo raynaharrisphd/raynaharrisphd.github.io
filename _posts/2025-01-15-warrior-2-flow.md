@@ -33,5 +33,3 @@ youtube: krROC18EsYs?si=7WWtm32aRHB7SccF
 ## Notes
 
 I made this 5 minute yoga flow when applying for a yoga instructor job at Sugar Bowl resort to share with my prospective colleagues.
-
-{{ page.description }}     

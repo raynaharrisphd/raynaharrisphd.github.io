@@ -18,7 +18,7 @@ orgurl: "https://www.sugarbowl.com/sporthaus"
 
 **When:** {{ page.date | date: '%A, %B %-d, %Y' }} at {{ page.time }}   
 **Where:** [{{page.org}}]({{page.orgurl}})   
-**Description:** {{ page.description }}     
+**Description:** Whether you’re bombing through powder or cruising groomers, good balance and flexibility keep your turns smooth and help you stay injury-free. Morning Flow at Sugar Bowl is an invigorating Vinyasa flow class designed to work out the kinks, get your blood flowing, and optimize performance on and off the slopes.
 
 <iframe width="100%" height="275" src="https://www.youtube.com/embed/{{ page.spotify }}?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
