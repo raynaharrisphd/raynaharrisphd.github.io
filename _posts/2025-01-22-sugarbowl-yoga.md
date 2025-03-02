@@ -10,6 +10,8 @@ tags: ['Sugar Bowl']
 spotify: 01W4uxeaa0AnZKeNZHV1h1
 youtube: gtSiIwNoKUg?si=u9wGYJPmJZ62VNTV
 image: "/images/yoga/sugarbowl.png"
+org: "The Sport Haus at Sugar Bowl"
+orgurl: "https://www.sugarbowl.com/sporthaus"
 ---
 
 ## Details
