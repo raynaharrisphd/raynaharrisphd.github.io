@@ -3,14 +3,22 @@ layout: post
 title: "Sugar Bowl Yoga Flow"
 date: 2025-01-22
 excerpt: "This 15-minute yoga class is part 1 of a 3-part 60-minute yoga class at SportHaus at Sugar Bowl. Part 1 is focused on grounding, meditating, and gentle stretching to prepare the mind, body, and spirit for the deeper stretches later in the class. The practice begins with a gratitude meditation focusing on people, places, and experiences. The practice ends with Sun Salutation A (Surya Namaskar) with affirmations to link the mind to the body and the spirit or breath. The full sequence of poses is listed below along with a YouTube video to follow along."
+description: "sugarbowl.md" 
 categories: yoga
-tags: training
+tags: ['Sugar Bowl']
 spotify: 01W4uxeaa0AnZKeNZHV1h1
 youtube: gtSiIwNoKUg?si=u9wGYJPmJZ62VNTV
 image: "/images/yoga/sugarbowl.png"
 ---
 
+## Details
+
+**When:** {{ page.date | date: '%A, %B %-d, %Y' }} from {{ page.time }}   
+**Where:** [{{page.org}}]({{page.orgurl}})   
+**Description:** {{ page.description }}     
+
 <iframe width="100%" height="275" src="https://www.youtube.com/embed/{{ page.spotify }}?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
 
 ## Overview
 
