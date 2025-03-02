@@ -25,32 +25,18 @@ orgurl: "https://www.sugarbowl.com/sporthaus"
 
 ## Class Outline
 
-Intro
-
+* Intro
 * Welcome
 * Loving Kindness Meditation
-
-Warm-Up
-
-* Arms and legs
-* Neck and core 
-
-Flow 1
-
+* Warm-Up
+	* Arms and legs
+	* Neck and core 
 * Supported Warrior II Flow
-
-Flow 2
-
 * Warrior II Flow
-
-Restoration
-
-* Supported forward bends
-* Supported heart pose
+* Restoration
+	* Supported forward bends
+	* Supported heart pose
 * Savasana
-
-Outro
-
 * Loving Kindness Meditation
 * Closing
 
