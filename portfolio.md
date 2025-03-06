@@ -21,8 +21,6 @@ Cultural fluency is the ability to understand and engage with people from differ
 
 Structure determines function.
 
-<img src="https://www.bio.purdue.edu/news/articles/2017/images/Advances_manuscript_Figure_1-article.jpg" alt="review" width="90%" align="center"/>
-
 ## Goals for CFTA Fellowship
 
 - Increase engagement 
