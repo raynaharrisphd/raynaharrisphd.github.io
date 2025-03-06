@@ -101,7 +101,8 @@ From <https://www.healthline.com/health/fitness/sun-salutation-sequence#sun-salu
 - Side stretch pose 
 - Side stretch pose  
 
+<img src="https://completewellbeing.com/wp-content/uploads/2013/06/traditional-chandra-namaskar-steps.jpg" alt="review" width="90%" align="center"/>
 
-![Moon](https://completewellbeing.com/wp-content/uploads/2013/06/traditional-chandra-namaskar-steps.jpg)
+
 From 
 <https://completewellbeing.com/wp-content/uploads/2013/06/traditional-chandra-namaskar-steps.jpg>.
