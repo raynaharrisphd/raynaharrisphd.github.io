@@ -12,10 +12,6 @@ sitemap:
 
 Cultural fluency is the ability to understand and engage with people from different cultures, and culturally responsive teaching is a student-centered approach that recognizes and develops student's unique strengths. This teaching portfolio was prepared as part of the Cultural Fluency Teaching Academy in 2024-2025 at Lake Tahoe Community College. 
 
-[Previous Experience](https://www.raynaharris.com/teaching/) * 
-[Teaching Philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) * 
-[Syllabus Changes](https://www.raynaharris.com/syllabus/) *
-[Welcome Video](https://www.raynaharris.com/welcome/)  
  
 ## Course Mantra
 
@@ -56,6 +52,10 @@ Thanks to a discussion about grades with Heather Eubanks after her lecture on "D
 <img src="/images/portfolio-2.png" alt="review" width="90%" align="center"/>
 <img src="/images/portfolio-1.png" alt="review" width="90%" align="center"/>
 
+### Additional resources and outputs
 
-
+[Previous Experience](https://www.raynaharris.com/teaching/) * 
+[Teaching Philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) * 
+[Syllabus Changes](https://www.raynaharris.com/syllabus/) *
+[Welcome Video](https://www.raynaharris.com/welcome/)  
 
