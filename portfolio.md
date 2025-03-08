@@ -31,7 +31,12 @@ Change the structure change the function
 
 1. Icebreakers in Chemistry
 
-Science in Popculture activity on first day back from winter break. 
+Prompts from  the science in pop-culture activity on first day back from winter break. 
+
+- What songs reference real-life chemical elements or compounds?
+- What TV shows or movies accurately depict chemical reactions?
+- What TV shows or movies inaccurately depict chemical processes?
+
 
 1. Grading Changes in Chemistry
 
@@ -51,8 +56,10 @@ With multi-step, opened-ended questions discussed "think-pair-share" style in cl
 
 **Examples from  BIO 205**
 
-From cheating to alternative assignments
+Alternative assignments for absent students
 
+<img src="/images/portfolio-1.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio-2.png" alt="review" width="90%" align="center"/>
 
 
 
