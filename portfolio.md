@@ -19,7 +19,8 @@ Cultural fluency is the ability to understand and engage with people from differ
  
 ## Course Mantra
 
-Change the structure change the function
+<img src="/images/motto.png" alt="review" width="90%" align="center"/>
+
 
 ## Goals for CFTA Fellowship
 
