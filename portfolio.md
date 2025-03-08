@@ -17,16 +17,23 @@ Cultural fluency is the ability to understand and engage with people from differ
 [Syllabus Changes](https://www.raynaharris.com/syllabus/) *
 [Welcome Video](https://www.raynaharris.com/welcome/)  
  
-## Course Mantras
+## Course Mantra
 
-Structure determines function.
+Change the structure change the function
 
 ## Goals for CFTA Fellowship
 
 - Increase engagement 
 - Improve grading
 
-## Equitable Grading Changes
+## CFTA influence on teaching
+
+
+1. Icebreakers in Chemistry
+
+Science in Popculture activity on first day back from winter break. 
+
+1. Grading Changes in Chemistry
 
 **Examples from CHM 100**
 
@@ -38,4 +45,14 @@ To step-by-step multiple choice Canvas questions
 
 <img src="/images/CFTA-2.png" alt="review" width="90%" align="center"/>
 
-With multi-step, opened-ended questions discussed "think-pair-share" style in class 
+With multi-step, opened-ended questions discussed "think-pair-share" style in class.
+
+1. Equitable Grading Changes in Anatomy & Physiology
+
+**Examples from  BIO 205**
+
+From cheating to alternative assignments
+
+
+
+
