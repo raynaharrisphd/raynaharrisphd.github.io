@@ -12,20 +12,24 @@ sitemap:
 
 Cultural fluency is the ability to understand and engage with people from different cultures, and culturally responsive teaching is a student-centered approach that recognizes and develops student's unique strengths. This teaching portfolio was prepared as part of the Cultural Fluency Teaching Academy in 2024-2025 at Lake Tahoe Community College. 
 
- 
-## Course Mantra
-
-<img src="/images/motto.png" alt="review" width="90%" align="center"/>
-
-
 ## Goals for CFTA Fellowship
 
 - Increase engagement 
 - Improve grading
 
+ 
+ 
+
+
+
 ## Pedagogical and Curricular Changes
 
-### 1. Icebreakers in Chemistry
+## 1. Course Mantra
+
+<img src="/images/motto.png" alt="review" width="90%" align="center"/>
+
+
+### 2. Pop-culture in Chemistry
 
 Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote three prompts from  the science in pop-culture activity in CHM 100, Dual Credit course. The students pulled a prompt from a beaker the were instructed to think of examples alone, with a partner, and in small groups (think, pair, share). 
 
@@ -36,7 +40,7 @@ Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote 
 Students were very engaged. Then we segued into drawing chemical equation prompts from a beaker to work on homework problems in class. At the end of class, one student (who said they didn't want to be there upon arrival) said that the pop culture active was the perfect activity to get him to be excited about chemistry and participation.   
 
 
-### 2. Grading Changes in Chemistry
+### 3. Grading Changes in Chemistry
 
 Related the Dr. Bruce Hoskins, I actually wrote more multiple-choice questions for my chem class. I converted open-ended essay questions from hand-written homework assignements into a series of multiple choice questions for in-class assessment. My goal was the provide students with immediate feedback "write/wrong" on the quiz then using the homework to provide additional feedback on their calculations and logic.
 
@@ -44,7 +48,7 @@ Related the Dr. Bruce Hoskins, I actually wrote more multiple-choice questions f
 <img src="/images/CFTA-2.png" alt="review" width="90%" align="center"/>
 
 
-### 3. Equitable Grading Changes in Anatomy & Physiology
+### 4. Grading Changes in Anatomy & Physiology
 
 Thanks to a discussion about grades with Heather Eubanks after her lecture on "Data Inquiry and Continuous Improvement", I made some grading changes to my Biology lab quizzes. My quizes have some built in attendance points, but at the beginning of the quarter I didn't provide any make-up alternatives. I've since additional alternatives for students for credit.
 
@@ -54,8 +58,8 @@ Thanks to a discussion about grades with Heather Eubanks after her lecture on "D
 ### Additional Resources and Outputs
 
 
-* [Teaching Philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) 
-* [Equity-Minded Syllabus Changes](https://www.raynaharris.com/syllabus/) 
-* [Welcome Video](https://www.raynaharris.com/welcome/)  
+* 5. [Teaching Philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) 
+* 6. [Equity-Minded Syllabus Changes](https://www.raynaharris.com/syllabus/) 
+* 7. [Welcome Video](https://www.raynaharris.com/welcome/)  
 * [Previous Experience](https://www.raynaharris.com/teaching/)  
 
