@@ -28,8 +28,7 @@ Change the structure change the function
 
 ## CFTA influence on teaching
 
-
-1. Icebreakers in Chemistry
+### 1. Icebreakers in Chemistry
 
 Prompts from  the science in pop-culture activity on first day back from winter break. 
 
@@ -38,7 +37,7 @@ Prompts from  the science in pop-culture activity on first day back from winter 
 - What TV shows or movies inaccurately depict chemical processes?
 
 
-1. Grading Changes in Chemistry
+### 2. Grading Changes in Chemistry
 
 **Examples from CHM 100**
 
@@ -52,7 +51,7 @@ To step-by-step multiple choice Canvas questions
 
 With multi-step, opened-ended questions discussed "think-pair-share" style in class.
 
-1. Equitable Grading Changes in Anatomy & Physiology
+### 3. Equitable Grading Changes in Anatomy & Physiology
 
 **Examples from  BIO 205**
 
