@@ -17,14 +17,11 @@ Cultural fluency is the ability to understand and engage with people from differ
 - Increase engagement 
 - Improve grading
 
- 
- 
-
 
 
 ## Pedagogical and Curricular Changes
 
-## 1. Course Mantra
+### 1. Course Mantra
 
 <img src="/images/motto.png" alt="review" width="90%" align="center"/>
 
