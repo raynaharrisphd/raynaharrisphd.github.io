@@ -23,7 +23,7 @@ Cultural fluency is the ability to understand and engage with people from differ
 - Increase engagement 
 - Improve grading
 
-## CFTA influence on teaching
+## Pedagogical and Curricular Changes
 
 ### 1. Icebreakers in Chemistry
 
@@ -41,7 +41,6 @@ Students were very engaged. Then we segued into drawing chemical equation prompt
 Related the Dr. Bruce Hoskins, I actually wrote more multiple-choice questions for my chem class. I converted open-ended essay questions from hand-written homework assignements into a series of multiple choice questions for in-class assessment. My goal was the provide students with immediate feedback "write/wrong" on the quiz then using the homework to provide additional feedback on their calculations and logic.
 
 <img src="/images/CFTA-1.png" alt="review" width="90%" align="center"/>
-
 <img src="/images/CFTA-2.png" alt="review" width="90%" align="center"/>
 
 
@@ -52,10 +51,11 @@ Thanks to a discussion about grades with Heather Eubanks after her lecture on "D
 <img src="/images/portfolio-2.png" alt="review" width="90%" align="center"/>
 <img src="/images/portfolio-1.png" alt="review" width="90%" align="center"/>
 
-### Additional resources and outputs
+### Additional Resources and Outputs
 
-[Previous Experience](https://www.raynaharris.com/teaching/) * 
-[Teaching Philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) * 
-[Syllabus Changes](https://www.raynaharris.com/syllabus/) *
-[Welcome Video](https://www.raynaharris.com/welcome/)  
+
+* [Teaching Philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) 
+* [Equity-Minded Syllabus Changes](https://www.raynaharris.com/syllabus/) 
+* [Welcome Video](https://www.raynaharris.com/welcome/)  
+* [Previous Experience](https://www.raynaharris.com/teaching/)  
 
