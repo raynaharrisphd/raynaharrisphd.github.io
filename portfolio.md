@@ -55,8 +55,8 @@ Thanks to a discussion about grades with Heather Eubanks after her lecture on "D
 ### Additional Resources and Outputs
 
 
-* 5. [Teaching Philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) 
-* 6. [Equity-Minded Syllabus Changes](https://www.raynaharris.com/syllabus/) 
-* 7. [Welcome Video](https://www.raynaharris.com/welcome/)  
+* [Teaching Philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) 
+* [Equity-Minded Syllabus Changes](https://www.raynaharris.com/syllabus/) 
+* [Welcome Video](https://www.raynaharris.com/welcome/)  
 * [Previous Experience](https://www.raynaharris.com/teaching/)  
 
