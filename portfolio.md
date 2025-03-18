@@ -36,7 +36,6 @@ Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote 
 
 Students were very engaged. Then we segued into drawing chemical equation prompts from a beaker to work on homework problems in class. At the end of class, one student (who said they didn't want to be there upon arrival) said that the pop culture active was the perfect activity to get him to be excited about chemistry and participation.   
 
-
 ### 3. Grading Changes in Chemistry
 
 Related the Dr. Bruce Hoskins, I actually wrote more multiple-choice questions for my chem class. I converted open-ended essay questions from hand-written homework assignements into a series of multiple choice questions for in-class assessment. My goal was the provide students with immediate feedback "write/wrong" on the quiz then using the homework to provide additional feedback on their calculations and logic.

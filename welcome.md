@@ -14,7 +14,6 @@ Welcome to BIO 205 Human Anatomy and Physiology III
 
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/PgWxfAfsc48?si=iAJZBI5loWcwg8Cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 Welcome to BIO 204 Human Anatomy and Physiology II
 
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/mQKptphUSJo" title="Lecture 0. Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
