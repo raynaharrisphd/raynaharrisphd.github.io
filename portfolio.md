@@ -8,13 +8,15 @@ sitemap:
     changefreq: yearly
 ---
 
-# Cultural Fluency Teaching Academy (CFTA) Portfolio
 
-Hi! I'm Rayna. I was born in small town in east Texas with lakes and pine trees, but I now live in Alpine Meadows, a small town in California with lakes, pine trees, and mountains. I have a Ph.D. in Molecular and Cellular Biology and a B.S in Biochemistry from The University of Texas at Austin and 20 years of experience teaching science and technology. I am currently Adjunct Faculty Member in Biology and Chemistry at Lake Tahoe Community College, a yoga instructor with The Courage Project, Tahoe Flow Arts & Fitness, and Sugar Bowl Resort. As a Libra, I strive drive for balance, fairness, and equity in my life. 
+Hi! I'm Rayna. I was born in small town in east Texas with lakes and pine trees, but I now live in Alpine Meadows, a small town in Cali with lakes and pine trees. I have a Ph.D. in Molecular and Cellular Biology and a B.S in Biochemistry from The University of Texas at Austin. I've wanted to be a teacher for as long as I can remember (although I occasionally get side-tracked), and I 20 years of experience teaching science and technology. I am currently Adjunct Faculty Member in Biology and Chemistry at Lake Tahoe Community College, a yoga instructor with The Courage Project, Tahoe Flow Arts & Fitness, and Sugar Bowl Resort. As a Libra, I strive drive for balance, fairness, and equity in my life. 
 
 <img src="/images/yoga/birthday-2.png" alt="review" width="90%" align="center"/>
 
 _Me on my 40th birthday leading a free yoga class on the beach with my friends (mostly current, former, and adjacent coworkers)._
+
+# Cultural Fluency Teaching Academy (CFTA) Portfolio
+
 
 ## Goals for my CFTA Fellowship
 
