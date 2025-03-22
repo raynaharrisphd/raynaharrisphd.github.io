@@ -10,14 +10,20 @@ sitemap:
 
 # Cultural Fluency Teaching Academy (CFTA) Portfolio
 
-Cultural fluency is the ability to understand and engage with people from different cultures, and culturally responsive teaching is a student-centered approach that recognizes and develops student's unique strengths. This teaching portfolio was prepared as part of the Cultural Fluency Teaching Academy in 2024-2025 at Lake Tahoe Community College. 
+Hi! I'm Rayna. I was born in small town in east Texas with lakes and pine tree, but I now live in Alpine Meadows, a small town in California with lakes, pine trees, and mountains. 
+
+I have a Ph.D. in Molecular and Cellular Biology and a B.S in Biochemistry from The University of Texas at Austin and 20 years of experience teaching science and technology. 
+
+I am currently Adjunct Faculty Member in Biology and Chemistry at Lake Tahoe Community College, a yoga instructor with The Courage Project, Tahoe Flow Arts & Fitness, and Sugar Bowl Resort.
+
+<img src="/images/birthday-2.png" alt="review" width="90%" align="center"/>
+
+
 
 ## Goals for CFTA Fellowship
 
 - Increase engagement 
 - Improve grading
-
-
 
 ## Pedagogical and Curricular Changes
 
