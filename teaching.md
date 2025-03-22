@@ -21,7 +21,7 @@ sitemap:
 - Introduction to Cell and Molecular Biology (BIO 110), Spring 2023, [Lecture materials](https://osf.io/tk9y8/)
 - Principles of Biology III (BIO 103), Winter 2023, [Lecture materials](https://osf.io/aq5ek/)
 
-The Sport Haus at Sugar Bowl
+## The Sport Haus at Sugar Bowl
 
 - Morning Yoga [Resources](https://www.raynaharris.com/blog/sugarbowl-yoga/)
 - Apres Ski Yoga 
