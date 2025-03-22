@@ -13,8 +13,6 @@ sitemap:
 Hi! I'm Rayna. I was born in small town in east Texas with lakes and pine trees, but I now live in Alpine Meadows, a small town in California with lakes, pine trees, and mountains. I have a Ph.D. in Molecular and Cellular Biology and a B.S in Biochemistry from The University of Texas at Austin and 20 years of experience teaching science and technology. I am currently Adjunct Faculty Member in Biology and Chemistry at Lake Tahoe Community College, a yoga instructor with The Courage Project, Tahoe Flow Arts & Fitness, and Sugar Bowl Resort. As a Libra, I strive drive for balance, fairness, and equity in my life. 
 
 <img src="/images/yoga/birthday-2.png" alt="review" width="90%" align="center"/>
-<img src="/images/yoga/birthday.png" alt="review" width="90%" align="center"/>
-
 
 ## Goals for my CFTA Fellowship
 
