@@ -49,7 +49,6 @@ Related the Dr. Bruce Hoskins, I actually wrote more multiple-choice questions f
 
 Thanks to a discussion about grades with Heather Eubanks after her lecture on "Data Inquiry and Continuous Improvement", I made some grading changes to my Biology lab quizzes. My quizes have some built in attendance points, but at the beginning of the quarter I didn't provide any make-up alternatives. I've since additional alternatives for students for credit.
 
-<img src="/images/portfolio-2.png" alt="review" width="90%" align="center"/>
 <img src="/images/portfolio-1.png" alt="review" width="90%" align="center"/>
 <img src="/images/portfolio-3.png" alt="review" width="90%" align="center"/>
 
