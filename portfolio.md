@@ -52,6 +52,13 @@ Thanks to a discussion about grades with Heather Eubanks after her lecture on "D
 <img src="/images/portfolio-1.png" alt="review" width="90%" align="center"/>
 <img src="/images/portfolio-3.png" alt="review" width="90%" align="center"/>
 
+### 5. Caveat to Group-Work: Some Love It, Others Don't
+
+
+<img src="/images/portfolio-5.png" alt="review" width="90%" align="center"/>
+
+<img src="/images/portfolio-4.png" alt="review" width="90%" align="center"/>
+
 
 ### Additional Resources and Outputs
 
