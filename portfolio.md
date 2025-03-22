@@ -14,6 +14,8 @@ Hi! I'm Rayna. I was born in small town in east Texas with lakes and pine trees,
 
 <img src="/images/yoga/birthday-2.png" alt="review" width="90%" align="center"/>
 
+_Me on my 40th birthday leading a free yoga class on the beach with my friends (mostly current, former, and adjacent coworkers)._
+
 ## Goals for my CFTA Fellowship
 
 - Increase engagement in the classroom
