@@ -16,14 +16,10 @@ Hi! I'm Rayna. I was born in small town in east Texas with lakes and pine trees,
 <img src="/images/yoga/birthday.png" alt="review" width="90%" align="center"/>
 
 
-
 ## Goals for my CFTA Fellowship
 
 - Increase engagement in the classroom
 - Implement equitable grading practices
-
-
-### Educational Mantra
 
 <img src="/images/motto.png" alt="review" width="90%" align="center"/>
 
