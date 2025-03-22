@@ -22,14 +22,14 @@ Hi! I'm Rayna. I was born in small town in east Texas with lakes and pine trees,
 - Increase engagement in the classroom
 - Implement equitable grading practices
 
-## Pedagogical and Curricular Changes
 
-### 1. Course Mantra
+### Educational Mantra
 
 <img src="/images/motto.png" alt="review" width="90%" align="center"/>
 
+## Pedagogical and Curricular Changes
 
-### 2. Pop-culture in Chemistry
+### 1. Pop-culture in Chemistry
 
 Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote three prompts from  the science in pop-culture activity in CHM 100, Dual Credit course. The students pulled a prompt from a beaker the were instructed to think of examples alone, with a partner, and in small groups (think, pair, share). 
 
@@ -39,7 +39,7 @@ Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote 
 
 Students were very engaged. Then we segued into drawing chemical equation prompts from a beaker to work on homework problems in class. At the end of class, one student (who said they didn't want to be there upon arrival) said that the pop culture active was the perfect activity to get him to be excited about chemistry and participation.   
 
-### 3. Grading Changes in Chemistry
+### 2. Grading Changes in Chemistry
 
 Related the Dr. Bruce Hoskins, I actually wrote more multiple-choice questions for my chem class. I converted open-ended essay questions from hand-written homework assignements into a series of multiple choice questions for in-class assessment. My goal was the provide students with immediate feedback "write/wrong" on the quiz then using the homework to provide additional feedback on their calculations and logic.
 
@@ -47,7 +47,7 @@ Related the Dr. Bruce Hoskins, I actually wrote more multiple-choice questions f
 <img src="/images/CFTA-2.png" alt="review" width="90%" align="center"/>
 
 
-### 4. Grading Changes in Anatomy & Physiology
+### 3. Grading Changes in Anatomy & Physiology
 
 Thanks to a discussion about grades with Heather Eubanks after her lecture on "Data Inquiry and Continuous Improvement", I made some grading changes to my Biology lab quizzes. My quizes have some built in attendance points, but at the beginning of the quarter I didn't provide any make-up alternatives. I've since additional alternatives for students for credit.
 
@@ -55,7 +55,7 @@ Thanks to a discussion about grades with Heather Eubanks after her lecture on "D
 <img src="/images/portfolio-1.png" alt="review" width="90%" align="center"/>
 <img src="/images/portfolio-3.png" alt="review" width="90%" align="center"/>
 
-### 5. Caveat to Group-Work: Some Love It, Others Don't
+### 4. Caveat to Group-Work: Some Love It, Others Don't
 
 
 <img src="/images/portfolio-5.png" alt="review" width="90%" align="center"/>
