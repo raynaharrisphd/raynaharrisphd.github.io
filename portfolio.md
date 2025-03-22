@@ -50,6 +50,8 @@ Thanks to a discussion about grades with Heather Eubanks after her lecture on "D
 
 <img src="/images/portfolio-2.png" alt="review" width="90%" align="center"/>
 <img src="/images/portfolio-1.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio-3.png" alt="review" width="90%" align="center"/>
+
 
 ### Additional Resources and Outputs
 
