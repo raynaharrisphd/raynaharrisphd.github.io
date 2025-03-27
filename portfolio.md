@@ -41,23 +41,29 @@ Students were very engaged. Then we segued into drawing chemical equation prompt
 
 Related the Dr. Bruce Hoskins, I actually wrote more multiple-choice questions for my chem class. I converted open-ended essay questions from hand-written homework assignements into a series of multiple choice questions for in-class assessment. My goal was the provide students with immediate feedback "write/wrong" on the quiz then using the homework to provide additional feedback on their calculations and logic.
 
-<img src="/images/CFTA-1.png" alt="review" width="90%" align="center"/>
-<img src="/images/CFTA-2.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/CFTA-1.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/CFTA-2.png" alt="review" width="90%" align="center"/>
 
 
 ### 3. Grading Changes in Anatomy & Physiology
 
 Thanks to a discussion about grades with Heather Eubanks after her lecture on "Data Inquiry and Continuous Improvement", I made some grading changes to my Biology lab quizzes. My quizes have some built in attendance points, but at the beginning of the quarter I didn't provide any make-up alternatives. I've since additional alternatives for students for credit.
 
-<img src="/images/portfolio-1.png" alt="review" width="90%" align="center"/>
-<img src="/images/portfolio-3.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/portfolio-1.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/portfolio-3.png" alt="review" width="90%" align="center"/>
 
 ### 4. Caveat to Group-Work: Some Love It, Others Don't
 
 
-<img src="/images/portfolio-5.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/portfolio-5.png" alt="review" width="90%" align="center"/>
 
-<img src="/images/portfolio-4.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/portfolio-4.png" alt="review" width="90%" align="center"/>
+
+### 5. Bonus Activity: Advice for Future Students
+
+<img src="/images/portfolio/seniorday-1.png" alt="review" width="30%" align="center"/>
+<img src="/images/portfolio/seniorday-2.png" alt="review" width="30%" align="center"/>
+<img src="/images/portfolio/seniorday-3.png" alt="review" width="30%" align="center"/>
 
 
 ### Additional Resources and Outputs
