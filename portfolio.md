@@ -61,9 +61,9 @@ Thanks to a discussion about grades with Heather Eubanks after her lecture on "D
 
 ### 5. Bonus Activity: Advice for Future Students
 
-<img src="/images/portfolio/seniorday-1.png" alt="review" width="30%" align="center"/>
-<img src="/images/portfolio/seniorday-2.png" alt="review" width="30%" align="center"/>
-<img src="/images/portfolio/seniorday-3.png" alt="review" width="30%" align="center"/>
+<img src="/images/portfolio/seniorday-1.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/seniorday-2.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/seniorday-3.png" alt="review" width="90%" align="center"/>
 
 
 ### Additional Resources and Outputs
