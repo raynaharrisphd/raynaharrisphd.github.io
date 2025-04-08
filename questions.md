@@ -28,19 +28,6 @@ sitemap:
 1. Is it ethical for AI to be used in grading or assessing students' work in biology? What potential benefits and drawbacks should be considered?
 1. AI algorithms are only as unbiased as the data they are trained on. What ethical implications could arise if an AI tool in a biology classroom is trained on biased or incomplete data?
 
-### Lab 21 Lymphatics and Immunity 
-
-
-1. What regions of the body are drained by the lymphatic duct?
-5. What cell types are phagocytic? 
-6. Explain the role of dendritic cells in linking the innate and adaptive immune systems. In your response, describe how dendritic cells function in both immune responses, their role in antigen presentation, and their interaction with T cells to initiate adaptive immunity.
-7. What is the main component of humoral immunity? 
-8. Why do diseases that damage erythocytes tend to cause enlargement of the spleen? 
-9. Four weeks ago, Melva underwent surgery to remove her cancerous right breast as well as all the axillary lymph nodes on the left side. She is now reporting extensive swelling in her upper left limb. What do you suspect is the cause of the swelling?
-10. Juliet had her tonsils removed to alleviate recurring infections. A histological examination of the extracted tissue revealed deep tonsillar cysts. How does this help explain the recurring infections?
-11. Studies have shown that SARS-CoV-2 can impair dendritic cell activity during the acute phase of the infection. How does this affect the immune response to SARS-CoV-2?
-12. The drug ibuprofen blocks the production of inflammatory mediators, including pyrogens. Why does this make ibuprofen a good drug to treat fever?
-
 
 ### Lab 24 Digestive System  
 
