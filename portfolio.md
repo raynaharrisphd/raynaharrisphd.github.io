@@ -11,7 +11,7 @@ sitemap:
 # Cultural Fluency Teaching Academy (CFTA) Portfolio
 
 
-Hi! I'm Rayna. Originally from a small town in East Texas, surrounded by lakes and pine trees, I now call Alpine Meadows home. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. Teaching has been my passion for as long as I can remember, though I’ve occasionally been sidetracked along the way. With 20 years of experience in science and technology education, I currently serve as an Adjunct Faculty Member in Biology and Chemistry at Lake Tahoe Community College. In addition, I teach yoga with The Courage Project and Tahoe Flow Arts & Fitness.
+Hi! I'm Rayna. I'm from a small town in East Texas surrounded by lakes and pine trees, but I now live in Alpine Meadows. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. I have nearly 20 years of experience teaching courses in science and technology. I also teach yoga with The Courage Project and Tahoe Flow Arts & Fitness.
 
 I am deeply committed to fostering balance, fairness, and equity in my diverse classrooms. You can learn more about my teaching philosophy in my [blog](https://www.raynaharris.com/blog/teaching-philosophy/) and view my [CV](https://www.raynaharris.com/teaching/). This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the Anatomy & Physiology (BIO 204 and 205) and Introduction to General Chemistry for Dual High School and College Credit (CHM 100) courses.
 
