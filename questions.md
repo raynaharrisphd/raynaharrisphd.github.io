@@ -31,8 +31,6 @@ sitemap:
 
 
 1. What regions of the body are drained by the lymphatic duct?
-3. Tonsils are defined as ???
-4. In the center of the lymphoid follicle is a ???, containing B lymphocytes, dendritic cells, and macrophages. 
 5. What cell types are phagocytic? 
 6. Explain the role of dendritic cells in linking the innate and adaptive immune systems. In your response, describe how dendritic cells function in both immune responses, their role in antigen presentation, and their interaction with T cells to initiate adaptive immunity.
 7. What is the main component of humoral immunity? 
