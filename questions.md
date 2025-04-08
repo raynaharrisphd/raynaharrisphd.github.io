@@ -21,8 +21,7 @@ sitemap:
 
 ### Group Project Presentations and Ethical AI
 
-1. What are the key functions of the __immune/digestive/urinary/respiratory/reproductive system__, and how do these contribute to overall health? What diseases or disorders are associated with his system?
-
+1. What are the key functions of the immune/digestive/urinary/respiratory/reproductive system, and how do these contribute to overall health? What diseases or disorders are associated with his system?
 1. How can you use AI ethically in BIO 205 to facilitate your learning without replacing critical thinking and problem-solving?
 1. How can AI be used to enhance accessibility and inclusion in the biology classroom?
 1. Is it ethical for AI to be used in grading or assessing students' work in biology? What potential benefits and drawbacks should be considered?
