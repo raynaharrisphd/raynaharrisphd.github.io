@@ -17,7 +17,7 @@ Hi! I'm Rayna. I'm from a small town in East Texas surrounded by lakes and pine 
 <img src="/images/portfolio/courageproujects-summit.png" alt="review" width="55%" align="center"/>
 
 
-<img src="/images/portfolio/courageproujects-summit.png" alt="review" width="35%" align="center"/>
+<img src="/images/portfolio/r4ds.png" alt="review" width="35%" align="center"/>
 
 _Photo of me teaching people meditation and yoga as part of an educational summit on mental health concerns in athletes and how to use R for data analsis as part of an R Ladies Buenos Aires meetup._
 
