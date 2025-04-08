@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-portfolio
 title: Question
 description: Think Pair Share 
 sitemap:
