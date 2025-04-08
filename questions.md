@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Question
-description: Think Pair Share Question
+description: Think Pair Share 
 sitemap:
     priority: 0.7
     lastmod: 2025-04-07
@@ -9,7 +9,7 @@ sitemap:
 ---
 
 
-## Think Pair Share Questions for BIO 305 (Anatomy & Physiology III) 
+# Think Pair Share Questions for BIO 305 (Anatomy & Physiology III) 
 
 
 ### Lab 24 Digestive System 
@@ -26,8 +26,6 @@ sitemap:
 9. What is _Pancreatitis_? What are the symptoms?
 
 ### Lab 21 Lymphatics and Immunity 
-
-
 
 
 1. What regions of the body are drained by the lymphatic duct?
