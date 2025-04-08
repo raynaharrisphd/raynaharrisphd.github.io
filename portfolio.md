@@ -11,8 +11,9 @@ sitemap:
 # Cultural Fluency Teaching Academy (CFTA) Portfolio
 
 
-Hi! I'm Rayna. I was born in small town in east Texas with lakes and pine trees, but I now live in Alpine Meadows, CA. I have a Ph.D. in Molecular and Cellular Biology and a B.S in Biochemistry from The University of Texas at Austin. I've wanted to be a teacher for as long as I can remember (although I occasionally get side-tracked), and I 20 years of experience teaching science and technology. I am currently Adjunct Faculty Member in Biology and Chemistry at Lake Tahoe Community College, a yoga instructor with The Courage Project, Tahoe Flow Arts & Fitness, and Sugar Bowl Resort. I strive drive for balance, fairness, and equity in my diverse classes. More details in my [teaching philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) and [CV](https://www.raynaharris.com/teaching/). This portfolio describes the influence of the CFTA on my teaching, specially the Anatomy & Physiolog (BIO 204 and 205) and Introduction to General Chemistry for Dual High School and College Credit (CHM 100).
+Hi! I'm Rayna. Originally from a small town in East Texas, surrounded by lakes and pine trees, I now call Alpine Meadows home. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. Teaching has been my passion for as long as I can remember, though I’ve occasionally been sidetracked along the way. With 20 years of experience in science and technology education, I currently serve as an Adjunct Faculty Member in Biology and Chemistry at Lake Tahoe Community College. In addition, I teach yoga with The Courage Project and Tahoe Flow Arts & Fitness.
 
+I am deeply committed to fostering balance, fairness, and equity in my diverse classrooms. You can learn more about my teaching philosophy in my [blog](https://www.raynaharris.com/blog/teaching-philosophy/) and view my [CV](https://www.raynaharris.com/teaching/). This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the Anatomy & Physiology (BIO 204 and 205) and Introduction to General Chemistry for Dual High School and College Credit (CHM 100) courses.
 
 <!-----
 <img src="/images/yoga/birthday-2.png" alt="review" width="90%" align="center"/>
@@ -35,15 +36,11 @@ _Me on my 40th birthday leading a free yoga class on the beach with my friends (
 
 Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote three prompts from  the science in pop-culture activity in CHM 100, Dual Credit course. The students pulled a prompt from a beaker the were instructed to think of examples alone, with a partner, and in small groups (think, pair, share). 
 
-- What songs reference real-life chemical elements or compounds?
-- What TV shows or movies accurately depict chemical reactions?
-- What TV shows or movies inaccurately depict chemical processes?
-
 Students were very engaged. Then we segued into drawing chemical equation prompts from a beaker to work on homework problems in class. At the end of class, one student (who said they didn't want to be there upon arrival) said that the pop culture active was the perfect activity to get him to be excited about chemistry and participation.   
 
 ### 2. Grading Changes in Chemistry
 
-Related the Dr. Bruce Hoskins, I actually wrote more multiple-choice questions for my chem class. I converted open-ended essay questions from hand-written homework assignements into a series of multiple choice questions for in-class assessment. My goal was the provide students with immediate feedback "write/wrong" on the quiz then using the homework to provide additional feedback on their calculations and logic.
+Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice questions for my chemistry class. I changed some open-ended essay questions from handwritten homework assignments into a series of multiple-choice questions for in-class assessments. My goal was to offer students immediate feedback on their quiz performance, indicating whether their answers were correct or incorrect. I then used the homework assignments to provide more detailed feedback, focusing on their calculations and logical reasoning.
 
 <img src="/images/portfolio/CFTA-1.png" alt="review" width="90%" align="center"/>
 <img src="/images/portfolio/CFTA-2.png" alt="review" width="90%" align="center"/>
@@ -51,7 +48,7 @@ Related the Dr. Bruce Hoskins, I actually wrote more multiple-choice questions f
 
 ### 3. Grading Changes in Anatomy & Physiology
 
-Thanks to a discussion about grades with Heather Eubanks after her lecture on "Data Inquiry and Continuous Improvement", I made some grading changes to my Biology lab quizzes. My quizes have some built in attendance points, but at the beginning of the quarter I didn't provide any make-up alternatives. I've since additional alternatives for students for credit.
+Thanks to a discussion about grades with Heather Eubanks, I made adjustments to the grading structure of my Biology lab quizzes. Initially, my quizzes included built-in attendance points, but I hadn’t offered any make-up alternatives at the start of the quarter. Since then, I’ve added additional make-up options to ensure students have the opportunity to earn credit.
 
 <img src="/images/portfolio/portfolio-1.png" alt="review" width="90%" align="center"/>
 <img src="/images/portfolio/portfolio-3.png" alt="review" width="90%" align="center"/>
