@@ -11,14 +11,13 @@ sitemap:
 
 # Think Pair Share Questions for Promoting Critical Thinking and Discussion
 
-## Intro to Genearl Chemistry (CHM 100) 
+
+### Chemistry in Pop Culture
 
 - What songs reference real-life chemical elements or compounds?
 - What TV shows or movies accurately depict chemical reactions?
 - What TV shows or movies inaccurately depict chemical processes?
 
-
-## Anatomy & Physiology III
 
 ### Group Project Presentations and Ethical AI
 
