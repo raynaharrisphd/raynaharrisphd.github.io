@@ -1,39 +1,18 @@
-<!-----
-
-
-
-Conversion time: 0.463 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β44
-* Mon Apr 07 2025 21:26:33 GMT-0700 (PDT)
-* Source doc: Think Pair Share Questions
------>
-
 ---
 layout: page
 title: Question
 description: Think Pair Share Question
 sitemap:
     priority: 0.7
-    lastmod: 2023-08-24
+    lastmod: 2025-04-07
     changefreq: monthly
 ---
 
 
-<h2>Think Pair Share Questions for BIO 305 (Anatomy & Physiology III)</h2>
+## Think Pair Share Questions for BIO 305 (Anatomy & Physiology III) 
 
 
-<h3 id="lab-24-digestive-system">Lab 24 Digestive System</h3>
+### Lab 24 Digestive System 
 
 
 1. Describe the structure and function of the intestinal villi.
@@ -46,7 +25,7 @@ sitemap:
 8. Explain three symptoms that may arise if the pancreas becomes inflamed.
 9. What is _Pancreatitis_? What are the symptoms?
 
-<h3 id="lab-21-lymphatics-and-immunity">Lab 21 Lymphatics and Immunity</h3>
+### Lab 21 Lymphatics and Immunity 
 
 
 
@@ -72,7 +51,7 @@ sitemap:
 11. Studies have shown that SARS-CoV-2 can impair dendritic cell activity during the acute phase of the infection. How does this affect the immune response to SARS-CoV-2?
 12. The drug ibuprofen blocks the production of inflammatory mediators, including pyrogens. Why does this make ibuprofen a good drug to treat fever?
 
-<h3 id="group-project-presentations">Group Project Presentations</h3>
+### Group Project Presentations 
 
 
 What are the key functions of the __digestive system__, and how do these contribute to overall health? What diseases or disorders are associated with his system?
