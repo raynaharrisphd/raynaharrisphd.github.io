@@ -19,17 +19,21 @@ Conversion notes:
 * Source doc: Think Pair Share Questions
 ----->
 
+---
+layout: page
+title: Question
+description: Think Pair Share Question
+sitemap:
+    priority: 0.7
+    lastmod: 2023-08-24
+    changefreq: monthly
+---
 
-<h2>Think Pair Share Questions</h2>
 
-
-
-[TOC]
+<h2>Think Pair Share Questions for BIO 305 (Anatomy & Physiology III)</h2>
 
 
 <h3 id="lab-24-digestive-system">Lab 24 Digestive System</h3>
-
-
 
 
 1. Describe the structure and function of the intestinal villi.
