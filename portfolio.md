@@ -12,7 +12,7 @@ sitemap:
 
 
 Hi! I'm Rayna. I was born in small town in east Texas with lakes and pine trees, but I now live in Alpine Meadows, a small town in Cali with lakes and pine trees. 
-I have a Ph.D. in Molecular and Cellular Biology and a B.S in Biochemistry from The University of Texas at Austin. I've wanted to be a teacher for as long as I can remember (although I occasionally get side-tracked), and I 20 years of experience teaching science and technology. I am currently Adjunct Faculty Member in Biology and Chemistry at Lake Tahoe Community College, a yoga instructor with The Courage Project, Tahoe Flow Arts & Fitness, and Sugar Bowl Resort. I strive drive for balance, fairness, and equity in my diverse classes. More details in my [teaching philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) and [CV](https://www.raynaharris.com/teaching/). 
+I have a Ph.D. in Molecular and Cellular Biology and a B.S in Biochemistry from The University of Texas at Austin. I've wanted to be a teacher for as long as I can remember (although I occasionally get side-tracked), and I 20 years of experience teaching science and technology. I am currently Adjunct Faculty Member in Biology and Chemistry at Lake Tahoe Community College, a yoga instructor with The Courage Project, Tahoe Flow Arts & Fitness, and Sugar Bowl Resort. I strive drive for balance, fairness, and equity in my diverse classes. More details in my [teaching philosophy](https://www.raynaharris.com/blog/teaching-philosophy/) and [CV](https://www.raynaharris.com/teaching/). This portfolio describes the influence of the CFTA on my teaching, specially the Anatomy & Physiolog (BIO 204 and 205) and Introduction to General Chemistry for Dual High School and College Credit (CHM 100).
 
 
 <!-----
@@ -25,6 +25,8 @@ _Me on my 40th birthday leading a free yoga class on the beach with my friends (
 
 - Increase engagement in the classroom
 - Implement equitable grading practices
+
+## Course Motto
 
 <img src="/images/motto.png" alt="review" width="90%" align="center"/>
 
