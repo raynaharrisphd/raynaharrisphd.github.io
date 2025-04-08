@@ -14,9 +14,12 @@ sitemap:
 Hi! I'm Rayna. I'm from a small town in East Texas surrounded by lakes and pine trees, but I now live in Alpine Meadows. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. I have nearly 20 years of experience teaching courses in science and technology. I also teach yoga with [The Courage Project](https://www.instagram.com/p/DAhsXISpUFW/) and Tahoe Flow Arts & Fitness.
 
 
-<img src="/images/portfolio/courageproujects-summit.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/courageproujects-summit.png" alt="review" width="55%" align="center"/>
 
-_A photo of me teaching ~69 people meditation and yoga as part of an educational summit on mental health concerns in athletes._
+
+<img src="/images/portfolio/courageproujects-summit.png" alt="review" width="35%" align="center"/>
+
+_Photo of me teaching people meditation and yoga as part of an educational summit on mental health concerns in athletes and how to use R for data analsis as part of an R Ladies Buenos Aires meetup._
 
 
 I am deeply committed to fostering balance, fairness, and equity in my diverse classrooms. You can learn more about my teaching philosophy in my [blog](https://www.raynaharris.com/blog/teaching-philosophy/) and view my [CV](https://www.raynaharris.com/teaching/). This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the Anatomy & Physiology (BIO 204 and 205) and Introduction to General Chemistry for Dual High School and College Credit (CHM 100) courses.
