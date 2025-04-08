@@ -14,10 +14,7 @@ sitemap:
 Hi! I'm Rayna. I'm from a small town in East Texas surrounded by lakes and pine trees, but I now live in Alpine Meadows. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. I have nearly 20 years of experience teaching courses in science and technology. I also teach yoga with [The Courage Project](https://www.instagram.com/p/DAhsXISpUFW/) and Tahoe Flow Arts & Fitness.
 
 
-<img src="/images/portfolio/courageproujects-summit.png" alt="review" width="50%" align="center"/>
-
-
-<img src="/images/portfolio/r4ds.png" alt="review" width="35%" align="center"/>
+<img src="/images/portfolio/courageproujects-summit.png" alt="review" width="50%" align="center"/> <img src="/images/portfolio/r4ds.png" alt="review" width="35%" align="center"/>
 
 _Photo of me teaching people meditation and yoga as part of an educational summit on mental health concerns in athletes and how to use R for data analsis as part of an R Ladies Buenos Aires meetup._
 
