@@ -31,17 +31,8 @@ sitemap:
 
 
 1. What regions of the body are drained by the lymphatic duct?
-2. True/False. Mark the following statements as true (T) or false (F). 
-    1. Vessels of the lymphatic system absorb dietary carbohydrates and deliver them to the blood. 
-    2. The spleen’s red pulp contains macrophages that destroy old or damaged erythrocytes. 
-    3. B lymphocytes migrate to the thymus to mature. 
-    4. Lymph nodes filter lymph and activate the immune system.
-3. Tonsils are defined as
-    5. Lymph nodes in the posterior nasopharynx and oropharynx.
-    6. Partially encapsulated clusters of mucosal-associated lymphatic tissue in the posterior nasopharynx and oropharynx.
-    7. Encapsulated cluster of mucosal-associated lymphatic tissue lining mucous membranes
-    8. Lymph nodes lining mucous membranes
-4. In the center of the lymphoid follicle is a __________, containing B lymphocytes, dendritic cells, and macrophages. 
+3. Tonsils are defined as ???
+4. In the center of the lymphoid follicle is a ???, containing B lymphocytes, dendritic cells, and macrophages. 
 5. What cell types are phagocytic? 
 6. Explain the role of dendritic cells in linking the innate and adaptive immune systems. In your response, describe how dendritic cells function in both immune responses, their role in antigen presentation, and their interaction with T cells to initiate adaptive immunity.
 7. What is the main component of humoral immunity? 
