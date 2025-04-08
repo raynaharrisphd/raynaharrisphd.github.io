@@ -18,9 +18,11 @@ sitemap:
 1. Describe the structure and function of the intestinal villi.
 2. What symptoms can arise from the loss of function of intestinal villi?
 3. What is Crohn's disease? What are the symptoms?
+
 4. Describe the structure and function of the muscularis externa in the intestines. 
 5. What symptoms may arise if the muscularis externa in the intestines loses its function?
 6. What is _Paralytic Ileus_? What are the symptoms?
+
 7. Describe the structure and function of the pancreas. 
 8. Explain three symptoms that may arise if the pancreas becomes inflamed.
 9. What is _Pancreatitis_? What are the symptoms?
@@ -54,13 +56,13 @@ sitemap:
 
 What are the key functions of the __digestive system__, and how do these contribute to overall health? What diseases or disorders are associated with his system?
 
-What are the key functions of the__ lymphatic system__, and how do these contribute to overall health? What diseases or disorders are associated with this system?
+What are the key functions of the __lymphatic system__, and how do these contribute to overall health? What diseases or disorders are associated with this system?
 
-What are the key functions of the__ reproductive system__, and how do these contribute to overall health and the continuation of the species? What diseases or disorders are associated with this system in males and females?
+What are the key functions of the __reproductive system__, and how do these contribute to overall health and the continuation of the species? What diseases or disorders are associated with this system in males and females?
 
-What are the key functions of the__ respiratory system__, and how do these contribute to overall health? What diseases or disorders are associated with this system?
+What are the key functions of the __respiratory system__, and how do these contribute to overall health? What diseases or disorders are associated with this system?
 
-What are the key functions of the__ urinary system__, and how do these contribute to overall health? What diseases or disorders are associated with this system?
+What are the key functions of the __urinary system__, and how do these contribute to overall health? What diseases or disorders are associated with this system?
 
 How can you use AI ethically in BIO 205 to facilitate your learning without replacing critical thinking and problem-solving?
 
