@@ -13,18 +13,16 @@ sitemap:
 
 Hi! I'm Rayna. I'm from a small town in East Texas surrounded by lakes and pine trees, but I now live in Alpine Meadows. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. I have nearly 20 years of experience teaching courses in biology, chemistry, computer science, with some experience teaching Spanish and yoga [The Courage Project](https://www.instagram.com/p/DAhsXISpUFW/) and Tahoe Flow Arts & Fitness.
 
+I am deeply committed to fostering balance, fairness, and equity in my diverse classrooms. You can learn more about my teaching philosophy in my [blog](https://www.raynaharris.com/blog/teaching-philosophy/) and view my [CV](https://www.raynaharris.com/teaching/). This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the Anatomy & Physiology (BIO 204 and 205) and Introduction to General Chemistry for Dual High School and College Credit (CHM 100) courses.
 
 <img src="/images/portfolio/r4ds.png" alt="review" width="35%" align="center"/> <img src="/images/portfolio/courageproujects-summit.png" alt="review" width="55%" align="center"/> 
 
 _Photo of me teaching people meditation and yoga as part of an educational summit on mental health concerns in athletes and how to use R for data analsis as part of an R Ladies Buenos Aires meetup._
 
 
-I am deeply committed to fostering balance, fairness, and equity in my diverse classrooms. You can learn more about my teaching philosophy in my [blog](https://www.raynaharris.com/blog/teaching-philosophy/) and view my [CV](https://www.raynaharris.com/teaching/). This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the Anatomy & Physiology (BIO 204 and 205) and Introduction to General Chemistry for Dual High School and College Credit (CHM 100) courses.
-
-
 ## Goals for my CFTA Fellowship
 
-- Increase engagement in the classroom
+- Increase engagement in the classroom and laboratory
 - Implement equitable grading practices
 
 ## Course Motto
@@ -69,7 +67,6 @@ Thanks to a discussion about grades with Heather Eubanks, I made adjustments to 
 ### 6. Body Scan Meditation
 
 Body Scan Meditations are common yoga practices that raise self-awareness and calm the mind. I incorporated this (with a twist) as an icebreaker on Day 1 of BIO 305. I invited students to close their eyes and take a few deep breaths. First, they brought their attention to their feet and lower limbs, recalling the bones, joints, muscles, and blood vessels they studied in previous quarters. Then, they shifted their awareness to the pelvic and abdominal regions, followed by the chest and heart, and reflected on what they hoped to learn about the biological systems located there. Finally, they directed their attention to their heads. I encouraged them to acknowledge how much they are capable of learning and to set an intention for the quarter ahead. I believe this self-reflection, forward-thinking, and integration of concepts helps set a positive tone for the quarter.
-
 
 ### Additional Resources and Outputs
 
