@@ -29,6 +29,9 @@ _Photo of me teaching people meditation and yoga as part of an educational summi
 
 <img src="/images/motto.png" alt="review" width="90%" align="center"/>
 
+
+In chemistry, the principle of "structure determine function" means that the arrangement of atoms and bonds within a molecule determines its chemical and physical properties and how it interacts with other molecules. In biology, anatomy is the study of body structure and physiology is the study of the function of cells and organ systems. In pedagogy, changes to the structure of the course may lead to differences in learning outcomes. 
+
 ## Pedagogical and Curricular Changes
 
 ### 1. Pop-culture in Chemistry
