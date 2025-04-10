@@ -44,7 +44,7 @@ Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote 
 
 Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice questions for my chemistry class. I changed some open-ended essay questions from handwritten homework assignments into a series of multiple-choice questions for in-class assessments. My goal was to offer students immediate feedback on their quiz performance, indicating whether their answers were correct or incorrect. I then used the homework assignments to provide more detailed feedback, focusing on their calculations and logical reasoning.
 
-<img src="/images/portfolio/CFTA-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/CFTA-2.png" alt="review" width="45%" align="center"/>
+<img src="/images/portfolio/CFTA-1.png" alt="review" width="90%" align="center"/> <img src="/images/portfolio/CFTA-2.png" alt="review" width="45%" align="center"/>
 
 
 ### 3. Grading Changes in Anatomy & Physiology
