@@ -44,22 +44,20 @@ Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote 
 
 Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice questions for my chemistry class. I changed some open-ended essay questions from handwritten homework assignments into a series of multiple-choice questions for in-class assessments. My goal was to offer students immediate feedback on their quiz performance, indicating whether their answers were correct or incorrect. I then used the homework assignments to provide more detailed feedback, focusing on their calculations and logical reasoning.
 
-<img src="/images/portfolio/CFTA-1.png" alt="review" width="90%" align="center"/>
-<img src="/images/portfolio/CFTA-2.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/CFTA-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/CFTA-2.png" alt="review" width="45%" align="center"/>
 
 
 ### 3. Grading Changes in Anatomy & Physiology
 
 Thanks to a discussion about grades with Heather Eubanks, I made adjustments to the grading structure of my Biology lab quizzes. Initially, my quizzes included built-in attendance points, but I hadn’t offered any make-up alternatives at the start of the quarter. Since then, I’ve added additional make-up options to ensure students have the opportunity to earn credit.
 
-<img src="/images/portfolio/portfolio-1.png" alt="review" width="90%" align="center"/>
-<img src="/images/portfolio/portfolio-3.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/portfolio-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-3.png" alt="review" width="45%" align="center"/>
 
 ### 4. Caveat to Group-Work: Some Love It, Others Don't
 
-<img src="/images/portfolio/portfolio-5.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/portfolio-5.png" alt="review" width="45%" align="center"/>
 
-<img src="/images/portfolio/portfolio-4.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/portfolio-4.png" alt="review" width="45%" align="center"/>
 
 ### 5. Bonus Activity: Advice for Future Students
 
@@ -70,7 +68,7 @@ Thanks to a discussion about grades with Heather Eubanks, I made adjustments to 
 Body Scan Meditations are common yoga practices that raise self-awareness and calm the mind. I incorporated this (with a twist) as an icebreaker on Day 1 of BIO 305. I invited students to close their eyes and take a few deep breaths. First, they brought their attention to their feet and lower limbs, recalling the bones, joints, muscles, and blood vessels they studied in previous quarters. Then, they shifted their awareness to the pelvic and abdominal regions, followed by the chest and heart, and reflected on what they hoped to learn about the biological systems located there. Finally, they directed their attention to their heads. I encouraged them to acknowledge how much they are capable of learning and to set an intention for the quarter ahead. I believe this self-reflection, forward-thinking, and integration of concepts helps set a positive tone for the quarter.
 
 
-<img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="90%" align="center"/>
+<img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="45%" align="center"/>
 
 
 ### Additional Resources and Outputs
