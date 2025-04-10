@@ -69,7 +69,9 @@ Body Scan Meditations are common yoga practices that raise self-awareness and ca
 
 
 <img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="45%" align="center"/> 
-<img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/32863/images/mJcKbxJSkCZlOLhyBCUA_55.JPG" alt="review" width="45%" align="center"/>
+
+
+<iframe width="45%" height="315" src="https://www.youtube.com/embed/Mt6J4Cy9d9U?si=FzmRyZi7AOVqqui8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
