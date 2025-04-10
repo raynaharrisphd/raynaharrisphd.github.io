@@ -55,9 +55,7 @@ Thanks to a discussion about grades with Heather Eubanks, I made adjustments to 
 
 ### 4. Caveat to Group-Work: Some Love It, Others Don't
 
-<img src="/images/portfolio/portfolio-5.png" alt="review" width="45%" align="center"/>
-
-<img src="/images/portfolio/portfolio-4.png" alt="review" width="45%" align="center"/>
+<img src="/images/portfolio/portfolio-5.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-4.png" alt="review" width="45%" align="center"/>
 
 ### 5. Bonus Activity: Advice for Future Students
 
