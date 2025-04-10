@@ -59,11 +59,13 @@ Thanks to a discussion about grades with Heather Eubanks, I made adjustments to 
 
 ### 5. Bonus Activity: Advice for Future Students
 
+For extra credit, I invited students to submit posters describing their career goals, lessons learned, and advice for future students in the A&P seriers. Common recommendations from students include group study, flash cards, and not falling behind. 
+
 <img src="/images/portfolio/seniorday-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/seniorday-2.png" alt="review" width="45%" align="center"/> 
 
 ### 6. Body Scan Meditation
 
-Body Scan Meditations are common yoga practices that raise self-awareness and calm the mind. I incorporated this (with a twist) as an icebreaker on Day 1 of BIO 305. I invited students to close their eyes and take a few deep breaths. First, they brought their attention to their feet and lower limbs, **recall what you learned** about bones, joints, muscles, and blood vessels they studied in previous quarters. Then, they shifted their awareness to the pelvic and abdominal regions, followed by the chest and heart, and **visualize what you hope to learn** about the digestive, reproductive, and respiratory systems. Finally, they directed their attention to their heads. I encouraged them to acknowledge how much they are capable of learning and to **set an intention** for the quarter ahead. I believe this self-reflection, forward-thinking, and integration of concepts helps set a positive tone for the quarter.
+Body Scan Meditations are common yoga practices that raise self-awareness and calm the mind. I incorporated this (with a twist) as an icebreaker on Day 1 of BIO 305. I invited students to close their eyes and take a few deep breaths. First, they brought their attention to their feet and lower limbs, **recall what you learned** about bones, joints, muscles, and blood vessels they studied in previous quarters. Then, they shifted their awareness to the pelvic and abdominal regions, followed by the chest and heart, and **visualize what you hope to learn** about the digestive, reproductive, and respiratory systems. Finally, they directed their attention to their heads. I encouraged them to acknowledge how much they are capable of learning and to **set an intention** for the quarter ahead. I believe this self-reflection, forward-thinking, and integration of concepts helps set a positive tone for the quarter. I can't help but wonder how else mediation and yoga can be used in the educational classroom...
 
 
 <img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="45%" align="center"/>
