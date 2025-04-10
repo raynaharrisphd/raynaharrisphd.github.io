@@ -71,6 +71,11 @@ Thanks to a discussion about grades with Heather Eubanks, I made adjustments to 
 
 Body Scan Meditations are common yoga practices that raise self-awareness and calm the mind. I incorporated this (with a twist) as an icebreaker on Day 1 of BIO 305. I invited students to close their eyes and take a few deep breaths. First, they brought their attention to their feet and lower limbs, recalling the bones, joints, muscles, and blood vessels they studied in previous quarters. Then, they shifted their awareness to the pelvic and abdominal regions, followed by the chest and heart, and reflected on what they hoped to learn about the biological systems located there. Finally, they directed their attention to their heads. I encouraged them to acknowledge how much they are capable of learning and to set an intention for the quarter ahead. I believe this self-reflection, forward-thinking, and integration of concepts helps set a positive tone for the quarter.
 
+
+<img src="https://zencare.s3.us-east-2.amazonaws.com/blog/Body+Scanning+A+Therapy+Tool+for+Mindfulness+and+Meditation.png" alt="review" width="90%" align="center"/>
+
+
+
 ### Additional Resources and Outputs
 
 
