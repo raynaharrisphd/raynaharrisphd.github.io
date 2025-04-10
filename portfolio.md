@@ -68,7 +68,9 @@ For extra credit, I invited students to submit posters describing their career g
 Body Scan Meditations are common yoga practices that raise self-awareness and calm the mind. I incorporated this (with a twist) as an icebreaker on Day 1 of BIO 305. I invited students to close their eyes and take a few deep breaths. First, they brought their attention to their feet and lower limbs, **recall what you learned** about bones, joints, muscles, and blood vessels they studied in previous quarters. Then, they shifted their awareness to the pelvic and abdominal regions, followed by the chest and heart, and **visualize what you hope to learn** about the digestive, reproductive, and respiratory systems. Finally, they directed their attention to their heads. I encouraged them to acknowledge how much they are capable of learning and to **set an intention** for the quarter ahead. I believe this self-reflection, forward-thinking, and integration of concepts helps set a positive tone for the quarter. I can't help but wonder how else mediation and yoga can be used in the educational classroom...
 
 
-<img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="45%" align="center"/>
+<img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="45%" align="center"/> 
+<img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/32863/images/mJcKbxJSkCZlOLhyBCUA_55.JPG" alt="review" width="45%" align="center"/>
+
 
 
 ### Additional Resources and Outputs
