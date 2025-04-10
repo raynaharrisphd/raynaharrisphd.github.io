@@ -51,7 +51,7 @@ Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice q
 
 Thanks to a discussion about grades with Heather Eubanks, I made adjustments to the grading structure of my Biology lab quizzes. My quizzes now have built-in make-up alternatives to ensure students have the opportunity to earn credit following an absense.
 
-<img src="/images/portfolio/portfolio-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-3.png" alt="review" width="45%" align="center"/>
+<img src="/images/portfolio/portfolio-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-3.png" alt="review" width="90%" align="center"/>
 
 ### 4. Caveat to Group-Work: Some Love It, Others Don't
 
