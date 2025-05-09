@@ -92,6 +92,17 @@ sitemap:
 <h2> The grad school years </h2>
 
 
+
+<li> The one with PKMzeta. <a href="https://www.biorxiv.org/content/10.1101/2025.04.28.651143v1">Han<i>et al.</i> 2025. </a>	
+	
+	<div style="display: inline" data-badge-type="4" data-doi="10.1101/2025.04.28.651143" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/2025.04.28.651143" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+
+	</li>
+
+
+
 <li> The one with avoidance learning in mice. <a href="https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1">Harris <i>et al.</i> 2020. </a>	
 	
 	<div style="display: inline" data-badge-type="4" data-doi="10.1101/2020.02.05.935759" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
