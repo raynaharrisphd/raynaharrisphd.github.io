@@ -11,7 +11,7 @@ sitemap:
 # Cultural Fluency Teaching Academy (CFTA) Portfolio
 
 
-Hi! I'm Rayna. I'm from a small town in East Texas , but I now live in Alpine Meadows, two very different places that are both filled lakes and pine trees that I love. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. I have nearly 20 years of experience teaching courses in biology, chemistry, computer science, with some experience teaching Spanish and yoga The Courage Project and Tahoe Flow Arts & Fitness.
+Hi! I'm Rayna. I'm from a small town in East Texas , but I now live in Alpine Meadows, two very different places that are both filled lakes and pine trees that I love. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. I have nearly 20 years of experience teaching courses in biology, chemistry, computer science, Spanish, and yoga.
 
 <img src="/images/portfolio/r4ds.png" alt="review" width="35%" align="center"/> <img src="/images/portfolio/courageproujects-summit.png" alt="review" width="55%" align="center"/> 
 
