@@ -25,6 +25,7 @@ _Photo of me teaching people meditation and yoga as part of an educational summi
 - Increase engagement in the classroom and laboratory
 - Implement equitable grading practices
 
+
 ## Course Motto
 
 <img src="/images/motto.png" alt="review" width="90%" align="center"/>
@@ -34,45 +35,41 @@ In chemistry, the principle of "structure determine function" means that the arr
 
 ## Pedagogical and Curricular Changes
 
-### 1. Pop-culture in Chemistry
+### Midterm Icebreakers 
+
+***Pop-culture in Chemistry***
 
 Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote three prompts from  the science in pop-culture activity in CHM 100, Dual Credit course. The students pulled a prompt from a beaker the were instructed to think of examples alone, with a partner, and in small groups (think, pair, share). Students were very engaged. Then we segued into drawing chemical equation prompts from a beaker to work on homework problems in class. At the end of class, one student (who said they didn't want to be there upon arrival) said that the pop culture active was the perfect activity to get him to be excited about chemistry and participation.   
 
 <img src="/images/portfolio/bartsimpson.png" alt="review" width="90%" align="center"/>
 
-### 2. Grading Changes in Chemistry
-
-Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice questions for my chemistry class. I changed some open-ended essay questions from handwritten homework assignments into a series of multiple-choice questions for in-class assessments. My goal was to offer students immediate feedback on their quiz performance, indicating whether their answers were correct or incorrect. I then used the homework assignments to provide more detailed feedback, focusing on their calculations and logical reasoning.
-
-<img src="/images/portfolio/CFTA-1.png" alt="review" width="90%" align="center"/> <img src="/images/portfolio/CFTA-2.png" alt="review" width="45%" align="center"/>
-
-
-### 3. Grading Changes in Anatomy & Physiology
-
-Thanks to a discussion about grades with Heather Eubanks, I made adjustments to the grading structure of my Biology lab quizzes. My quizzes now have built-in make-up alternatives to ensure students have the opportunity to earn credit following an absense.
-
-<img src="/images/portfolio/portfolio-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-3.png" alt="review" width="90%" align="center"/>
-
-### 4. Caveat to Group-Work: Some Love It, Others Don't
-
-<img src="/images/portfolio/portfolio-5.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-4.png" alt="review" width="45%" align="center"/>
-
-### 5. Bonus Activity: Advice for Future Students
-
-For extra credit, I invited students to submit posters describing their career goals, lessons learned, and advice for future students in the A&P seriers. Common recommendations from students include group study, flash cards, and not falling behind. 
-
-<img src="/images/portfolio/seniorday-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/seniorday-2.png" alt="review" width="45%" align="center"/> 
-
-### 6. Body Scan Meditation
+***Body Scan Meditation***
 
 Body Scan Meditations are common yoga practices that raise self-awareness and calm the mind. I incorporated this (with a twist) as an icebreaker on Day 1 of BIO 305. I invited students to close their eyes and take a few deep breaths. First, they brought their attention to their feet and lower limbs, **recall what you learned** about bones, joints, muscles, and blood vessels they studied in previous quarters. Then, they shifted their awareness to the pelvic and abdominal regions, followed by the chest and heart, and **visualize what you hope to learn** about the digestive, reproductive, and respiratory systems. Finally, they directed their attention to their heads. I encouraged them to acknowledge how much they are capable of learning and to **set an intention** for the quarter ahead. I believe this self-reflection, forward-thinking, and integration of concepts helps set a positive tone for the quarter. I can't help but wonder how else mediation and yoga can be used in the educational classroom...
 
 
 <img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="45%" align="center"/> 
 
+### Think-Pair-Share Activies to Increase Engagement, Discussion and Critical Thinking
 
-<iframe width="45%" height="315" src="https://www.youtube.com/embed/Mt6J4Cy9d9U?si=FzmRyZi7AOVqqui8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Challenge: Sometime you (the teacher) know too much and can't explain it simply. Sometime you know too little and can't explain with enough detail. Think-Pair-Share allows students to learn from each other. 
 
+### Complementary Essay and Multiple Choice Questions 
+
+Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice questions for my chemistry class. I changed some open-ended essay questions from handwritten homework assignments into a series of multiple-choice questions for in-class assessments. My goal was to offer students immediate feedback on their quiz performance, indicating whether their answers were correct or incorrect. I then used the homework assignments to provide more detailed feedback, focusing on their calculations and logical reasoning.
+
+<img src="/images/portfolio/CFTA-1.png" alt="review" width="90%" align="center"/> <img src="/images/portfolio/CFTA-2.png" alt="review" width="45%" align="center"/>
+
+
+### Alternate Assignment Options
+
+Thanks to a discussion about grades with Heather Eubanks, I made adjustments to the grading structure of my Biology lab quizzes. My quizzes now have built-in make-up alternatives to ensure students have the opportunity to earn credit following an absense.
+
+<img src="/images/portfolio/portfolio-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-3.png" alt="review" width="90%" align="center"/>
+
+### Group-Work: Some Love It, Others Don't
+
+<img src="/images/portfolio/portfolio-5.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-4.png" alt="review" width="45%" align="center"/>
 
 
 ### Additional Resources and Outputs
