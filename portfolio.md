@@ -50,7 +50,7 @@ Body Scan Meditations are common yoga practices that raise self-awareness and ca
 
 <img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="45%" align="center"/> 
 
-### Think-Pair-Share Activities to Promote Peer-Peer Teaching and Reward Attendance
+### Think-Pair-Share Activities to Promote Peer-Peer Teaching and Rewards Participation
 
 Challenge: Sometime you (the teacher) 
 * know too much and can't explain a concept in simple enough terms. 
