@@ -13,11 +13,18 @@ sitemap:
 
 Hi! I'm Rayna. I'm from a small town in East Texas surrounded by lakes and pine trees, but I now live in Alpine Meadows. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. I have nearly 20 years of experience teaching courses in biology, chemistry, computer science, with some experience teaching Spanish and yoga The Courage Project and Tahoe Flow Arts & Fitness.
 
-I believe learning should be goal-oriented, accessible to all, measurable through assessment, and fun. You can read [my teaching philosophy](https://www.raynaharris.com/philosophy/) and [my CV](https://www.raynaharris.com/teaching/) to learn more. This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the **Anatomy & Physiology (BIO 204 and 205)** and **Introduction to General Chemistry for Dual High School and College Credit (CHM 100)** courses.
-
 <img src="/images/portfolio/r4ds.png" alt="review" width="35%" align="center"/> <img src="/images/portfolio/courageproujects-summit.png" alt="review" width="55%" align="center"/> 
 
 _Photo of me teaching people meditation and yoga as part of an educational summit on mental health concerns in athletes and how to use R for data analsis as part of an R Ladies Buenos Aires meetup._
+
+
+I believe learning should be goal-oriented, accessible to all, measurable through assessment, and fun. You can read [my teaching philosophy](https://www.raynaharris.com/philosophy/) and [my CV](https://www.raynaharris.com/teaching/) to learn more. This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the **Anatomy & Physiology (BIO 204 and 205)** and **Introduction to General Chemistry for Dual High School and College Credit (CHM 100)** courses.
+
+
+* [Teaching Philosophy](https://www.raynaharris.com/philosophy/) 
+* [Equity-Minded Syllabus Changes](https://www.raynaharris.com/syllabus/) 
+* [Welcome Video](https://www.raynaharris.com/welcome/)  
+* [Previous Teaching Experience](https://www.raynaharris.com/teaching/)  
 
 
 ## Goals for my CFTA Fellowship
@@ -82,9 +89,4 @@ Thanks to a discussion about grades with Heather Eubanks, I made adjustments to 
 
 ### Additional Resources and Outputs
 
-
-* [Teaching Philosophy](https://www.raynaharris.com/philosophy/) 
-* [Equity-Minded Syllabus Changes](https://www.raynaharris.com/syllabus/) 
-* [Welcome Video](https://www.raynaharris.com/welcome/)  
-* [Previous Teaching Experience](https://www.raynaharris.com/teaching/)  
 
