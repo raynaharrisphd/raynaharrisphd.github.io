@@ -35,7 +35,7 @@ In chemistry, the principle of "structure determine function" means that the arr
 
 ## Pedagogical and Curricular Changes
 
-### Midterm Icebreakers 
+### Midterm Icebreakers for the Win
 
 ***Pop-culture in Chemistry***
 
