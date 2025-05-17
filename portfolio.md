@@ -21,12 +21,6 @@ _Photo of me teaching how to use R for data analsis (en Español) as part of an 
 I believe learning should be goal-oriented, accessible to all, measurable through assessment, and fun. You can read [my teaching philosophy](https://www.raynaharris.com/philosophy/) and [my CV](https://www.raynaharris.com/teaching/) to learn more. This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the **Anatomy & Physiology (BIO 204 and 205)** and **Introduction to General Chemistry for Dual High School and College Credit (CHM 100)** courses.
 
 
-* [Teaching Philosophy](https://www.raynaharris.com/philosophy/) 
-* [Equity-Minded Syllabus Changes](https://www.raynaharris.com/syllabus/) 
-* [Welcome Video](https://www.raynaharris.com/welcome/)  
-* [Previous Teaching Experience](https://www.raynaharris.com/teaching/)  
-
-
 ## Goals for my CFTA Fellowship
 
 - Increase engagement in the classroom and laboratory
