@@ -52,7 +52,7 @@ Body Scan Meditations are common yoga practices that raise self-awareness and ca
 
 ### Think-Pair-Share Activities to Increase Critical Thinking and Reward Attendance
 
-Challenge: Sometime you (the teacher) know too much and can't explain it simply. Sometime you know too little and can't explain with enough detail. Think-Pair-Share allows students to learn from each other. 
+Challenge: Sometime you (the teacher) know too much and can't explain it simply. Sometime you know too little and can't explain with enough detail. Think-Pair-Share allows students to learn from each other and rewards them for showing up to class. 
 
 <img src="/images/portfolio/PVnRT.png" alt="review" width="90%" align="center"/> 
  
