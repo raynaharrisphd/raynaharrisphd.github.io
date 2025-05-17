@@ -52,7 +52,11 @@ Body Scan Meditations are common yoga practices that raise self-awareness and ca
 
 ### Think-Pair-Share Activities to Promote Peer-Peer Teaching and Reward Attendance
 
-Challenge: Sometime you (the teacher) know too much and can't explain a concept in simple enough terms. Sometime you know too little and don't explain with enough detail. Think-Pair-Share allows students to learn from each other,  and incentivizes students to show up to class. 
+Challenge: Sometime you (the teacher) 
+* know too much and can't explain a concept in simple enough terms. 
+* know too little and don't explain with enough detail. 
+
+Think-Pair-Share allows students to learn from each other,  and incentivizes students to show up to class. 
 
 <img src="/images/portfolio/PVnRT.png" alt="review" width="50%" align="center"/> 
  
