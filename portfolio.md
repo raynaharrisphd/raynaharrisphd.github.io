@@ -34,7 +34,7 @@ In chemistry, the principle of "structure determine function" means that the arr
 
 ## Final Reflection
 
-<img src="/images/portfolio/portfolio-5.png" alt="review" width="90%" align="center"/> <img src="/images/portfolio/grading.png" alt="review" width="45%" align="center"/>
+<img src="/images/portfolio/grading.png" alt="review" width="90%" align="center"/>
 
 ## Pedagogical and Curricular Changes
 
