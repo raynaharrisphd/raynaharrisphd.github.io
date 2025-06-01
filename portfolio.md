@@ -16,13 +16,15 @@ Hi! I'm Rayna. I'm from a small town in East Texas , but I now live in Alpine Me
 
 _Photo of me teaching how to use R for data analsis (en Español) as part of an R Ladies Buenos Aires meetup (right) and yoga as part of an educational summit on mental health concerns in athletes (left)._
 
-I believe learning should be goal-oriented, accessible to all, measurable through assessment, and fun. You can read [my teaching philosophy](https://www.raynaharris.com/philosophy/) and [my CV](https://www.raynaharris.com/teaching/) to learn more. This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the **Anatomy & Physiology (BIO 204 and 205)** and **Introduction to General Chemistry for Dual High School and College Credit (CHM 100)** courses.
+## Teaching Philosophy
 
+I believe learning should be goal-oriented, accessible to all, measurable through assessment, and fun. You can read [my teaching philosophy](https://www.raynaharris.com/philosophy/) and [my CV](https://www.raynaharris.com/teaching/) to learn more. This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the **Anatomy & Physiology (BIO 204 and 205)** and **Introduction to General Chemistry for Dual High School and College Credit (CHM 100)** courses.
 
 ## Goals for my CFTA Fellowship
 
-- Implement more equitable grading practices
-- Increase engagement in the classroom and laboratory
+### 1. Implement more equitable grading practices
+
+### 2. Increase engagement in the classroom and laboratory
 
 ## Course Motto
 
