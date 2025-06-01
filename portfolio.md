@@ -32,7 +32,7 @@ In chemistry, the principle of "structure determine function" means that the arr
 
 ## Final Reflection
 
-
+<img src="/images/portfolio/portfolio-5.png" alt="review" width="90%" align="center"/> <img src="/images/portfolio/grading.png" alt="review" width="45%" align="center"/>
 
 ## Pedagogical and Curricular Changes
 
@@ -64,14 +64,16 @@ Body Scan Meditations are common yoga practices that raise self-awareness and ca
 
 <img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="45%" align="center"/> 
 
-### Group-Work: Some Love It, Others Don't
-
-<img src="/images/portfolio/portfolio-5.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-4.png" alt="review" width="45%" align="center"/>
 
 ### Alternate Assignment Options
 
 Thanks to a discussion about grades with Heather Eubanks, I made adjustments to the grading structure of my Biology lab quizzes. My quizzes now have built-in make-up alternatives to ensure students have the opportunity to earn credit following an absense.
 
 <img src="/images/portfolio/portfolio-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-3.png" alt="review" width="90%" align="center"/>
+
+### Group-Work: Yea or Nea?
+
+<img src="/images/portfolio/portfolio-5.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-4.png" alt="review" width="45%" align="center"/>
+
 
 
