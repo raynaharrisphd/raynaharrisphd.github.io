@@ -58,13 +58,13 @@ Think-Pair-Share allows students to learn from each other and promotes discussio
 
 Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote three prompts from  the science in pop-culture activity in CHM 100, Dual Credit course. The students pulled a prompt from a beaker the were instructed to think of examples alone, with a partner, and in small groups (think, pair, share). Students were very engaged. Then we segued into drawing chemical equation prompts from a beaker to work on homework problems in class. At the end of class, one student (who said they didn't want to be there upon arrival) said that the pop culture active was the perfect activity to get him to be excited about chemistry and participation.   
 
-<img src="/images/portfolio/bartsimpson.png" alt="review" width="90%" align="center"/>
+<img src="/images/portfolio/bartsimpson.png" alt="review" width="65%" align="center"/> <img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="30%" align="center"/> 
+
 
 ***Body Scan Meditation***
 
 Body Scan Meditations are common yoga practices that raise self-awareness and calm the mind. I incorporated this (with a twist) as an icebreaker on Day 1 of BIO 305. I invited students to close their eyes and take a few deep breaths. First, they brought their attention to their feet and lower limbs, **recall what you learned** about bones, joints, muscles, and blood vessels they studied in previous quarters. Then, they shifted their awareness to the pelvic and abdominal regions, followed by the chest and heart, and **visualize what you hope to learn** about the digestive, reproductive, and respiratory systems. Finally, they directed their attention to their heads. I encouraged them to acknowledge how much they are capable of learning and to **set an intention** for the quarter ahead. I believe this self-reflection, forward-thinking, and integration of concepts helps set a positive tone for the quarter. I can't help but wonder how else mediation and yoga can be used in the educational classroom...
 
-<img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="45%" align="center"/> 
 
 
 ### Alternate Assignment Options
