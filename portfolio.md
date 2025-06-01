@@ -14,7 +14,7 @@ Hi! I'm Rayna. I'm from a small town in East Texas , but I now live in Alpine Me
 
 <img src="/images/portfolio/r4ds.png" alt="review" width="35%" align="center"/> <img src="/images/portfolio/courageproujects-summit.png" alt="review" width="55%" align="center"/> 
 
-_Photo of me teaching how to use R for data analsis (en Español) as part of an R Ladies Buenos Aires meetup (right) and yoga as part of an educational summit on mental health concerns in athletes (left)._
+_Photo of me teaching how to use R for data analsis (en Español) as part of an R Ladies Buenos Aires meetup (right, [click here for slides](https://speakerdeck.com/raynamharris/usando-y-ensenando-r-para-investigacion-reproducible?slide=2)) and yoga as part of an educational summit on mental health concerns in athletes (left, [click here for class outline](https://www.raynaharris.com/blog/performance-summit/)).  _
 
 ## Teaching Philosophy
 
@@ -40,9 +40,9 @@ In chemistry, the principle of "structure determine function" means that the arr
 
 ### Complementary Essay and Multiple Choice Questions 
 
-Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice questions for my chemistry class. I changed some open-ended essay questions from handwritten homework assignments into a series of multiple-choice questions for in-class assessments. My goal was to offer students immediate feedback on their quiz performance, indicating whether their answers were correct or incorrect. I then used the homework assignments to provide more detailed feedback, focusing on their calculations and logical reasoning.
-
 <img src="/images/portfolio/CFTA-1.png" alt="review" width="90%" align="center"/> <img src="/images/portfolio/CFTA-2.png" alt="review" width="45%" align="center"/>
+
+Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice questions for my chemistry class. I changed some open-ended essay questions from handwritten homework assignments into a series of multiple-choice questions for in-class assessments. My goal was to offer students immediate feedback on their quiz performance, indicating whether their answers were correct or incorrect. I then used the homework assignments to provide more detailed feedback, focusing on their calculations and logical reasoning.
 
 ### More Think-Pair-Share Activities 
 
