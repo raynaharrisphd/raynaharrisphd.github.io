@@ -20,17 +20,18 @@ _Photo of me teaching how to use R for data analsis (en Español) as part of an 
 
 I believe learning should be goal-oriented, accessible to all, measurable through assessment, and fun. You can read [my teaching philosophy](https://www.raynaharris.com/philosophy/) and [my CV](https://www.raynaharris.com/teaching/) to learn more. This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the **Anatomy & Physiology (BIO 204 and 205)** and **Introduction to General Chemistry for Dual High School and College Credit (CHM 100)** courses.
 
-## Goals for my CFTA Fellowship
-
-### 1. Implement more equitable grading practices
-
-### 2. Increase engagement in the classroom and laboratory
 
 ## Course Motto
 
 <img src="/images/motto.png" alt="review" width="90%" align="center"/>
 
 In chemistry, the principle of "structure determine function" means that the arrangement of atoms and bonds within a molecule determines its chemical and physical properties and how it interacts with other molecules. In biology, anatomy is the study of body structure and physiology is the study of the function of cells and organ systems. In pedagogy, changes to the structure of the course may lead to differences in learning outcomes. 
+
+## Goals for my CFTA Fellowship
+
+### 1. Implement more equitable grading practices
+
+### 2. Increase engagement in the classroom and laboratory
 
 ## Final Reflection
 
