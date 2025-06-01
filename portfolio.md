@@ -54,7 +54,7 @@ Think-Pair-Share allows students to learn from each other and promotes discussio
 
 ### Midterm Icebreakers for the Win
 
-<img src="/images/portfolio/bartsimpson.png" alt="review" width="65%" align="center"/> <img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="30%" align="center"/> 
+<img src="/images/portfolio/bartsimpson.png" alt="review" width="55%" align="center"/> <img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="40%" align="center"/> 
 
 ***Pop-culture in Chemistry***
 
