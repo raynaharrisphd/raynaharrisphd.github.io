@@ -46,11 +46,11 @@ Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice q
 
 ### More Think-Pair-Share Activities 
 
-Rationale:  peer-peer teaching increases engagement, promotes knowledge transfer rewards participation without grading.
 
 <img src="/images/portfolio/PVnRT.png" alt="review" width="50%" align="center"/> 
  
-Think-Pair-Share allows students to learn from each other and promotes discussion and critical. It can also **reward attendance** if those questions are the same questions on a homework assignment.
+Rationale:  peer-peer teaching increases engagement, encourages critical thinking, promotes knowledge transfer rewards participation without grading.
+
 
 ### Midterm Icebreakers for the Win
 
