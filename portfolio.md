@@ -10,31 +10,45 @@ sitemap:
 
 # Cultural Fluency Teaching Academy (CFTA) Portfolio
 
-
-Hi! I'm Rayna. I'm from a small town in East Texas , but I now live in Alpine Meadows, two very different places that are both filled lakes and pine trees that I love. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. I have nearly 20 years of experience teaching courses in biology, chemistry, computer science, Spanish, and yoga.
+Hi! I'm Rayna. I'm from a small town in East Texas , but I now live in Alpine Meadows, two very different places that are both filled lakes and pine trees that I love. I hold a Ph.D. in Molecular and Cellular Biology and a B.S. in Biochemistry from The University of Texas at Austin. I have nearly 20 years of experience teaching courses in biology, chemistry, computer science, Spanish, and yoga. At LTCC I have taught 5 courses: Intro Biology, Cell and Molecular Biology Lab, Anatomy & Physiology Lab, Organic Chemistry Lab, and Intro Chemistry.
 
 <img src="/images/portfolio/r4ds.png" alt="review" width="35%" align="center"/> <img src="/images/portfolio/courageproujects-summit.png" alt="review" width="55%" align="center"/> 
 
 _Photo of me teaching how to use R for data analsis (en Español) as part of an R Ladies Buenos Aires meetup (right) and yoga as part of an educational summit on mental health concerns in athletes (left)._
-
 
 I believe learning should be goal-oriented, accessible to all, measurable through assessment, and fun. You can read [my teaching philosophy](https://www.raynaharris.com/philosophy/) and [my CV](https://www.raynaharris.com/teaching/) to learn more. This portfolio highlights the impact of the Courageous Faculty Teaching Alliance (CFTA) on my approach, particularly in the **Anatomy & Physiology (BIO 204 and 205)** and **Introduction to General Chemistry for Dual High School and College Credit (CHM 100)** courses.
 
 
 ## Goals for my CFTA Fellowship
 
+- Implement more equitable grading practices
 - Increase engagement in the classroom and laboratory
-- Implement equitable grading practices
-
 
 ## Course Motto
 
 <img src="/images/motto.png" alt="review" width="90%" align="center"/>
 
-
 In chemistry, the principle of "structure determine function" means that the arrangement of atoms and bonds within a molecule determines its chemical and physical properties and how it interacts with other molecules. In biology, anatomy is the study of body structure and physiology is the study of the function of cells and organ systems. In pedagogy, changes to the structure of the course may lead to differences in learning outcomes. 
 
+## Final Reflection
+
+
+
 ## Pedagogical and Curricular Changes
+
+### Complementary Essay and Multiple Choice Questions 
+
+Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice questions for my chemistry class. I changed some open-ended essay questions from handwritten homework assignments into a series of multiple-choice questions for in-class assessments. My goal was to offer students immediate feedback on their quiz performance, indicating whether their answers were correct or incorrect. I then used the homework assignments to provide more detailed feedback, focusing on their calculations and logical reasoning.
+
+<img src="/images/portfolio/CFTA-1.png" alt="review" width="90%" align="center"/> <img src="/images/portfolio/CFTA-2.png" alt="review" width="45%" align="center"/>
+
+### More Think-Pair-Share Activities 
+
+Rationale:  peer-peer teaching increases engagement, promotes knowledge transfer rewards participation without grading.
+
+<img src="/images/portfolio/PVnRT.png" alt="review" width="50%" align="center"/> 
+ 
+Think-Pair-Share allows students to learn from each other and promotes discussion and critical. It can also **reward attendance** if those questions are the same questions on a homework assignment.
 
 ### Midterm Icebreakers for the Win
 
@@ -48,39 +62,16 @@ Inspired by the "Equity Infused Teaching" lecture by Dr. Bruce Hoskins, I wrote 
 
 Body Scan Meditations are common yoga practices that raise self-awareness and calm the mind. I incorporated this (with a twist) as an icebreaker on Day 1 of BIO 305. I invited students to close their eyes and take a few deep breaths. First, they brought their attention to their feet and lower limbs, **recall what you learned** about bones, joints, muscles, and blood vessels they studied in previous quarters. Then, they shifted their awareness to the pelvic and abdominal regions, followed by the chest and heart, and **visualize what you hope to learn** about the digestive, reproductive, and respiratory systems. Finally, they directed their attention to their heads. I encouraged them to acknowledge how much they are capable of learning and to **set an intention** for the quarter ahead. I believe this self-reflection, forward-thinking, and integration of concepts helps set a positive tone for the quarter. I can't help but wonder how else mediation and yoga can be used in the educational classroom...
 
-
 <img src="https://i.pinimg.com/736x/c8/6e/0a/c86e0ac9ce4bc0008f539f54ce018bb5.jpg" alt="review" width="45%" align="center"/> 
 
-### Think-Pair-Share Activities to Promote Peer-Peer Teaching and Rewards Participation
+### Group-Work: Some Love It, Others Don't
 
-Challenge: Sometime you (the teacher) 
-* know too much and can't explain a concept in simple enough terms. 
-* know too little and don't explain with enough detail. 
-
-
-<img src="/images/portfolio/PVnRT.png" alt="review" width="50%" align="center"/> 
- 
-Think-Pair-Share allows students to learn from each other and promotes discussion and critical. It can also **reward attendance** if those questions are the same questions on a homework assignment.
-
-
-### Complementary Essay and Multiple Choice Questions 
-
-Related to the Dr. Bruce Hoskins lecture, I created additional multiple-choice questions for my chemistry class. I changed some open-ended essay questions from handwritten homework assignments into a series of multiple-choice questions for in-class assessments. My goal was to offer students immediate feedback on their quiz performance, indicating whether their answers were correct or incorrect. I then used the homework assignments to provide more detailed feedback, focusing on their calculations and logical reasoning.
-
-<img src="/images/portfolio/CFTA-1.png" alt="review" width="90%" align="center"/> <img src="/images/portfolio/CFTA-2.png" alt="review" width="45%" align="center"/>
-
+<img src="/images/portfolio/portfolio-5.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-4.png" alt="review" width="45%" align="center"/>
 
 ### Alternate Assignment Options
 
 Thanks to a discussion about grades with Heather Eubanks, I made adjustments to the grading structure of my Biology lab quizzes. My quizzes now have built-in make-up alternatives to ensure students have the opportunity to earn credit following an absense.
 
 <img src="/images/portfolio/portfolio-1.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-3.png" alt="review" width="90%" align="center"/>
-
-### Group-Work: Some Love It, Others Don't
-
-<img src="/images/portfolio/portfolio-5.png" alt="review" width="45%" align="center"/> <img src="/images/portfolio/portfolio-4.png" alt="review" width="45%" align="center"/>
-
-
-### Additional Resources and Outputs
 
 
