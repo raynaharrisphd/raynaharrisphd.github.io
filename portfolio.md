@@ -35,6 +35,8 @@ In chemistry, the principle of "structure determine function" means that the arr
 
 ## Final Reflection
 
+Is one month equivalent to four weeks? 
+
 <img src="/images/portfolio/grading.png" alt="review" width="45%" align="center"/>
 
 ## Pedagogical and Curricular Changes
