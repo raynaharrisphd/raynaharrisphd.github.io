@@ -35,9 +35,11 @@ In chemistry, the principle of "structure determine function" means that the arr
 
 ## Final Reflection
 
-Is one month equivalent to four weeks? 
 
 <img src="/images/portfolio/grading.png" alt="review" width="45%" align="center"/>
+
+The CFTA has transformed my understanding of class participation and grading. Moving forward, I will be more explicit about how and why I grade (e.g. completion, specs, and standards) and improve my use of rubrics. 
+. 
 
 ## Pedagogical and Curricular Changes
 
