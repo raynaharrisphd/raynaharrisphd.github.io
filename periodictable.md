@@ -8,6 +8,6 @@ sitemap:
     changefreq: monthly
 ---
 
-<iframe src="https://raynaharrisphd-periodictable.share.connect.posit.cloud/" width="90%" height="1600"></iframe> 
+<iframe src="https://raynaharrisphd-periodictable.share.connect.posit.cloud/" width="100%" height="1600"></iframe> 
 
 See also <https://raynaharrisphd-periodictable.share.connect.posit.cloud/>.
