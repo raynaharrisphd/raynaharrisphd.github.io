@@ -21,15 +21,17 @@ image: "/images/yoga/IMG_0982.png"
 - Table flow
 - Childs pose
 - Down Dog
-- Low Lunge and High Lunge
+- Low Lunge and high Lunge
+- Warrior II flow
 - Goddess and Malasana
 - Sun Salutation
 - Tree Pose 
 - Down dog to half pigeon
 - Seated stretches
 - Reclined stretches
-- Savasana 
-- Loving Kindness Meditation
+- Bridge pose with water under the bridge meditation _(forgot)_
+- Savasana
+- Loving kindness meditation
 
 ## Affirmations
 
@@ -44,4 +46,5 @@ I am flexible.
 I am growing.     
 I am a new person every day.      
 I am calm. 
-I am exactly where I need to be.     
+I am exactly where I need to be.    
+
