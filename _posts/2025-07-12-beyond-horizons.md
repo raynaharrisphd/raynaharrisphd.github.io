@@ -8,8 +8,6 @@ categories: yoga
 tags: ['Courage Project']
 org: "The Courage Project"
 orgurl: "https://www.courageproject.org/"
-spotify: 7pPtF7nEiD3twBNKn4zPWv
-image: "/images/yoga/IMG_0982.png"
 ---
 
 ## Yoga Sequence for Hip Opening
