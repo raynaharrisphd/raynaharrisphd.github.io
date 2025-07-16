@@ -12,7 +12,7 @@ spotify: 7pPtF7nEiD3twBNKn4zPWv
 image: "/images/yoga/IMG_0982.png"
 ---
 
-## Yoga Sequence 
+## Yoga Sequence for Hip Opening
 
 - Reclined full body scan meditation
 - Reclined 5 senses meditation  
@@ -24,12 +24,10 @@ image: "/images/yoga/IMG_0982.png"
 - Low Lunge and High Lunge
 - Goddess and Malasana
 - Sun Salutation
-- Tree Pose with meditation
-- Down dog and half pigeon
-- Boat and Butterfly
-- **Pigeon** and cow face pose
-- Recline one-leg stretches
-- Free form
+- Tree Pose 
+- Down dog to half pigeon
+- Seated stretches
+- Reclined stretches
 - Savasana 
 - Loving Kindness Meditation
 
