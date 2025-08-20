@@ -5,7 +5,10 @@ date: 2025-08-20
 excerpt: "A pre-hike beach yoga class class for focused on grounding, stretching, and mindfulness."
 categories: yoga
 spotify: 2BtaAqbnITgfe2JGzdwA14
+image: "/images/yoga/commonsbeach.png"
+ 
 ---
+
 
 
 ## Details
