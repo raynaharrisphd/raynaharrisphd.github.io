@@ -13,9 +13,9 @@ image: "/images/yoga/commonsbeach.png"
 
 ## Details
 
-**Who:** Adidas and Friends
+**Who:** Adidas and Friends    
 **When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 10 - 11 AM   
-**Where:** Commons Beach, Tahoe Vista [Directions](https://share.google/OicGzX18gz2agNgAj)   
+**Where:** Commons Beach, Tahoe Vista     [Directions](https://share.google/OicGzX18gz2agNgAj)   
 
 
 ## Class Outline
