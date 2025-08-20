@@ -15,7 +15,7 @@ image: "/images/yoga/commonsbeach.png"
 
 **Who:** Adidas and Friends    
 **When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 10 - 11 AM   
-**Where:** Commons Beach, Tahoe Vista     [Directions](https://share.google/OicGzX18gz2agNgAj)   
+**Where:** Commons Beach, Tahoe Vista     [(Google Map)](https://share.google/OicGzX18gz2agNgAj)   
 
 
 ## Class Outline
@@ -32,10 +32,10 @@ image: "/images/yoga/commonsbeach.png"
 - Low lunges with half split
 - High lunge flow
 - Sun Salutation with high lunge
-- Proud Warrior Flow (Warrior II, side angle, reverse warrior) - "Think of one thing you are proud of that you have accomplished this year." 
+- Proud Warrior Flow (warrior II, side angle, reverse warrior) - "Think of one thing you are proud of that you have accomplished this year." 
 - Godess pose, wide leg forward fold, side lunge
 - 1 leg Mountain Pose
-- Tree Pose with tree-centric meditation
+- Tree Pose with tree-centric meditations
 - Pigeon pose
 - Standing split
 - Warrior III
