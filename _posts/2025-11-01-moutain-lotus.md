@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mountain Lotus Yoga"
-date: 2025-11-04
+date: 2025-11-01
 excerpt: "A 30 minute yoga class that incorporates mediation and aims to synchronize breath with movement through sun and moon salutations."
 categories: yoga
 spotify: 0dUBZGhvmotNfWjuHOHUa6
