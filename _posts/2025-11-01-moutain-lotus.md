@@ -2,7 +2,7 @@
 layout: post
 title: "Mountain Lotus Yoga"
 date: 2025-11-04
-excerpt: "A 30 minute yoga class with a theme 'Yoga for Your'. The class incorporates mediation and aims to synchronize breath with movement through sun and moon salutations."
+excerpt: "A 30 minute yoga class that incorporates mediation and aims to synchronize breath with movement through sun and moon salutations."
 categories: yoga
 spotify: 0dUBZGhvmotNfWjuHOHUa6
 #image: "/images/yoga/xxx.png"
@@ -10,22 +10,23 @@ spotify: 0dUBZGhvmotNfWjuHOHUa6
 
 ## Details
 
-**When:** {{ page.date \| date: '%A, %B %-d, %Y' }} from 10 - 11 AM\
-**Where:** Mountain Lotus Log **Theme:** Yoga for You
+**When:** {{ page.date \| date: '%A, %B %-d, %Y' }} from 2 - 2:30 PM\
+**Where:** [Mountain Lotus Yoga, Tahoe City](<https://www.mountainlotusyoga.com/>)\
+**Theme:** Yoga for You
 
 ## Class Outline
 
-| Song | Asana |
-|------|-------|
-| Wonders  | Welcome  |
-| Chillin  | Wiggles + Breathwork  |
-| Kusanagi  | Full Body Scan and Seated Stretch  |
-| The Light  | Cat/Cow/Childs + DownDog/Plank + Cobra/Bow Flows  |
-| Home  | Sun Salutation A (_Surya Namaskar A_)  |
-| Let the Chalice Blaze  | Moon Salutation Variations + Low Lunge Flow  |
-| Echoes  | Tree Flow  |
-| Misting Morning  |  Reclined Stretch  |
-| Wander  | Savasana + Breathwork  |
+| Song                  | Asana                                            |
+|-----------------------|--------------------------------------------------|
+| Wonders               | Welcome                                          |
+| Chillin               | Wiggles + Breathwork                             |
+| Kusanagi              | Full Body Scan and Seated Stretch                |
+| The Light             | Cat/Cow/Childs + DownDog/Plank + Cobra/Bow Flows |
+| Home                  | Sun Salutation A (*Surya Namaskar A*)            |
+| Let the Chalice Blaze | Moon Salutation Variations + Low Lunge Flow      |
+| Echoes                | Tree Flow                                        |
+| Misting Morning       | Reclined Stretch                                 |
+| Wander                | Savasana + Breath-work                           |
 
 ## Spotify Playlist
 
