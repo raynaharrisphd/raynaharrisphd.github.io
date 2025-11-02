@@ -2,7 +2,7 @@
 layout: post
 title: "Adidas Yoga - Hut to Hut Retreat"
 date: 2025-08-20
-excerpt: "A pre-hike beach yoga class class for focused on grounding, stretching, and mindfulness."
+excerpt: "A pre-hike beach yoga class class focused on grounding, stretching, and mindfulness."
 categories: yoga
 spotify: 2BtaAqbnITgfe2JGzdwA14
 image: "/images/yoga/commonsbeach.png"
@@ -15,7 +15,7 @@ image: "/images/yoga/commonsbeach.png"
 
 **Who:** Adidas and Friends    
 **When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 10 - 11 AM   
-**Where:** Commons Beach, Tahoe Vista     [(Google Map)](https://share.google/OicGzX18gz2agNgAj)   
+**Where:** Commons Beach, Tahoe Vista [(Google Map)](https://share.google/OicGzX18gz2agNgAj)   
 
 
 ## Class Outline
