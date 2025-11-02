@@ -2,7 +2,7 @@
 layout: post
 title: "Mountain Lotus Yoga"
 date: 2025-11-01
-excerpt: "A 30 minute yoga class that incorporates mediation and aims to synchronize breath with movement through sun and moon salutations."
+excerpt: "A 30 minute yoga class that incorporates mediation and aims to synchronize breath with movement through sun and moon salutations. The theme 'Yoga for You' encourages participants to modify as necessary to move toward their intention. This flow was designed for an interview at Mountain Lotus, Tahoe City." 
 categories: yoga
 spotify: 0dUBZGhvmotNfWjuHOHUa6
 #image: "/images/yoga/xxx.png"
@@ -10,15 +10,8 @@ spotify: 0dUBZGhvmotNfWjuHOHUa6
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## Details
 
-**When:** {{ page.date \| date: '%A, %B %-d, %Y' }} from 2 - 2:30 PM\
-**Where:** [Mountain Lotus Yoga, Tahoe City](<https://www.mountainlotusyoga.com/>)\
-**Theme:** Yoga for You
-
-## Class Outline
-
-| Song                  | Asana                                            |
+| Songs                  | Asanas                                            |
 |-----------------------|--------------------------------------------------|
 | Wonders               | Welcome                                          |
 | Chillin               | Wiggles + Breathwork                             |
