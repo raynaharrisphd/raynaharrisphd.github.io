@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Sun Salutations Variations"
+title: "Lovely Sun Salutations"
 date: 2025-03-05
 time: "9:15 AM" 
-excerpt: "An hour long vinyasa-style class with Heart Chakra / Love theme."
+excerpt: "An hour long vinyasa-style class with a Heart Chakra / Love theme."
 categories: yoga
 tags: ['Sugar Bowl']
 description: "sugarbowl.md" 

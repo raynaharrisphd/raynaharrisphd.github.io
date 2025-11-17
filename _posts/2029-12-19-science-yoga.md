@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Teaching Science to Teaching Yoga"
-date: 2025-12-22
+date: 2029-12-22
 excerpt: "A post about transitions from teaching computation biology to yoga."
 image: "/images/yoga/SWC.png"
 categories: teaching yoga
