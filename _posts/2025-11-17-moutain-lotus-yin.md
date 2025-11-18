@@ -26,8 +26,10 @@ Below is an overview of the music designed to accompany each asana or pose.
 | To build a home   | Half pigeon (L, R; 1 bolster, 1 block)
 | Flying 			| Supported wind-relieving pose (L, R; 1 bolster or block)
 | Waves Extended      			| Reclined butterfly + Happy baby + Savasana 
-| OM                   			| Closing
+| Om                  			| Closing
 	
 
 
-Notes: The first two songs and the last songs are a buffer around the class. The first two songs are a 6 minute buffer; I start the playlist 3 minutes before class is supposed to start, then I begin 3 minutes late. During the welcome I introduce myself and the class then I ask their names and one things they are grateful for. Then, I sync the poses to the music, aiming for 1 - 2 minute holds for each pose on each side. The Savasana was about 6 minutes long and included a loving-kindness meditation. I like to send with the om song, because that way students hear it but they don't have to sing it if they don't want to. All in all, I think it was a fun class. 
+_Notes:_ Before class began, I played the first two songs as a gentle six-minute buffer while students settled in. During Kusangi, I introduced myself, shared the intention for our yin practice, and invited everyone to say their name and one thing they were grateful for. From there, each song supported a specific asana, with poses held for about one to two minutes on each side. Savasana lasted around six minutes and included a loving-kindness meditation. We closed class during the song 'Om' by Hippie Sabotage. All in all, it felt like a grounded, nourishing class that unfolded just the way it needed to.
+
+Reading: 
