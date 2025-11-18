@@ -10,21 +10,21 @@ spotify: 3FCekAwLrb5qMTqb572vIZ
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="422" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Below is an overview of the music designed to accompany each asana or pose. 
+Below is an overview of the music designed to accompany each asana or pose. Most poses are supported by a bolster and 1 - 4 blocks. 
 
 
 | Songs                  | Asanas  
 |-----------------------|--------- 
 | Kusanagi              		| Welcome 
-| Wonders               		| Reclined butterfly (1 bolster, 4 blocks)
-| Tension in the starts         | Spinal twist L (1 bolster, 2 blocks)
-| are you lost   				| Spinal twist R  (1 bolster, 2 blocks)                           
-| I know you got soul       	| Childs pose (1 bolster)
-| Threshold    		| Supported forward folds (L, R, both; 1 bolster, 2 blocks) 
-| El camino de mi alma  		| Half pigeon (1 bolster, 1 block)
-| Cerca de ti     	| Supported bridge + legs up wall (1 bolster or block)
-| To build a home   | Half pigeon (L, R; 1 bolster, 1 block)
-| Flying 			| Supported wind-relieving pose (L, R; 1 bolster or block)
+| Wonders               		| Reclined butterfly 
+| Tension in the starts         | Spinal twist L  
+| are you lost   				| Spinal twist R                          
+| I know you got soul       	| Childs pose 
+| Threshold    		| Supported forward folds  
+| El camino de mi alma  		| Half pigeon  
+| Cerca de ti     	| Supported bridge + legs up wall  
+| To build a home   | Half pigeon  
+| Flying 			| Supported wind-relieving pose  
 | Waves Extended      			| Reclined butterfly + Happy baby + Savasana 
 | Om                  			| Closing
 	
