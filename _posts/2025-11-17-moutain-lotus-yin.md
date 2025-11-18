@@ -20,11 +20,11 @@ Below is an overview of the music designed to accompany each asana or pose. Most
 | Tension in the starts         | Spinal twist L  
 | are you lost   				| Spinal twist R                          
 | I know you got soul       	| Childs pose 
-| Threshold    		| Supported forward folds  
-| El camino de mi alma  		| Half pigeon  
+| Threshold    		| Supported forward folds LR 
+| El camino de mi alma  		| Half pigeon LR 
 | Cerca de ti     	| Supported bridge + legs up wall  
-| To build a home   | Half pigeon  
-| Flying 			| Supported wind-relieving pose  
+| To build a home   | Half pigeon  LR
+| Flying 			| Supported knee to chest pose  LR
 | Waves Extended      			| Reclined butterfly + Happy baby + Savasana 
 | Om                  			| Closing
 	
