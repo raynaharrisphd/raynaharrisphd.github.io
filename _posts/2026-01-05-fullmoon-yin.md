@@ -16,9 +16,7 @@ with the props in parentheses (blankets/bolsters) plus instructor notes.
 All poses are accomanpied by blankes and bolsters and held for about 3 minutes each. 
 
 
-* Seated Meditation Pose _(seated on bolster)_ + Welcome + Gratitude
-* Basic Relaxation Pose _(bolster under knees)_ + Breathwork
-* Reclined Buttefly _(feet on bolster)_ + Full Body Scan Meditation
+
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <img src="/images/yoga/restorative/1.png" style="width: 33%;">
@@ -26,20 +24,32 @@ All poses are accomanpied by blankes and bolsters and held for about 3 minutes e
    <img src="/images/yoga/restorative/3.png" style="width: 33%;">
 </div>
 
-The next three are performed like a pendulum from 
-right side bend, childs pose, right half frog to
-left half frog, childs pose, left side bend. 
-
-* Simple Side Bend _(boster under chest, blanket under head and neck)_   
-* Supported Child's Pose _(boster under chest)_ + Intension Setting
-* Supported Half Frog _(boster under chest, blanket under knee)_
+* Seated Meditation Pose _(seated on bolster)_ + Welcome + Gratitude
+* Basic Relaxation Pose _(bolster under knees)_ + Breathwork
+* Reclined Buttefly _(feet on bolster)_ + Full Body Scan Meditation
 
 <div style="display: flex; justify-content: center; gap: 1rem;">   
    <img src="/images/yoga/restorative/4.png" style="width: 33%;">
    <img src="/images/yoga/restorative/5.png" style="width: 33%;">
    <img src="/images/yoga/restorative/6.png" style="width: 33%;">
 </div>
+   
+These three poses are performed like a pendulum from 
+right side bend, childs pose, right half frog to
+left half frog, childs pose, left side bend. 
+   
+* Simple Side Bend _(boster under chest, blanket under head and neck)_   
+* Supported Child's Pose _(boster under chest)_ + Intension Setting
+* Supported Half Frog _(boster under chest, blanket under knee)_
 
+   
+<div style="display: flex; justify-content: center; gap: 1rem;">  
+   <img src="/images/yoga/restorative/7.png" style="width: 33%;">
+   <img src="/images/yoga/restorative/8.png" style="width: 33%;">
+   <img src="/images/yoga/restorative/9.png" style="width: 33%;">
+</div>
+
+   
 The final sequence involves one seated pose, inversions, and twists
 before closing with final relaxation and meditation. 
 
@@ -49,11 +59,7 @@ before closing with final relaxation and meditation.
 * Reclined Buttefly _(knees on bolsters)_ + Loving Kindness Meditation
 * Seated Meditation Pose + Closing
 
-<div style="display: flex; justify-content: center; gap: 1rem;">  
-   <img src="/images/yoga/restorative/7.png" style="width: 33%;">
-   <img src="/images/yoga/restorative/8.png" style="width: 33%;">
-   <img src="/images/yoga/restorative/9.png" style="width: 33%;">
-</div>
+
 
 
 
