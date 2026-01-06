@@ -18,12 +18,12 @@ Pose _(props)_ - Notes
 * Meditation Pose _(seated on bolster)_ - Welcome + Gratitude
 * Relaxation Pose _(bolster under knees)_ - Breathwork
 * Reclined Buttefly _(feet on bolster)_ - Full Body Scan Meditation
-* Side Bend _(boster under chest, blanket under head and neck)   
+* Side Bend _(boster under chest, blanket under head and neck)_   
 * Child's Pose _(boster under chest)_ - Intension Setting
-* Half Frog _(boster under chest, blanket under knee) - Release 
+* Half Frog _(boster under chest, blanket under knee)_ - Release 
 * Straddle Forward Fold _(blocks and bolster under chest)_ - Hug A Friend
 * Legs Up the Bolster _(blocks and bolster under legs)_ - Love Your Feet
-* Spinal Twistst _(bolster legs)   
+* Spinal Twistst _(bolster legs)_   
 * Reclined Buttefly _(feet on bolster)_ - Loving Kindness Meditation
 * Meditation Pose - Closing
 
