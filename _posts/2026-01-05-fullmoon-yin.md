@@ -8,8 +8,7 @@ spotify: 3FCekAwLrb5qMTqb572vIZ
 #image: "/images/yoga/xxx.png"
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="422" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-   
+
 Inspiration for this class comes from yesterday's full moon and the book 
 _"Restorative Yoga for Beginners - Gentle Poses for Relaxation and Healing"_ by Julia Clark.
 
@@ -41,3 +40,6 @@ Pose (props) - Action
    <img src="/images/yoga/restorative/8.png" style="width: 33%;">
    <img src="/images/yoga/restorative/9.png" style="width: 33%;">
 </div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="422" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+   
