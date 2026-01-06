@@ -13,18 +13,18 @@ Inspiration for this class comes from yesterday's full moon and the book
 _"Restorative Yoga for Beginners - Gentle Poses for Relaxation and Healing"_ by Julia Clark.
 
    
-Pose (props) - Action
+Pose _(props)_ - Notes
 
-* Meditation Pose (seated on bolster)- Welcome + Gratitude
-* Relaxation Pose (bolster under knees) - Breathwork
-* Reclined Buttefly (feet on bolster) - Full Body Scan Meditation
-* Side Bend (boster under chest, blanket under head and neck)   
-* Child's Pose (boster under chest) - Intension Setting
-* Half Frog (boster under chest, blanket under knee)  
-* Straddle Forward Fold (blocks and bolster under chest) - Hug A Friend
-* Legs Up the Bolster (blocks and bolster under legs) - Love Your Feet
-* Spinal Twistst (bolster legs)  
-* Reclined Buttefly (feet on bolster) - Loving Kindness Meditation
+* Meditation Pose _(seated on bolster)_ - Welcome + Gratitude
+* Relaxation Pose _(bolster under knees)_ - Breathwork
+* Reclined Buttefly _(feet on bolster)_ - Full Body Scan Meditation
+* Side Bend _(boster under chest, blanket under head and neck)   
+* Child's Pose _(boster under chest)_ - Intension Setting
+* Half Frog _(boster under chest, blanket under knee)  
+* Straddle Forward Fold _(blocks and bolster under chest)_ - Hug A Friend
+* Legs Up the Bolster _(blocks and bolster under legs)_ - Love Your Feet
+* Spinal Twistst _(bolster legs)  
+* Reclined Buttefly _(feet on bolster)_ - Loving Kindness Meditation
 * Meditation Pose - Closing
 
 
