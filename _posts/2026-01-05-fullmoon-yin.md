@@ -33,9 +33,15 @@ Pose (props) - Action
   <img src="/images/yoga/restorative/1.png" style="width: 33%;">
   <img src="/images/yoga/restorative/2.png" style="width: 33%;">
    <img src="/images/yoga/restorative/3.png" style="width: 33%;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 1rem;">   
    <img src="/images/yoga/restorative/4.png" style="width: 33%;">
    <img src="/images/yoga/restorative/5.png" style="width: 33%;">
    <img src="/images/yoga/restorative/6.png" style="width: 33%;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 1rem;">  
    <img src="/images/yoga/restorative/7.png" style="width: 33%;">
    <img src="/images/yoga/restorative/8.png" style="width: 33%;">
    <img src="/images/yoga/restorative/9.png" style="width: 33%;">
