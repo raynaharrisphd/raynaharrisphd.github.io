@@ -20,9 +20,9 @@ Pose _(props)_ - Notes
 * Reclined Buttefly _(feet on bolster)_ - Full Body Scan Meditation
 * Side Bend _(boster under chest, blanket under head and neck)_   
 * Child's Pose _(boster under chest)_ - Intension Setting
-* Half Frog _(boster under chest, blanket under knee)_ - Release 
-* Straddle Forward Fold _(blocks and bolster under chest)_ - Hug A Friend
-* Legs Up the Bolster _(blocks and bolster under legs)_ - Love Your Feet
+* Half Frog _(boster under chest, blanket under knee)_  
+* Straddle Forward Fold _(blocks and bolster under chest)_   
+* Legs Up the Bolster _(blocks and bolster under legs)_  
 * Spinal Twistst _(bolster legs)_   
 * Reclined Buttefly _(feet on bolster)_ - Loving Kindness Meditation
 * Meditation Pose - Closing
