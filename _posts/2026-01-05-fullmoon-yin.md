@@ -10,7 +10,8 @@ image: "/images/yoga/restorative/0.png"
 
 
 Inspiration for this class comes from yesterday's full moon and the book 
-_"Restorative Yoga for Beginners - Gentle Poses for Relaxation and Healing"_ by Julia Clark.
+_"[Restorative Yoga for Beginners](https://www.goodreads.com/book/show/48927944-restorative-yoga-for-beginners) - 
+Gentle Poses for Relaxation and Healing"_ by Julia Clark.
 Here is the outlined sequence of poses I incorporated into class,
 with the props in parentheses (blankets/bolsters) plus instructor notes. 
 All poses are accomanpied by blankes and bolsters and held for about 3 minutes each. 
