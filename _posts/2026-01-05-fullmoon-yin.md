@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Full Moon-ish Yin Yoga - Mountain Lotus Yoga"
-date: 2025-11-17
-excerpt: "In this class you'll enjoy a series of long-held, passive floor poses for deep stretching and relaxation. Our yin yoga classes work deep into the tissues of the body – ligaments, joints, bones, the fascia. The room is gently heated and music is used to create the perfect environment for you to relax the mind and the body. Open to all levels." 
+date: 2026-01-05
+excerpt: "In this class you'll enjoy a series of long-.held, passive floor poses for deep stretching and relaxation. Our yin yoga classes work deep into the tissues of the body – ligaments, joints, bones, the fascia. The room is gently heated and music is used to create the perfect environment for you to relax the mind and the body. Open to all levels." 
 categories: yoga
 spotify: 3FCekAwLrb5qMTqb572vIZ
 #image: "/images/yoga/xxx.png"
