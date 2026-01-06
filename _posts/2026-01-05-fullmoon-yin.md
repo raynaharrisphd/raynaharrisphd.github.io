@@ -12,22 +12,6 @@ image: "/images/yoga/restorative/0.png"
 Inspiration for this class comes from yesterday's full moon and the book 
 _"Restorative Yoga for Beginners - Gentle Poses for Relaxation and Healing"_ by Julia Clark.
 
-   
-Pose _(props)_ - Notes
-
-* Meditation Pose _(seated on bolster)_ - Welcome + Gratitude
-* Relaxation Pose _(bolster under knees)_ - Breathwork
-* Reclined Buttefly _(feet on bolster)_ - Full Body Scan Meditation
-* Side Bend _(boster under chest, blanket under head and neck)_   
-* Child's Pose _(boster under chest)_ - Intension Setting
-* Half Frog _(boster under chest, blanket under knee)_  
-* Straddle Forward Fold _(blocks and bolster under chest)_   
-* Legs Up the Bolster _(blocks and bolster under legs)_  
-* Spinal Twistst _(bolster legs)_   
-* Reclined Buttefly _(feet on bolster)_ - Loving Kindness Meditation
-* Meditation Pose - Closing
-
-
 <div style="display: flex; justify-content: center; gap: 1rem;">
   <img src="/images/yoga/restorative/1.png" style="width: 33%;">
   <img src="/images/yoga/restorative/2.png" style="width: 33%;">
@@ -46,7 +30,23 @@ Pose _(props)_ - Notes
    <img src="/images/yoga/restorative/9.png" style="width: 33%;">
 </div>
 
+Below is a brief outline of the sequence of poses I incorporated into class,
+with the props in parentheses (blankets/bolsters) plus instructor notes. 
 All poses are accomanpied by blankes and bolsters and held for about 3 minutes each. 
+
+
+* Meditation Pose _(seated on bolster)_ + Welcome + Gratitude
+* Relaxation Pose _(bolster under knees)_ + Breathwork
+* Reclined Buttefly _(feet on bolster)_ + Full Body Scan Meditation
+* Side Bend _(boster under chest, blanket under head and neck)_   
+* Child's Pose _(boster under chest)_ + Intension Setting
+* Half Frog _(boster under chest, blanket under knee)_  
+* Straddle Forward Fold _(blocks and bolster under chest)_   
+* Legs Up the Bolster _(blocks and bolster under legs)_  
+* Spinal Twistst _(bolster legs)_   
+* Reclined Buttefly _(feet on bolster)_ + Loving Kindness Meditation
+* Meditation Pose + Closing
+
 
 Rather than create a brand new playlist, I used a previous spotify playlist for this class. 
 
