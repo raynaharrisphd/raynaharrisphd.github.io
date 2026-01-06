@@ -20,11 +20,24 @@ Pose (props) - Action
 * Meditation Pose (seated on bolster)- Welcome + Gratitude
 * Relaxation Pose (bolster under knees) - Breathwork
 * Reclined Buttefly (feet on bolster) - Full Body Scan Meditation
-* Side Bend (boster under chest, blanket under head and neck) -  
-* Child's Pose (boster under chest)- Intension Setting
-* Half Frog (boster under chest, blanket under knee) -  
+* Side Bend (boster under chest, blanket under head and neck)   
+* Child's Pose (boster under chest) - Intension Setting
+* Half Frog (boster under chest, blanket under knee)  
 * Straddle Forward Fold (blocks and bolster under chest) - Hug A Friend
 * Legs Up the Bolster (blocks and bolster under legs) - Love Your Feet
-* Spinal Twistst (bolster legs) -  
-* Reclined Buttefly (feet on bolster)  - Loving Kindness Meditation
+* Spinal Twistst (bolster legs)  
+* Reclined Buttefly (feet on bolster) - Loving Kindness Meditation
 * Meditation Pose - Closing
+
+
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <img src="/images/yoga/restorative/1.png" style="width: 33%;">
+  <img src="/images/yoga/restorative/2.png" style="width: 33%;">
+   <img src="/images/yoga/restorative/3.png" style="width: 33%;">
+   <img src="/images/yoga/restorative/4.png" style="width: 33%;">
+   <img src="/images/yoga/restorative/5.png" style="width: 33%;">
+   <img src="/images/yoga/restorative/6.png" style="width: 33%;">
+   <img src="/images/yoga/restorative/7.png" style="width: 33%;">
+   <img src="/images/yoga/restorative/8.png" style="width: 33%;">
+   <img src="/images/yoga/restorative/9.png" style="width: 33%;">
+</div>
