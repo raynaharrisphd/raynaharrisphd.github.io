@@ -10,22 +10,13 @@ image: "/images/yoga/restorative/0.png"
 
 
 Inspiration for this class comes from yesterday's full moon and the book 
-_"Restorative Yoga for Beginners - Gentle Poses for Relaxation and Healing"_ by Julia Clark.
+_"[Restorative Yoga for Beginners](https://www.goodreads.com/book/show/48927944-restorative-yoga-for-beginners) - 
+Gentle Poses for Relaxation and Healing"_ by Julia Clark.
+Here is the outlined sequence of poses I incorporated into class,
+with the props in parentheses (blankets/bolsters) plus instructor notes. 
+All poses are accomanpied by blankes and bolsters and held for about 3 minutes each. 
 
-   
-Pose (props) - Action
 
-* Meditation Pose (seated on bolster)- Welcome + Gratitude
-* Relaxation Pose (bolster under knees) - Breathwork
-* Reclined Buttefly (feet on bolster) - Full Body Scan Meditation
-* Side Bend (boster under chest, blanket under head and neck)   
-* Child's Pose (boster under chest) - Intension Setting
-* Half Frog (boster under chest, blanket under knee)  
-* Straddle Forward Fold (blocks and bolster under chest) - Hug A Friend
-* Legs Up the Bolster (blocks and bolster under legs) - Love Your Feet
-* Spinal Twistst (bolster legs)  
-* Reclined Buttefly (feet on bolster) - Loving Kindness Meditation
-* Meditation Pose - Closing
 
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
@@ -34,19 +25,47 @@ Pose (props) - Action
    <img src="/images/yoga/restorative/3.png" style="width: 33%;">
 </div>
 
+* Seated Meditation Pose _(seated on bolster)_ + Welcome + Gratitude
+* Basic Relaxation Pose _(bolster under knees)_ + Breathwork
+* Reclined Buttefly _(feet on bolster)_ + Full Body Scan Meditation
+
 <div style="display: flex; justify-content: center; gap: 1rem;">   
    <img src="/images/yoga/restorative/4.png" style="width: 33%;">
    <img src="/images/yoga/restorative/5.png" style="width: 33%;">
    <img src="/images/yoga/restorative/6.png" style="width: 33%;">
 </div>
+   
+These three poses are performed like a pendulum from 
+right side bend, childs pose, right half frog to
+left half frog, childs pose, left side bend. 
+   
+* Simple Side Bend _(boster under chest, blanket under head and neck)_   
+* Supported Child's Pose _(boster under chest)_ + Intension Setting
+* Supported Half Frog _(boster under chest, blanket under knee)_
 
+   
 <div style="display: flex; justify-content: center; gap: 1rem;">  
    <img src="/images/yoga/restorative/7.png" style="width: 33%;">
    <img src="/images/yoga/restorative/8.png" style="width: 33%;">
    <img src="/images/yoga/restorative/9.png" style="width: 33%;">
 </div>
 
-All poses are accomanpied by blankes and bolsters and held for about 3 minutes each. 
+   
+The final sequence involves one seated pose, inversions, and twists
+before closing with final relaxation and meditation. 
+
+* SupportedStraddle Forward Fold _(blocks and bolster under chest)_   
+* Legs Up the Bolster _(blocks and bolster under legs)_  
+* SupportedSpinal Twistst _(bolster legs)_
+* Reclined Buttefly _(knees on bolsters)_ + Loving Kindness Meditation
+* Seated Meditation Pose + Closing
+
+
+
+
+
+
+
 
 Rather than create a brand new playlist, I used a previous spotify playlist for this class. 
 
