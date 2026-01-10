@@ -9,7 +9,7 @@ spotify: 3FCekAwLrb5qMTqb572vIZ
 ---
 
 
-Inspiration for this class comes from yesterday's full moon and the book 
+Inspiration for this class comes from the recent full moon and the book 
 _"Restorative Yoga for Beginners - Gentle Poses for Relaxation and Healing"_ by Julia Clark.
 
 
