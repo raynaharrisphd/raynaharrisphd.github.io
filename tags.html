@@ -17,14 +17,15 @@ Blog posts groups by tags.
 
 
 
-
-{% for tags in site.tags %}
+{% assign sorted_tags = site.tags | sort %}
+    
+{% for sorted_tags in site.tags %}
 
   <h2>{{ tags[0] }}</h2>
   
   <ul>
   
-    {% assign sorted_tags = site.tags | sort %}
+
     {% for post in sorted_tags[1] %}
     
       <ul> 
