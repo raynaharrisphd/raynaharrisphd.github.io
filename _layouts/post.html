@@ -64,7 +64,7 @@
 {%- if page.tags -%}
   <p>Tags:
     {% for tag in page.tags %}
-      <a href="{{ '/tags.html' | absolute_url }}#{{ tag | slugize }}">#{{ tag }}</a>
+      <a href="{{ '/tags' | absolute_url }}#{{ tag | slugize }}">#{{ tag }}</a>
     {% endfor %}
   </p>
 {%- endif -%}
@@ -72,7 +72,7 @@
 
 <ul>
     {%- for tag in page.tags -%}
-        <li><a href="/tag/{{ tag }}">{{ tag }}</a></li>
+        <li><a href="/tags/">{{ tag }}</a></li>
     {%- endfor -%}
 </ul>
 
