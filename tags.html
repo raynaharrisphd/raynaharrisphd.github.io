@@ -7,21 +7,21 @@ layout: page
 
 {% assign sorted_tags = site.tags | reverse %}
 
-{% for sorted_tags in site.tags %}
+{% for tag in sorted_tags %}
 
-	• {{ sorted_tags[0] }}  
+	{{ tag[0] }}  • 
 
 {% endfor %}
 
 
-{% for sorted_tags in site.tags %}
+{% for tag in sorted_tags %}
 
-  <h2>{{ sorted_tags[0] }}</h2>
+  <h2>{{ tag[0] }}</h2>
   
   <ul>
   
 
-    {% for post in sorted_tags[1] %}
+    {% for post in tag[1] %}
     
       <ul> 
       
