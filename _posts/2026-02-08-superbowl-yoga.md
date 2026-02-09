@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apres Ski Flow - Mountain Lotus Yoga"
+title: "Apres Ski Flow 1 - Superbowl Sunday
 date: 2026-02-08
 excerpt: "My first of many Après Yoga classes at Mountain Lotus! This one took place on Superbowl Sunday during the Winter Olympics, so we focuses on stretching, strengthening, mediation, and relaxation."
 categories: yoga
