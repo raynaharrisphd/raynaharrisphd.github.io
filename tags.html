@@ -5,7 +5,8 @@ layout: page
 
 <h1> Tags </h1>
 
-{% assign sorted_tags = site.tags | sort %}
+{% assign sorted_tags = site.tags | sort_natural %}
+
 {% for sorted_tags in site.tags %}
 
 	• {{ sorted_tags[0] }}  
