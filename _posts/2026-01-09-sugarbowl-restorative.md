@@ -4,7 +4,7 @@ title: "Apres Restorative Yoga - Sugar Bowl Sport Haus"
 date: 2026-01-09
 excerpt: "Restorative Apres Flow. Wind down with this relaxing slow flow class. Emphasizing restorative postures and deeper openings the apres flow class allows you the time and space to nurture your mind, body & spirit within an inviting atmosphere. No experience necessary." 
 categories: yoga
-tags: ['Sugar Bowl Yoga']
+tags: ['Sugar Bowl']
 spotify: 3FCekAwLrb5qMTqb572vIZ
 #image: "/images/yoga/restorative/0.png"
 ---
