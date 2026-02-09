@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /tags/
 title: Blog Post Tags
 ---
@@ -17,8 +17,8 @@ title: Blog Post Tags
     {% endcomment %}
     {% for post in tag | last %}
       <li>
-        <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
-        <small>{{ post.date | date_to_string }}</small>
+        <a href="{{ post.url | absolute_url }}">{{ page.title }}</a>
+        <small>{{ page.date | date_to_string }}</small> Blah Blah
       </li>
     {% endfor %}
   </ul>
