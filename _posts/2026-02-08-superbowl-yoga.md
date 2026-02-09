@@ -6,7 +6,7 @@ excerpt: "My first of many Après Yoga classes at Mountain Lotus! This one took 
 categories: yoga
 tags: ['Apres Ski Flow']
 spotify: 2BtaAqbnITgfe2JGzdwA14
-#image: "/images/yoga/superbowl.png"
+image: "/images/yoga/superbowl.png"
  
 ---
 
