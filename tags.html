@@ -5,38 +5,6 @@ layout: page
 
 <h1> Tags </h1>
 
-{% assign sorted_tags = site.tags | sort | reverse %}
-
-{% for sorted_tags in site.tags %}
-
-	• {{ sorted_tags[0] }}  
-
-{% endfor %}
-
-
-{% for sorted_tags in site.tags %}
-
-  <h1><a href="#">{{ sorted_tags[0] }}</a></h1>
-  
-  <ul>
-  
-
-    {% for post in sorted_tags[1] %}
-    
-      <ul> 
-      
-       	<b> <a href="{{post.url}}">{{post.title}}</a> </b> •
-       	<i> {{ post.date | date: '%B %-d, %Y' }} </i> </p>                                                                                                 
-                  
-      
-       </ul>
-        
-    {% endfor %}
-    
-  </ul>
-
-{% endfor %}
-
 
 <h2> new test </h2>
 
