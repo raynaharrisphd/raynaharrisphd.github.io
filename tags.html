@@ -5,7 +5,7 @@ layout: page
 
 <h1> Tags </h1>
 
-{% assign sorted_tags = site.tags | sort: "1" | reverse %}
+{% assign sorted_tags = site.tags | sort | reverse %}
 
 {% for sorted_tags in site.tags %}
 
