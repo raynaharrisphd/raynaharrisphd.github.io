@@ -2,7 +2,7 @@
 layout: post
 title: "Apres Ski Flow 1 - Superbowl Sunday"
 date: 2026-02-08
-excerpt: "My first of many Après Yoga classes at Mountain Lotus! This one took place on Superbowl Sunday during the Winter Olympics, so we focuses on stretching, strengthening, mediation, and relaxation."
+excerpt: "My first of many Après Yoga classes at Mountain Lotus! This one took place on Superbowl Sunday during the Winter Olympics, so we focused on stretching, strengthening, meditation, and relaxation."
 categories: yoga
 tags: ['Apres Ski Flow']
 spotify: 2BtaAqbnITgfe2JGzdwA14
@@ -46,5 +46,3 @@ Our Apres Ski Flow is gently heated to around 80-85 degrees.
 - Figure wind with twists + happy baby + free movement
 - Savasana with ["Thank Yogo" by Beautiful Chorus](https://open.spotify.com/track/6TcTJCmmOpXadSpl5a0tdj)
 - Loving Kindness Meditation
- 
-
