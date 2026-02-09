@@ -37,3 +37,10 @@ layout: page
 
 {% endfor %}
 
+
+<h2> new test </h2>
+
+{% assign sorted_posts = site.tags.jekyll | sort: 'date' | reverse %}
+{% for post in sorted_posts %}
+  <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}
+{% endfor %}
