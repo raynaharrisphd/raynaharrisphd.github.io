@@ -1,0 +1,24 @@
+---
+layout: default
+title: Blog Post Tags
+---
+
+<h1>Posts by Tag</h1>
+
+{% comment %}
+  Iterate through all the tags on the site
+{% endcomment %}
+{% for tag in site.tags %}
+  <h2 id="{{ tag | first | slugize }}">{{ tag | first }}</h2>
+  <ul>
+    {% comment %}
+      Iterate through all posts with the current tag
+    {% endcomment %}
+    {% for post in tag | last %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>{{ post.date | date_to_string }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

@@ -60,15 +60,21 @@
 </div>
 
 
+<!-- Tags -->
+{%- if page.tags -%}
+  <p>Tags:
+    {% for tag in page.tags %}
+      <a href="{{ '/tags.html' | relative_url }}#{{ tag | slugize }}">#{{ tag }}</a>
+    {% endfor %}
+  </p>
+{%- endif -%}
+
 
       	
     <div id="share">
     {% include share.html %}
-
-
     <!-- Footer -->
     {% include foot.html %}
-
     </div>
 
     <!-- Scripts -->
@@ -78,3 +84,6 @@
 
 	</body>
 </html>
+
+
+
