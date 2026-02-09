@@ -24,7 +24,8 @@ Blog posts groups by tags.
   
   <ul>
   
-    {% for post in tags[1] %}
+    {% assign sorted_tags = site.tags | sort %}
+    {% for post in sorted_tags[1] %}
     
       <ul> 
       
