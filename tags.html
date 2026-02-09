@@ -18,7 +18,7 @@ title: Blog Post Tags
     {% for post in tag | last %}
       <li>
         <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
-        <small>{{ post.date | date_to_string }}</small>
+        <small>{{ post.date | date_to_string }}</small> Blah blah
       </li>
     {% endfor %}
   </ul>
