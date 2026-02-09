@@ -5,20 +5,14 @@ layout: page
 
 <h1> Tags </h1>
 
-Blog posts groups by tags.
+{% assign sorted_tags = site.tags | sort %}
+{% for sorted_tags in site.tags %}
 
-{% for tags in site.tags %}
+	• {{ sorted_tags[0] }}  
 
-	• {{ tags[0] }}  
-
-	
 {% endfor %}
 
 
-
-
-{% assign sorted_tags = site.tags | sort %}
-    
 {% for sorted_tags in site.tags %}
 
   <h2>{{ sorted_tags[0] }}</h2>
