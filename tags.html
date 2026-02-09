@@ -2,14 +2,42 @@
 layout: page
 ---
 
-<h2>{{ page.tag }}</h2>
-<ul>
-{% for post in site.tags[page.tag] %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})
-  {%- if site.show_excerpts -%}
-    {{ post.excerpt }}
-  {%- endif -%}
-  </li>
+
+<h1> Tags </h1>
+
+Scroll down to read blog posts I've written over the years about: 
+
+
+{% for tags in site.tags %}
+
+	• {{ tags[0] }}  
+
+	
 {% endfor %}
-</ul>
+
+
+
+
+
+{% for tags in site.tags %}
+
+  <h2>{{ categories[0] }}</h2>
+  
+  <ul>
+  
+    {% for post in tags[1] %}
+    
+      <ul> 
+      
+       	<b> <a href="{{post.url}}">{{post.title}}</a> </b> •
+       	<i> {{ post.date | date: '%B %-d, %Y' }} </i> </p>                                                                                                 
+		{% endif %}                   
+      
+       </ul>
+        
+    {% endfor %}
+    
+  </ul>
+
+{% endfor %}
 
