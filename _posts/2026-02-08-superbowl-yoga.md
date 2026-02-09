@@ -4,6 +4,7 @@ title: "Apres Yoga Super Bowl Sunday "
 date: 2026-02-08
 excerpt: "An Après Yoga class at Mountain Lotus on Superbowl Sunday."
 categories: yoga
+tags: ['Apres Ski Flow']
 spotify: 2BtaAqbnITgfe2JGzdwA14
 #image: "/images/yoga/<imagename>.png"
  
