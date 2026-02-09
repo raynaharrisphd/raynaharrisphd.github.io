@@ -37,7 +37,7 @@ Our Apres Ski Flow is gently heated to around 80-85 degrees.
 - Mountain pose 
 - Sun salutation with Low lunges + half split with blocks
 - Sun salutation with high lunge + warrior II + reverse warrior 
-- 1-leg mountain pose + Warrior III FLow
+- 1-leg tadasana + warrior III fLow
 - Dancer pose
 - Standing splits
 - Hero pose with toe stretch
