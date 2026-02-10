@@ -45,3 +45,10 @@ Our Apres Ski Flow is gently heated to around 80-85 degrees.
 - Figure wind with twists + happy baby + free movement
 - Savasana with ["Thank Yogo" by Beautiful Chorus](https://open.spotify.com/track/6TcTJCmmOpXadSpl5a0tdj)
 - Loving Kindness Meditation
+
+### Meditations
+
+**Nourish the Seeds:** Seeds hold potential for new life within their small structures. By without the proper nourishment (the right amount of water, light, and nutrients) a seed will not yield life. Today, focus on something you want to accomplish (a creative idea, a side project, or a long-term goal) and consider what resources and support you need to succeed. Commit to your focus and repeat the phrase "I will nourish what I want to see grow."    
+
+**Loving Kindess Meditation:** May I/you/we be happy/healthy/safe. 
+
