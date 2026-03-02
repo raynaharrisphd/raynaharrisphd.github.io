@@ -5,7 +5,7 @@ date: 2026-03-01
 excerpt: "This yoga class taking place on a stormy sunday. The pace is a little more up beat than last week to help release any pent up energy from being indoors or to warm up after being outdoors."
 categories: yoga
 tags: ['Apres Ski Flow']
-spotify: 2NVKEd0OW5wJHE14Aswi74
+spotify: 13l5leVYO3RMuPHRiUwlMw
 #image: "/images/yoga/<imagename>.png"
  
 ---
