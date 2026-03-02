@@ -36,7 +36,7 @@ Welcome + introductions + gratitude share| Starscape
 Supported wide leg fold + butterfly |  Dye
 Boat flow + cow face + seated cat cow |   Practice Makes Progress
 Lizard lunge flow | Solar 
-High Lunge + 1 Leg Tadasana flow  - Stormy Monday
+High Lunge + 1 leg tadasana flow  - Stormy Monday
 Warrior II flow | Feeling Good
 Tree + Standing Figure Four | 6s to 9s
 Bridge flow + legs up wall | All of My Love
@@ -45,7 +45,7 @@ Recline shoulder twist thing | Midas
 Reclined leg stretches to happy baby | Les Nuits 
 Free movement | Misting Morning
 Savasana |  Under the Heavens
-Closing | Waves extended
+Savasana | Waves extended
 
 
 
