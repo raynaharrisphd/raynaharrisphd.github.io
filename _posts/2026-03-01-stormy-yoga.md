@@ -31,12 +31,12 @@ Our Apres Ski Flow is gently heated to around 80-85 degrees.
 
 Asanas | Music
 -------|------
-Welcome + introductions + gratitude share| Starscape 
+Welcome + introductions + gratitude share | Starscape 
 **Meditation** | Kusanagi
 Supported wide leg fold + butterfly |  Dye
 Boat flow + cow face + seated cat cow |   Practice Makes Progress
 Lizard lunge flow | Solar 
-High Lunge + 1 leg tadasana flow  - Stormy Monday
+High Lunge + 1 leg tadasana flow  |  Stormy Monday
 Warrior II flow | Feeling Good
 Tree + Standing Figure Four | 6s to 9s
 Bridge flow + legs up wall | All of My Love
