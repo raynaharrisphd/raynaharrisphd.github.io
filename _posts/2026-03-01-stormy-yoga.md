@@ -31,19 +31,18 @@ Our Apres Ski Flow is gently heated to around 80-85 degrees.
 
 Asanas | Music
 -------|------
-Welcome + introductions + gratitude share| Silence
-**Meditation** | Starscape 
-Supported wide leg fold + butterfly |  Kusanagi
-Boat flow + cow face + seated cat cow | Dye  
-Modified side plank +  plank flow |  Practice Makes Progress
+Welcome + introductions + gratitude share| Starscape 
+**Meditation** | Kusanagi
+Supported wide leg fold + butterfly |  Dye
+Boat flow + cow face + seated cat cow |   Practice Makes Progress
 Lizard lunge flow | Solar 
-High Lunge + 1 Leg Tadasana flow (+ Warrior III) - Stormy Monday
+High Lunge + 1 Leg Tadasana flow  - Stormy Monday
 Warrior II flow | Feeling Good
-Tree flow | 6s to 9s
+Tree + Standing Figure Four | 6s to 9s
 Bridge flow + legs up wall | All of My Love
 Half frog with optional bind and foot massage | Evan Finds 3rd Room
-Seated stretches | Midas
-Reclined stretches | Les Nuits 
+Recline shoulder twist thing | Midas
+Reclined leg stretches to happy baby | Les Nuits 
 Free movement | Misting Morning
 Savasana |  Under the Heavens
 Closing | Waves extended
@@ -53,5 +52,5 @@ Closing | Waves extended
 
 **Meditation:** "Create your own conditions" from the Nature Meditations Deck
 
-#<img src="/images/yoga/calm.png" style="width:50%" align="middle" >
+<img src="/images/yoga/conditions.png" style="width:50%" align="middle" >
 
