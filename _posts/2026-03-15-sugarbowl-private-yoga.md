@@ -5,7 +5,7 @@ date: 2026-03-20
 excerpt: "This sequences was developed for private yoga class at Sugar Bowl. They request a vinyasa style, and I decided to go with a flow with half moon as the peak pose to emphasize a theme about grounding while expanding."
 categories: yoga
 tags: ['Sugar Bowl']
-spotify: 198tB4lZaAOAeqNxuHtFnA
+spotify: 6omPaA8aKtaCIcGzgNqs15
 #image: "/images/yoga/<imagename>.png"
  
 ---
@@ -24,13 +24,13 @@ spotify: 198tB4lZaAOAeqNxuHtFnA
 Asanas | Music   
 ---- | ----
 Welcome |    
-Full body scan meditation  | Being Present
-Bolster supported twists  |  Dye
-Seated stretches and boat pose |  Sun Rays Like Stilts
+Meditation  | Being Present
+Breathwork with simple movement |  Sun Rays Like Stilts
+Seated forward folds + boat poses |  Gold Flow
 Cat/Cow with leg extended + supported side plank | El Fantasma
 Sun A (x2)  | Mambo Sugar
 Low lunge + half split + revolved lunge + side plank | Voluntary Exile
-Sun B (x2)  | All for You
+Sun B (x2)  | Edge of the Ocean
 High lunge + Warrior II + Reserved + Side Angle  | Love Me
 Triangle to Half Moon + Standing Split to Half Moon | Sun Colored Eyes
 Seated stretches | Hijos del Sol
@@ -48,4 +48,4 @@ Savasana | Waves
 
 ## Note
 
-Portions of this sequence were generated with the help of AI (ChatGPT, OpenAI) using prompts related to vinyasa sequencing and ski-specific movement preparation, then adapted for my teaching style and students.
+Portions of this sequence were generated with the help of AI (ChatGPT, OpenAI) using prompts related to vinyasa sequencing and ski-specific movement preparation, then adapted for my teaching style and the music and asanas from my previous class on [dancing shiva](https://www.raynaharris.com/blog/shiva-yoga/).

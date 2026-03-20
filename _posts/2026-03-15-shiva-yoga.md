@@ -29,7 +29,7 @@ Our Apres Ski Flow is gently heated to around 80-85 degrees.
 Asanas | Music   
 ---- | ----
 Welcome |    
-Meditation  | Being Present
+Full body scan meditation  | Being Present
 Bolster supported stretches  |  Dye
 Seated movements |  Sun Rays Like Stilts
 Cat/Cow with leg extended + supported side plank | El Fantasma
