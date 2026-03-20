@@ -33,7 +33,7 @@ Sun A + Low lunge + half split + revolved lunge + side plank | Voluntary Exile
 Sun B (x2)  | Edge of the Ocean
 Sun B + High lunge + Warrior II + Reserved + Side Angle  | Love Me
 Triangle to Half Moon + Standing Split to Half Moon | Sun Colored Eyes
-Seated stretches | Hijos del Sol
+1 leg tadasanas or seated leg stretches and twists | Hijos del Sol
 Full pigeon + half pigeon | Anouk
 Reclined stretches | Mesa Redonda
 Free flow | A Hymn
