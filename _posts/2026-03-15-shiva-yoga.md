@@ -50,7 +50,3 @@ Savasana | Waves
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
-
-## Notes
-
-Portions of this sequence were generated with the help of AI (ChatGPT, OpenAI) using prompts related to vinyasa sequencing and ski-specific movement preparation, then adapted for my teaching style and last week's playlist and sequence. 
