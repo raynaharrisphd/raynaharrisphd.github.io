@@ -32,7 +32,7 @@ Sun A (x2)  | Mambo Sugar
 Sun A + Low lunge + half split + revolved lunge + side plank | Voluntary Exile
 Sun B (x2)  | Edge of the Ocean
 Sun B + High lunge + Warrior II + Reserved + Side Angle  | Love Me
-Triangle to Half Moon + Standing Split to Half Moon | Sun Colored Eyes
+Triangle + Pyramid + Standing Split + Half Moon | Sun Colored Eyes
 1 leg tadasanas or seated leg stretches and twists | Anouk 
 Full pigeon + half pigeon | Hijos del Sol
 Reclined stretches | Low sun
