@@ -29,9 +29,9 @@ Breathwork with simple movement |  Sun Rays Like Stilts
 Seated forward folds + boat poses |  Gold Flow
 Cat/Cow with leg extended + supported side plank | El Fantasma
 Sun A (x2)  | Mambo Sugar
-Low lunge + half split + revolved lunge + side plank | Voluntary Exile
+Sun A + Low lunge + half split + revolved lunge + side plank | Voluntary Exile
 Sun B (x2)  | Edge of the Ocean
-High lunge + Warrior II + Reserved + Side Angle  | Love Me
+Sun B + High lunge + Warrior II + Reserved + Side Angle  | Love Me
 Triangle to Half Moon + Standing Split to Half Moon | Sun Colored Eyes
 Seated stretches | Hijos del Sol
 Full pigeon + half pigeon | Anouk
