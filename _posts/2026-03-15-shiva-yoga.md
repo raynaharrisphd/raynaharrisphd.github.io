@@ -37,7 +37,7 @@ Half sun salutation with malasana squat | Mambo Sugar
 3 leg down dog with kneed crunches to fallen star | Voluntary Exile
 Lunges + 1 leg tadasana to lunge flow | All for You
 Half moon + revolved half moon + Warrior III| Love Me
-Sun Colored Eyes | Dancing Shiva
+Dancing Shiva | Sun Colored Eyes 
 Seated stretches | Hijos del Sol
 Full pigeon + half pigeon | Anouk
 Reclined stretches | Mesa Redonda
