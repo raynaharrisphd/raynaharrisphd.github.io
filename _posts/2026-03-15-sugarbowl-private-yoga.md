@@ -23,10 +23,10 @@ spotify: 198tB4lZaAOAeqNxuHtFnA
 
 Asanas | Music   
 ---- | ----
-Welcome | Silent
+Welcome |    
 Full body scan meditation  | Being Present
-Supported reclined twists and child's pose  |  Dye
-Seated twists and bat pose |  Sun Rays Like Stilts
+Bolster supported twists  |  Dye
+Seated stretches and boat pose |  Sun Rays Like Stilts
 Cat/Cow with leg extended + supported side plank | El Fantasma
 Sun A (x2)  | Mambo Sugar
 Low lunge + half split + revolved lunge + side plank | Voluntary Exile

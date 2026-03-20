@@ -28,10 +28,10 @@ Our Apres Ski Flow is gently heated to around 80-85 degrees.
 
 Asanas | Music   
 ---- | ----
-Welcome | Silent
-Full body scan meditation  | Being Present
-Supported reclined twists and child's pose  |  Dye
-Seated twists and bat pose |  Sun Rays Like Stilts
+Welcome |    
+Meditation  | Being Present
+Bolster supported stretches  |  Dye
+Seated movements |  Sun Rays Like Stilts
 Cat/Cow with leg extended + supported side plank | El Fantasma
 Half sun salutation with malasana squat | Mambo Sugar
 3 leg down dog with kneed crunches to fallen star | Voluntary Exile
