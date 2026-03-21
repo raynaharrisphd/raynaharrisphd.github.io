@@ -21,7 +21,7 @@ sitemap:
 
 ### The Sport Haus at Sugar Bowl
 
-- Vinyasa flow yoga [Resources](https://www.raynaharris.com/blog/sugarbowl-private-yoga/)
+- Vinyasa Flow Yoga [Resources](https://www.raynaharris.com/blog/sugarbowl-private-yoga/)
 - Restorative Aprés Ski Yoga [Resources](https://www.raynaharris.com/blog/sugarbowl-restorative/)
 - Morning Yoga [Resources](https://www.raynaharris.com/blog/sugarbowl-yoga/)
 
