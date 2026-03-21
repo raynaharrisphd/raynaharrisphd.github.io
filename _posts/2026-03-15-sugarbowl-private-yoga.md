@@ -21,23 +21,23 @@ spotify: 6omPaA8aKtaCIcGzgNqs15
 
 ## Class Outline
 
-Asanas | Music   
----- | ----
-Welcome |    
-Meditation  | Being Present
-Breathwork with simple movement |  Sun Rays Like Stilts
-Seated forward folds + boat poses |  Gold Flow
-Cat/Cow with leg extended + supported side plank | El Fantasma
-Sun A (x2)  | Mambo Sugar
-Sun A + Low lunge + half split + revolved lunge + side plank | Voluntary Exile
-Sun B (x2)  | Edge of the Ocean
-Sun B + High lunge + Warrior II + Reserved + Side Angle  | Love Me
-Triangle + Pyramid + Standing Split + Half Moon | Sun Colored Eyes
-1 leg tadasanas or seated leg stretches and twists | Anouk 
-Full pigeon + half pigeon | Hijos del Sol
-Reclined stretches | Low sun
-Free movement | A Hymn
-Savasana | Waves 
+
+- Welcome + Gratitude  
+- Full Body Scan Meditation in reclined butterfly  
+- Seated forward folds + baby back bend  
+- Childs pose + intention
+- Cat/Cow with leg extended + supported side plank  
+- Sun A (x3)
+- Sun B + Low lunge + half split + revolved lunge   
+- Sun B + High lunge + Warrior II + Reserved + Side Angle   
+- Sun B + Triangle + Pyramid + Standing Split + Half Moon  
+- 1 leg tadasana to Dancing Shiva  
+- Chair to boat
+- Full pigeon + half pigeon  
+- Cobra with wide arms + prone twists  
+- Free movement  
+- Savasana  
+- Loving Kindness Meditation
 
 
 
@@ -46,6 +46,8 @@ Savasana | Waves
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
 
-## Note
+## Notes
 
-Portions of this sequence were generated with the help of AI (ChatGPT, OpenAI) using prompts related to vinyasa sequencing and ski-specific movement preparation, then adapted for my teaching style and the music and asanas from my previous class on [dancing shiva](https://www.raynaharris.com/blog/shiva-yoga/).
+Before class: Portions of this sequence were generated with the help of ChatGPT and OpenAI using prompts related to vinyasa sequencing and ski-specific movement preparation, then adapted for my teaching style and the music and asanas from my previous class on [dancing shiva](https://www.raynaharris.com/blog/shiva-yoga/). 
+
+After class: I meant to do some breathwork at the beginning, but the timing was off. It was a bachelorette party and they enjoyed the class. 
