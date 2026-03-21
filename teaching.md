@@ -8,9 +8,23 @@ sitemap:
     changefreq: monthly
 ---
 
-<h1> Teaching </h1>
+<h1> Teaching and Instruction </h1>
 
 **Anatomy & Physiology, General Chemistry, Organic Chemistry, Molecular Biology, Statistics, Data Science, Computer Science, Spanish, Yoga**
+
+
+### Mountain Lotus Yoga
+
+- Aprés Ski Yoga 
+- Yin Yoga
+
+
+### The Sport Haus at Sugar Bowl
+
+- Vinyasa flow yoga [Resources](https://www.raynaharris.com/blog/sugarbowl-private-yoga/)
+- Restorative Aprés Ski Yoga [Resources](https://www.raynaharris.com/blog/sugarbowl-restorative/)
+- Morning Yoga [Resources](https://www.raynaharris.com/blog/sugarbowl-yoga/)
+
 
 ### Lake Tahoe Community College (LTCC)
 
@@ -21,10 +35,7 @@ sitemap:
 - Introduction to Cell and Molecular Biology (BIO 110), Spring 2023, [Lecture materials](https://osf.io/tk9y8/)
 - Principles of Biology III (BIO 103), Winter 2023, [Lecture materials](https://osf.io/aq5ek/)
 
-## The Sport Haus at Sugar Bowl
 
-- Morning Yoga [Resources](https://www.raynaharris.com/blog/sugarbowl-yoga/)
-- Apres Ski Yoga 
 
 ### Tahoe Flow Arts & Fitness 
 
