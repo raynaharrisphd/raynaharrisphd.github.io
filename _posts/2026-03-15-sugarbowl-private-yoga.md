@@ -39,6 +39,7 @@ spotify: 6omPaA8aKtaCIcGzgNqs15
 - Savasana  
 - Loving Kindness Meditation
 
+ I also threw in a a 3 leg dog to fallen star transition, but I can't remember where.... 
 
 
 ## Spotify Playlist
