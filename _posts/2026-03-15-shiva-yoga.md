@@ -11,18 +11,6 @@ spotify: 198tB4lZaAOAeqNxuHtFnA
 ---
 
 
-## Details
-
-**Class:** Apres Ski Flow        
-**When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 4:30 - 5:30 PM         
-**Where:** [Mountain Lotus Tahoe City](https://www.mountainlotusyoga.com/)       
-**Description:**  Warm up, stretch out, and rejuvenate after a day on the slopes with our Apres Ski Flow. 
-This class is designed to release tightness, soothe sore muscles, and increase flexibility, 
-especially in the legs, hips, and lower back. 
-Expect a relaxing blend of mindful movement and grounding breathwork, 
-helping you recharge and reduce stiffness.
-Our Apres Ski Flow is gently heated to around 80-85 degrees.
-
 
 ## Class Outline
 
@@ -44,9 +32,26 @@ Reclined stretches | Mesa Redonda
 Free flow | A Hymn
 Savasana | Waves 
 
-
+     
 
 ## Spotify Playlist
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+
+
+
+     
+     
+     
+## Details
+
+**Class:** Apres Ski Flow        
+**When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 4:30 - 5:30 PM         
+**Where:** [Mountain Lotus Tahoe City](https://www.mountainlotusyoga.com/)       
+**Description:**  Warm up, stretch out, and rejuvenate after a day on the slopes with our Apres Ski Flow. 
+This class is designed to release tightness, soothe sore muscles, and increase flexibility, 
+especially in the legs, hips, and lower back. 
+Expect a relaxing blend of mindful movement and grounding breathwork, 
+helping you recharge and reduce stiffness.
+Our Apres Ski Flow is gently heated to around 80-85 degrees.
 
