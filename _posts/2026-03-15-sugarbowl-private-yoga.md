@@ -2,7 +2,7 @@
 layout: post
 title: "Private Vinyasa Flow at Sugar Bowl"
 date: 2026-03-20
-excerpt: "This sequences was developed for private yoga class at Sugar Bowl. They request a vinyasa style, and I decided to go with a flow with half moon as the peak pose to emphasize a theme about grounding while expanding."
+excerpt: "This sequences was developed for private yoga class for a bachelorette party at Sugar Bowl. They request a vinyasa style, and I decided to go with a flow with half moon as the peak pose to emphasize a theme about grounding while expanding."
 categories: yoga
 tags: ['Sugar Bowl']
 spotify: 6omPaA8aKtaCIcGzgNqs15
@@ -47,8 +47,3 @@ spotify: 6omPaA8aKtaCIcGzgNqs15
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
 
-## Notes
-
-Before class: Portions of this sequence were generated with the help of ChatGPT and OpenAI using prompts related to vinyasa sequencing and ski-specific movement preparation, then adapted for my teaching style and the music and asanas from my previous class on [dancing shiva](https://www.raynaharris.com/blog/shiva-yoga/). 
-
-After class: I meant to do some breathwork at the beginning, but the timing was off. It was a bachelorette party and they enjoyed the class. 
