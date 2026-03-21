@@ -11,14 +11,6 @@ spotify: 6omPaA8aKtaCIcGzgNqs15
 ---
 
 
-## Details
-
-**Class:** Sugar Bowl Private Yoga       
-**When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 9:30 - 10:30 AM           
-**Where:** Sugar Bowl       
-
-
-
 ## Class Outline
 
 
@@ -45,5 +37,13 @@ spotify: 6omPaA8aKtaCIcGzgNqs15
 ## Spotify Playlist
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+
+
+
+## Details
+
+**Class:** Sugar Bowl Private Yoga       
+**When:** {{ page.date | date: '%A, %B %-d, %Y' }} from 9:30 - 10:30 AM           
+**Where:** Sugar Bowl       
 
 
