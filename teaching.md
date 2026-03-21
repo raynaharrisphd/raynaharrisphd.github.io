@@ -15,8 +15,8 @@ sitemap:
 
 ### Mountain Lotus Yoga
 
-- Aprés Ski Yoga 
-- Yin Yoga
+- Aprés Ski Yoga [Resources](https://www.raynaharris.com/blog/shiva-yoga/)
+- Yin Yoga [Resources](https://www.raynaharris.com/blog/fullmoon-yin/)
 
 
 ### The Sport Haus at Sugar Bowl
