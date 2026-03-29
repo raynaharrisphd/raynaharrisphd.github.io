@@ -16,9 +16,9 @@ Kapalabhati Breath (aka Skull Shining Breath) is primarily practiced in seated p
 
 ## Class Outline
 
-Basic Position | Asanas 
----- | ---- 
-Seated | Welcome
-Seated | Kapalabhati Breath  
-Reclined | Corpse pose with block 
-Reclined | Bananasana
+| Basic Position | Asanas |
+| ---- | ---- |
+| Seated | Welcome |
+| Seated | Kapalabhati Breath  |
+| Reclined | Corpse pose with block |
+| Reclined | Bananasana |
