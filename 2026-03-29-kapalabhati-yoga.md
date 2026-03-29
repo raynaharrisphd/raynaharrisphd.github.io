@@ -19,19 +19,19 @@ Kapalabhati Breath (aka Skull Shining Breath) is primarily practiced in seated p
 Basic Position | Asanas 
 ---- | ---- 
 Seated | Welcome
-  | Kapalabhati Breath  
+ . | Kapalabhati Breath  
 Reclined | Corpse pose with block 
-  | Bananasana
-  | [Side Reclined Shoulder Stretch with Arm Flow](https://www.tummee.com/yoga-poses/side-reclined-shoulder-stretch-a-variation-arms-flow ))
-  | Reclined hamstring stretch (straight, out, cross body, optional bind)
+ . | Bananasana
+ . | [Side Reclined Shoulder Stretch with Arm Flow](https://www.tummee.com/yoga-poses/side-reclined-shoulder-stretch-a-variation-arms-flow ))
+ . | Reclined hamstring stretch (straight, out, cross body, optional bind)
 Hands & Knees | Cobra + Childs + Cat + Cow 
-  | Bird dog -> Lizard lunge + twists + optional bind        
-  | 3 Leg Dog -> Wild thing
-  | 3 Leg Dog -> Fallen star
-  | Wide leg forward fold + malasana
+ . | Bird dog -> Lizard lunge + twists + optional bind        
+ . | 3 Leg Dog -> Wild thing
+ . | 3 Leg Dog -> Fallen star
+ . | Wide leg forward fold + malasana
 Seated | Seated forward fold + baby back bend
 Reclined | Bridge Flow (own breath, 4 count) + Bridge with Kapalabhati breath     
-  | Figure four
-  | Own flow
-  | Savasana
+ . | Figure four
+ . | Own flow
+ . | Savasana
          
