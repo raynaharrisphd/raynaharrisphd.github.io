@@ -25,10 +25,10 @@ Reclined | Bananasana
 Reclined | [Side Reclined Shoulder Stretch with Arm Flow](https://www.tummee.com/yoga-poses/side-reclined-shoulder-stretch-a-variation-arms-flow ))
 Reclined | Reclined hamstring stretch (straight, out, cross body, optional bind)
 Hands & Knees | Cobra + Childs + Cat + Cow 
-Hands & Knees  Bird dog -> Lizard lunge + twists + optional bind        
-Hands & Knees  3 Leg Dog -> Wild thing
-Hands & Knees  3 Leg Dog -> Fallen star
-Hands & Knees  Wide leg forward fold + malasana
+Hands & Knees |  Bird dog -> Lizard lunge + twists + optional bind        
+Hands & Knees |  3 Leg Dog -> Wild thing
+Hands & Knees |  3 Leg Dog -> Fallen star
+Hands & Knees |  Wide leg forward fold + malasana
 Seated | Seated forward fold + baby back bend
 Reclined | Bridge Flow (own breath, 4 count) + Bridge with Kapalabhati breath     
 Reclined | Figure four
