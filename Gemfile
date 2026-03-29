@@ -12,3 +12,10 @@ gem 'html-pipeline'
 gem "json"
 
 gem "webrick", "~> 1.7"
+
+
+# gem "jekyll", "~> 4.0" # or your Jekyll version
+
+gem "faraday", "~> 2.0" # ensure Faraday v2+ is used
+gem "faraday-retry"
+
