@@ -5,7 +5,7 @@ date: 2026-03-29
 excerpt: "Today's class incorporates Kapalabhati Breath into a few different asanas. This core-centric class is more restorative in nature and does not include any standing poses. Instead, all poses are reclined, seated, or on hands and knees, to give the legs a rest after a season of outdoor winter sports."
 categories: yoga
 tags: ['Apres Ski Flow']
-spotify: 6lNeruk0WevhI8XXNYAGeV
+spotify: 37i9dQZF1DX7vu1ck1olx9
  
 ---
 
