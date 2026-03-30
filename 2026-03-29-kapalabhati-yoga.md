@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Apres Ski Flow 7 - Kapalabhati Breath"
-date: 2026-03-29
+date: 2026-03-28
 excerpt: "Today's class incorporates Kapalabhati Breath into a few different asanas. This core-centric class is more restorative in nature and does not include any standing poses. Instead, all poses are reclined, seated, or on hands and knees, to give the legs a rest after a season of outdoor winter sports."
 categories: yoga
 tags: ['Apres Ski Flow']
 spotify: 6lNeruk0WevhI8XXNYAGeV
-#image: "/images/yoga/<imagename>.png"
  
 ---
 
@@ -19,21 +18,21 @@ Kapalabhati Breath (aka Skull Shining Breath) is primarily practiced in seated p
 Basic Position | Asanas 
 ---- | ---- 
 Seated | Welcome
-Seated | Kapalabhati Breath  
+ | Kapalabhati Breath  
 Reclined | Corpse pose with block under bead
-Reclined | Bananasana
-Reclined | [Side Reclined Shoulder Stretch with Arm Flow](https://www.tummee.com/yoga-poses/side-reclined-shoulder-stretch-a-variation-arms-flow )
-Reclined | Reclined hamstring stretch (straight, out, cross body, optional bind)
+ | Bananasana
+ | [Side Reclined Shoulder Stretch with Arm Flow](https://www.tummee.com/yoga-poses/side-reclined-shoulder-stretch-a-variation-arms-flow )
+ | Reclined hamstring stretch (straight, out, cross body, optional bind)
 Hands & Knees | Cobra + Childs + Cat + Cow 
-Hands & Knees |  Bird dog -> Lizard lunge + twists    
-Hands & Knees |  3 Leg Dog -> Wild thing
-Hands & Knees |  3 Leg Dog -> Fallen star
-Hands & Knees |  Wide leg forward fold + Malasana with Kapalabhati breath
+ |  Bird dog -> Lizard lunge + twists    
+|  3 Leg Dog -> Wild thing
+   |  3 Leg Dog -> Fallen star
+   |  Wide leg forward fold + Malasana with Kapalabhati breath
 Seated | Seated forward fold + baby back bend
 Reclined | Bridge Flow (own breath, 4 count) + Bridge with Kapalabhati breath     
-Reclined | Figure four
-Reclined | Choose your own asana
-Reclined | Savasana 
-Reclined | Loving Kindness Meditation 
+   | Figure four
+   | Choose your own asana
+   | Savasana 
+   | Loving Kindness Meditation 
          
 Rather than curate a class-specific playlist, I used a lo-fi playlist that is great for slowing down to calm the mind and body.
