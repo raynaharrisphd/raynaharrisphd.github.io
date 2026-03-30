@@ -10,7 +10,7 @@ spotify: 37i9dQZF1DX7vu1ck1olx9
 ---
 
 
-Kapalabhati Breath (aka Skull Shining Breath) is primarily practiced in seated poses with a straight spine but can be incorporated into other asanas like table top and bridge to bring additional awareness and focus on the abdomine. 
+Kapalabhati Breath (aka Skull Shining Breath) is primarily practiced in seated poses with a straight spine but can be incorporated into other asanas like table top and bridge to bring additional awareness and focus on the abdomen. 
 
 
 ## Class Outline
