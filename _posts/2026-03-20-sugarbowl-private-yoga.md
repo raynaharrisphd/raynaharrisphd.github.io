@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Private Vinyasa Flow at Sugar Bowl"
+title: "Vinyasa Flow at Sugar Bowl"
 date: 2026-03-20
 excerpt: "This sequences was developed for private yoga class for a bachelorette party at Sugar Bowl. They request a vinyasa style, and I decided to go with a flow with half moon as the peak pose to emphasize a theme about grounding while expanding."
 categories: yoga

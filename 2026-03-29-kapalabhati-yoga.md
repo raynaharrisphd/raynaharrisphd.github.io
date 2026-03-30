@@ -11,7 +11,7 @@ spotify: 6lNeruk0WevhI8XXNYAGeV
 ---
 
 
-Kapalabhati Breath (aka Skull Shining Breath) is primarily practiced in seated poses with a straight spine but can be incorporated into other asanas like table top and bridge to bring additional awareness and focus to the abdominal 
+Kapalabhati Breath (aka Skull Shining Breath) is primarily practiced in seated poses with a straight spine but can be incorporated into other asanas like table top and bridge to bring additional awareness and focus on the abdomine. 
 
 
 ## Class Outline
@@ -20,18 +20,20 @@ Basic Position | Asanas
 ---- | ---- 
 Seated | Welcome
 Seated | Kapalabhati Breath  
-Reclined | Corpse pose with block 
+Reclined | Corpse pose with block under bead
 Reclined | Bananasana
 Reclined | [Side Reclined Shoulder Stretch with Arm Flow](https://www.tummee.com/yoga-poses/side-reclined-shoulder-stretch-a-variation-arms-flow )
 Reclined | Reclined hamstring stretch (straight, out, cross body, optional bind)
 Hands & Knees | Cobra + Childs + Cat + Cow 
-Hands & Knees |  Bird dog -> Lizard lunge + twists + optional bind        
+Hands & Knees |  Bird dog -> Lizard lunge + twists    
 Hands & Knees |  3 Leg Dog -> Wild thing
 Hands & Knees |  3 Leg Dog -> Fallen star
-Hands & Knees |  Wide leg forward fold + malasana
+Hands & Knees |  Wide leg forward fold + Malasana with Kapalabhati breath
 Seated | Seated forward fold + baby back bend
 Reclined | Bridge Flow (own breath, 4 count) + Bridge with Kapalabhati breath     
 Reclined | Figure four
-Reclined | Own flow
-Reclined | Savasana
+Reclined | Choose your own asana
+Reclined | Savasana 
+Reclined | Loving Kindness Meditation 
          
+Rather than curate a class-specific playlist, I used a lo-fi playlist that is great for slowing down to calm the mind and body.
