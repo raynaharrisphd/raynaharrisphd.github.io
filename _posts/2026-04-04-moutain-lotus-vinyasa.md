@@ -26,7 +26,7 @@ Sun A (x3) | Sun A
 Sun B + Low lunge + half split + revolved lunge | Voluntary Exile  
 Sun B + High lunge + Warrior II + Reserved + Side Angle    | Edge of the Ocean
 Sun B + Pyramid + Standing Split + Revolved Half Moon | Sun Colored Eyes + JUMP
-Sun B + Revolved half moon to + 1 leg tadasana -> Dancing Shiva  | Anouk + Practice
+Revolved half moon to + 1 leg tadasana -> Dancing Shiva  | Anouk + Practice
 Chair to boat | Hijos del sol  
 Seated stretches  | Low sun
 Bridge flow + breath work | Pale blue dot
