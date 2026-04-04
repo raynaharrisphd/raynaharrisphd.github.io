@@ -23,17 +23,17 @@ Reclined prone twists | El Fantasma
 Cobra/Bow -> Childs + intention | Gold Flow
 Cat/Cow + side plank + wide leg tabletop | Love Me
 Sun A (x3) | Sun A 
-Sun B + Low lunge + half split + revolved lunge | Voluntary Exile  
-Sun B + High lunge + Warrior II + Reserved + Side Angle    | Edge of the Ocean
+Sun B + Low lunge + half split + revolved lunge | Voluntary Exile  +  Edge of the Ocean
 Sun B + Pyramid + Standing Split + Revolved Half Moon | Sun Colored Eyes + JUMP
 Revolved half moon to + 1 leg tadasana -> Dancing Shiva  | Anouk + Practice
 Chair to boat | Hijos del sol  
 Seated stretches  | Low sun
 Bridge flow + breath work | Pale blue dot
-Reclined stretches  | A hymn
-Free movement  | Under the heavens
+Reclined stretches  | Low Sun
+Free movement  | A hymn
 Savasana  | Waves
 Loving Kindness Meditation | Silent
+
 
 
 ## Spotify Playlist
