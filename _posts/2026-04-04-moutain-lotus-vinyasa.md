@@ -9,6 +9,9 @@ spotify: 12sQV1qYagbOlqPM0qRp4u
  
 ---
 
+## Theme
+
+4 + 4 = 8
 
 ## Class Outline
 
@@ -26,7 +29,7 @@ Sun A (x3) | Voluntary Exile
 Sun B + Low lunge + half split + revolved lunge | Edge of the Ocean
 Sun B + Pyramid + Standing Split + Revolved Half Moon | Sun Colored Eyes + JUMP
 Revolved half moon to + 1 leg tadasana -> Dancing Shiva  | Anouk + Practice
-Chair to boat | Hijos del sol  
+Chair to boat or Wide leg to Malasana to Crow/Headstand | Hijos del sol  
 Seated stretches  | Low sun
 Bridge flow + breath work | Pale blue dot
 Reclined stretches  | Low Sun
