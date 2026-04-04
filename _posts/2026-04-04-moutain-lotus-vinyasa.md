@@ -22,8 +22,8 @@ Reclined spine twists with blanket | Sun Rays Like Stilts
 Reclined prone twists | El Fantasma
 Cobra/Bow -> Childs + intention | Gold Flow
 Cat/Cow + side plank + wide leg tabletop | Love Me
-Sun A (x3) | Sun A 
-Sun B + Low lunge + half split + revolved lunge | Voluntary Exile  +  Edge of the Ocean
+Sun A (x3) | Voluntary Exile  
+Sun B + Low lunge + half split + revolved lunge | Edge of the Ocean
 Sun B + Pyramid + Standing Split + Revolved Half Moon | Sun Colored Eyes + JUMP
 Revolved half moon to + 1 leg tadasana -> Dancing Shiva  | Anouk + Practice
 Chair to boat | Hijos del sol  
