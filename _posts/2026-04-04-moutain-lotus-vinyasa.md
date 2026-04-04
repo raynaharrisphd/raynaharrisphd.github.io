@@ -16,6 +16,7 @@ spotify: 12sQV1qYagbOlqPM0qRp4u
 Asanas | Music
 ---| ---
 Welcome + Gratitude | Silent
+Breathwork | Starscape
 Full Body Scan Meditation | Being Present
 Reclined spine twists with blanket | Sun Rays Like Stilts
 Reclined prone twists | El Fantasma
@@ -33,8 +34,6 @@ Reclined stretches  | A hymn
 Free movement  | Under the heavens
 Savasana  | Waves
 Loving Kindness Meditation | Silent
-
- I also threw in a a 3 leg dog to fallen star transition, but I can't remember where.... 
 
 
 ## Spotify Playlist
