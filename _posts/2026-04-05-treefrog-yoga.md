@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apres Ski Flow 8 - Tree Frog"
+title: "Apres Ski Flow 8 - Dancing Tree Frog"
 date: 2026-02-15
 excerpt: "This yoga is built around the half frog as the peak restorative pose. It incorporates balancing poses tree and dancer. A static and moving warm-up and cool down will help your body feel great after one of the last days of this years ski season."
 categories: yoga
@@ -32,16 +32,17 @@ Our Apres Ski Flow is gently heated to around 80-85 degrees.
 Asanas | Music
 -------|------
 Welcome | Silence
-Meditation | Quietude + Awareness
+Breathwork | Quietude 
+Supported child's pose | Awareness
 Seated stretches | Better Days
-Cat Cow Bear Dog | Sitting on Wings
-Cobra + Bow | Your Love
+Table to Childs + Bear to Down Dog + Bird Dog| Sitting on Wings
+Bow + Dancer prep | Your Love
 Lizard lunge + quad stretch + support side plank | Anouk
-Wide leg forward fold flow | Mumbo Sugar
+Wide leg asanas | Mumbo Sugar
 Sun A | Pale Blue Dot
-Warrior I + 1 leg tadasana | Practice Makes Progress
-Dancer + 1 leg tadasana | Hijos del sol
-Tree Pose + Standing Figure 4 | JUMP
+Warrior I + 1 leg tadasana  | Practice Makes Progress
+Tree + dancer flows | JUMP
+Foot massage 1 leg datasana with bind + tree | Hijos del sol
 Half frog optional bind | Love Me
 Seated stretches | Low Sun
 Free flow | Misty Morning
