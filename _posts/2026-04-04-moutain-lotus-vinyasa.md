@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hot Vinyasa Mountain Lotus"
+title: "Hot Vinyasa - Eights"
 date: 2026-04-04
 excerpt: "A 75 minute hot vinyasa flow for a cold spring Saturday morning."
 categories: yoga
