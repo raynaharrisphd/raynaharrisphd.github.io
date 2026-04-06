@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Apres Ski Flow 8 - Dancing Tree Frog"
-date: 2026-02-15
-excerpt: "This yoga is built around the half frog as the peak restorative pose. It incorporates balancing poses tree and dancer. A static and moving warm-up and cool down will help your body feel great after one of the last days of this years ski season."
+title: "Apres Ski Flow 8 - Tree Frog Yoga"
+date: 2026-04-05
+excerpt: "This yoga is built around the half frog as the peak restorative pose with tree pose as a warm up pose. This class comes static holds with moving flows to stretch and strengthen your body."
 categories: yoga
 tags: ['Apres Ski Flow']
 spotify: 2NVKEd0OW5wJHE14Aswi74
@@ -32,26 +32,19 @@ Our Apres Ski Flow is gently heated to around 80-85 degrees.
 Asanas | Music
 -------|------
 Welcome | Silence
-Breathwork | Quietude 
+Tree frog meditation | Quietude 
 Supported child's pose | Awareness
 Seated stretches | Better Days
-Table to Childs + Bear to Down Dog + Bird Dog| Sitting on Wings
-Bow + Dancer prep | Your Love
-Lizard lunge + quad stretch + support side plank | Anouk
-Wide leg asanas | Mumbo Sugar
-Sun A | Pale Blue Dot
-Warrior I + 1 leg tadasana  | Practice Makes Progress
-Tree + dancer flows | JUMP
-Foot massage 1 leg datasana with bind + tree | Hijos del sol
-Half frog optional bind | Love Me
-Seated stretches | Low Sun
+Table to Childs + Bear to Down Dog| Sitting on Wings
+Cobra to bow  | Your Love
+Low lunge + support side plank | Anouk
+Low lunge +  support side plank | Mumbo Sugar
+Wide leg forward fold plus malasana | Pale Blue Dot
+High lunge + 1 leg tadasana low  | Practice Makes Progress
+Tree + standing figure 1 | JUMP
+Half frog (optional bind)  | Hijos del sol
+Half frog (optional bind) | Love Me
+Reclined stretches | Low Sun
 Free flow | Misty Morning
 Savasana | Faith's Hymn
-
-
-**Journaling:** List a few things that bring up feelings of anger that are out of your control (e.g. traffic, media, your mother) that are out of your control. On your exhale, practice letting go.
-
-**Meditation:** "Make Space for Calm" from the Nature Meditations Deck
-
-<img src="/images/yoga/calm.png" style="width:50%" align="middle" >
 
