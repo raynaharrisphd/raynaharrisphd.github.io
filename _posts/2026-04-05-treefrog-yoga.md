@@ -5,8 +5,7 @@ date: 2026-04-05
 excerpt: "This yoga is built around the half frog as the peak restorative pose with tree pose as a warm up pose. This class comes static holds with moving flows to stretch and strengthen your body."
 categories: yoga
 tags: ['Apres Ski Flow']
-spotify: 2NVKEd0OW5wJHE14Aswi74
-#image: "/images/yoga/<imagename>.png"
+spotify: 0ZYRTk2hs0idCPSNTEOqNd
  
 ---
 
