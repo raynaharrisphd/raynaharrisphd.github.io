@@ -48,24 +48,6 @@ Cool down | Pigeon
 Rest/Integration | Savasana 
     
 
-Reclined | Corpse pose with block under bead
- | Bananasana
- | [Side Reclined Shoulder Stretch with Arm Flow](https://www.tummee.com/yoga-poses/side-reclined-shoulder-stretch-a-variation-arms-flow )
- | Reclined hamstring stretch (straight, out, cross body, optional bind)
-Hands & Knees | Cobra + child's pose flow
-  |  Cat + cow flow
-  |  Bird dog -> Lizard lunge + twists    
-  |  3 Leg Dog -> Supported side plank
-  |  3 Leg Dog -> Wild thing
-   |  3 Leg Dog -> Fallen star
-   |  Wide leg forward fold + Malasana with Kapalabhati breath
-Seated | Seated forward fold + baby back bend
-Reclined | Bridge Flow (own breath, 4 count) + Bridge with Kapalabhati breath     
-   | Figure four
-   | Choose your own asana
-   | Savasana 
-   | Loving Kindness Meditation 
-         
 
 
 ## Music
