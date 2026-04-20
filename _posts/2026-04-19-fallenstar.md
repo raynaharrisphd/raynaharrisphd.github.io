@@ -2,7 +2,7 @@
 layout: post
 title: "Apres Ski Flow 10 - Fallen Star"
 date: 2026-04-19
-excerpt: "This yoga is grounded but playful. It is slow, intentional, and recovery-focused. The peak pose is fallen star, and the whole class incorporated themes of being curious about rather than scared of falling or failing."
+excerpt: "This yoga is grounded but playful. It is slow, intentional, and recovery-focused. The peak pose is fallen star, and the whole class incorporated themes of being curious about rather than scared of falling or failing because you are supported by the earth and your community. This sequence accompanied by a soothing playlist makes for a more yin like practice."
 categories: yoga
 tags: ['Apres Ski Flow']
 spotify: 37i9dQZF1E4wejcsrUWhkI
@@ -47,7 +47,6 @@ Closing |
  | Savasana 
  | Loving kindness meditation 
     
-
 
 
 ## Music
