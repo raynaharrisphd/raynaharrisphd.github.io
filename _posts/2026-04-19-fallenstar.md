@@ -11,41 +11,39 @@ tags: ['Apres Ski Flow']
 
 ## Outline
 
-- Welcome
-- Opening Meditation
-- Breathwork (4 count inhale, 6 count exhale)
-- Neck rolls
-- Supine rolls and twists
-- Happy Baby
-- Cat 
-
-
-
 Arc | Asanas 
 ---- | ---- 
-Welcome | Introductions
+Opening |    
+ | Welcome
  | Meditation 
  | Breathwork
-Gental stretches | Neck rolls
+Gental stretches |       
+ | Neck rolls
  | Supine rolls
- | Supine twists
  | Happy baby
-Core integration | Cat Cow
+ | Supine twists
+ | Broken wing
+Core |       
+ | Cat Cow
  | Childs pose to cobra flow
  | Bird dog
  | Table top with leg extended + thread needle flow
  | Low lunge
- | Down dog 
- | Lizzard lunge
-Standing sequence | Sun A
- | Wide leg FF
- | **Triangle** -> 3 leg down dog -> **Fallen star**
-Cool down | Pigeon
+ | Lizard lunge
+Peek pose progression |       
+ | Wide leg FF  
+ | Triangle
+ | Pyramid 
+ | 3 leg down dog
+ | Fallen star
+Cool down |    
+ | Pigeon
  | Half frog
- | Seated forward fold
  | Legs up wall
  | Free movement
-Rest/Integration | Savasana 
+Closing |    
+ | Savasana 
+ | Loving kindness meditation 
     
 
 
