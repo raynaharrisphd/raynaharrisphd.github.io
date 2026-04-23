@@ -56,4 +56,4 @@ Closing |
 
 ## Comments
 
-Excellent class. Very yin like.
+Excellent class. Very yin-like.
