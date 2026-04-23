@@ -2,7 +2,7 @@
 layout: post
 title: "Apres Ski Flow 10 - Fallen Star"
 date: 2026-04-19
-excerpt: "This yoga flow is designed to be slow, intentional, and recovery-focused but also playful and strengthening. The peak pose is fallen star, and the whole class incorporated themes of being curious about rather than scared of falling or failing because you are supported by the earth and your community. This sequence accompanied by a soothing playlist makes for a more yin like practice."
+excerpt: "This slow, intentional flow is designed for recovery, with moments of playfulness and strength woven throughout. With Fallen Star as the peak pose, the class encourages curiosity instead of fear when it comes to falling or failing, reminding you that you’re always supported by the earth and the energy of those around you. Set to a soothing playlist, the practice carries a gentle, yin-like quality."
 categories: yoga
 tags: ['Apres Ski Flow']
 spotify: 37i9dQZF1E4wejcsrUWhkI
