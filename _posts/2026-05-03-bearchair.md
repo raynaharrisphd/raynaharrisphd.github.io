@@ -23,7 +23,7 @@ Purpose | Asanas
 Ground |  
  | Welcome
  | Meditation 
- | Breathwork (longer, easier)
+ | Breathwork (slow and steady)
 Awaken | 
  | Banana Asana
  | Windshield wiper progression
