@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apres Ski Flow 11 - Bear Chair Yoga Flow"
-date: 2026-04-05
+date: 2026-05-0035
 excerpt: "This Après Ski Yoga class centers on Bear and Chair poses to build strength, while exploring the theme of a bear emerging from hibernation—taking time to stretch, awaken, and reconnect with the body after a long week of spring skiing."
 categories: yoga
 tags: ['Apres Ski Flow']
@@ -22,12 +22,12 @@ Purpose | Asanas
 -------|------
 Ground |  
  | Welcome
- | Meditation 
- | Breathwork (slow and steady)
+ | Meditation (hibernating bear)
 Awaken | 
  | Banana Asana
- | Windshield wiper progression
- | Bridge + Legs Up Wall
+ | Windshield wipers + supine twists
+ | Bridge 
+ | Legs up the wall + happy baby
  | Seated stretches (forward folds, lotus with neck and spinal rolls)
  | Cat - Cow - Bear - Dog Flow
  | Childs pose
@@ -36,19 +36,18 @@ Awaken |
  | Mountain
  | Wide leg FF + Goddess + Side lunge
 Strengthen | (once or twice on each side)
- | Sun Salutation +
- | 3 leg dog
- | High lunge
- | Chair  (optional twist)
- | Triangle 
- | Standing split
-Glutes  | 
- | Standing Figure Four
- | 3 leg dog -> pigeon
- | Figure four bridge
+ | Sun Salutation with 3 leg dog > High lunge > Chair > Pyramid > Standing split > Chair
+ | Chair > Bear flow
+ | High lunge > Low lunge flow
+ | high lunge > 1-eg tadasana flow
+ | Standing figure four
+ | Tree pose
 Cool down | 
- | Legs up wall
- | Supine twists
+ | 3 leg dog -> Pigeon
+ | Prone quad stretch
+ | Broken wing
+ | Figure four bridge
+ | Legs up wall > Plow
  | Free flow
  | Savasana
  
