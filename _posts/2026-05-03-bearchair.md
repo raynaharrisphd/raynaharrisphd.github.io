@@ -15,6 +15,10 @@ spotify: 37i9dQZF1E4x4CF3StGzdI
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+
+
+
+
 ## Class Outline
 
 
@@ -51,6 +55,10 @@ Cool down |
  | Free flow
  | Savasana
  
+## Inspiration
+ 
+<iframe style="border-radius:12px" src="https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDU3MDY1MTg4OTQ5MzA3?story_media_id=3888554606826030976&igsh=NTc4MTIwNjQ2YQ%3D%3D?utm_source=generator" width="85%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 ## Details
 
