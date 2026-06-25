@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apres Ski Flow 11 - Bear Chair Yoga Flow"
-date: 2026-05-0035
+date: 2026-05-03
 excerpt: "This Après Ski Yoga class centers on Bear and Chair poses to build strength, while exploring the theme of a bear emerging from hibernation—taking time to stretch, awaken, and reconnect with the body after a long week of spring skiing."
 categories: yoga
 tags: ['Apres Ski Flow']
