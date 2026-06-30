@@ -39,26 +39,21 @@ Five Additional senses
 Section | Asanas
 --------|-------
 Welcome  |     
-Seated poses  |     
- | 10 sense meditation 
+Seated poses  | 10 sense meditation 
  | Forward bends
  | Cobblers pose
  | Seated cat cow
-Grounded mobility |     
- | Table/cat/cow flow
+Grounded mobility |  Table/cat/cow flow
  | Bear
  | Down dog
-Prone poses |    
- | Quad stretch
+Prone poses |  Quad stretch
  | One leg bow pose
-Standing poses |   
- | High to low lunge squats
+Standing poses |  High to low lunge squats
  | Warrior I to pyramid
  | Warrior II flow
  | Tree pose by a tree
  | Dancer pose by a tree
-Cool down |    
- | Chair pose
+Cool down | Chair pose
  | Boat
  | Seated figure 4
  | Reclined figure 4
@@ -73,15 +68,12 @@ Savasana |
 Section | Asanas
 --------|-------
 Welcome  |     
-Reclined poses  |     
- | 5 sense meditation 
+Reclined poses  |  5 sense meditation 
  | Knees to chest
-Seated poses  |     
- | Easy pose with neck and shoulder rolls
+Seated poses  | Easy pose with neck and shoulder rolls
  | Seated cat cow
  | Cobblers pose with massage
-Grounded mobility |     
- | Table/cat/cow flow
+Grounded mobility | Table/cat/cow flow
  | Bear
  | Down dog    
  | Prone quad stretch
@@ -91,8 +83,7 @@ Grounded mobility |
  | Bird dog
  | Modified tree pose
  | Boat
-Cool down | 
- | Seated figure 4
+Cool down | Seated figure 4
  | Half pigeon
  | Legs up wall
  | Free flow
