@@ -5,18 +5,16 @@ date: 2026-06-19
 excerpt: "Summer Yoga at Dollar Point consists of Friday yoga on the grass by the pool and Saturday yoga on the beach by the lake. This weekend's class is theme is the summer solstice, with a focus on celebrating the light within and around us. The class incorporates elements of breath-work, meditation, hatha yoga, and Qi Gong."
 categories: yoga
 tags: ['Dollar Point Yoga']
-#spotify: 37i9dQZF1E4x4CF3StGzdI
+spotify: 37i9dQZF1E4mhzeWm0EGgb
  
 ---
 
 
-<!--- 
 
 ## Music
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ page.spotify }}?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
---->
 
 
 ## Class Outline
