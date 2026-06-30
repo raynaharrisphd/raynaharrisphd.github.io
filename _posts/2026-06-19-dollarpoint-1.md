@@ -23,35 +23,35 @@ tags: ['Dollar Point Yoga']
 
 Section | Asanas
 --------|-------
-Welcome  |
-Supine poses  |  
+Welcome  |     
+Supine poses  |     
  | Meditation (sun bathing)
  | Banana
  | Knees to chest + twist
  | Butterfly + happy baby
-Seated poses | 
+Seated poses |    
  | Side bends + hip circles
  | Forward folds
-Grounded mobility |
+Grounded mobility |   
  | Table flow
  | Childs to cobra
  | Down dog
  | Low lunge
  | Modified warrior II
-Qi Gong |
+Qi Gong |   
  | Mountain
  | Arm circles
  | Tree hug
-Hatha |
+Hatha |   
  | Warrior I flow
  | Warrior II flow
  | Tree
  | Warrior II flow
-Cool down |
+Cool down |   
  | Boat
  | Seated figure 4
  | Reclined figure 4
  | Bridge
  | Boat + Bridge
  | Free flow
-Savasana
+Savasana |     
