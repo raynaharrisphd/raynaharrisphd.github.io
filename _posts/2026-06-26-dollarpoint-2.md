@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dollar Point Yoga Weekend 2: Sensory Systems"
+title: "Dollar Point Yoga Weekend 2: Windy Weather"
 date: 2026-06-26
 excerpt: "Summer Yoga at Dollar Point consists of Friday yoga on the grass by the pool and Saturday yoga on the beach by the lake. // This weekend's class is theme is sensory systems. Class begins with a 5 senses meditation that is repeated throughout the class yoked with breath and movement. We also focus on our senses of balance and temperature. It was so windy on Saturday that we skipped all standing poses to stay low to the ground."
 
