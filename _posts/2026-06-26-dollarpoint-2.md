@@ -6,7 +6,7 @@ excerpt: "Summer Yoga at Dollar Point consists of Friday yoga on the grass by th
 
 categories: yoga
 tags: ['Dollar Point Yoga']
-#spotify: 37i9dQZF1E4x4CF3StGzdI
+spotify: 37i9dQZF1E4x4CF3StGzdI
  
 ---
 
