@@ -6,7 +6,7 @@ excerpt: "This sequences was developed for private yoga class for a bachelorette
 categories: yoga
 tags: ['Sugar Bowl']
 spotify: 6omPaA8aKtaCIcGzgNqs15
-#image: "/images/yoga/<imagename>.png"
+image: "/images/yoga/sugarbowl-private.png"
  
 ---
 
