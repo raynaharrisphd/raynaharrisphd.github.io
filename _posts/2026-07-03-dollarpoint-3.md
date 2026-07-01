@@ -11,7 +11,7 @@ spotify: 37i9dQZF1E4s36EFVd034Y
 
 
 
-An asana (Sanskrit) is a body posture. It was originally a general term for a sitting meditation pose but was extended in hatha yoga to any type of position, adding reclining, standing, inverted, twisting, and balancing poses. Common yoga poses ending in asana are Virabhadrasana (warrior pose), Dandasana (staff pose), Tadasana (mountain pose). With each pose, we will pause and use our senses of sight, touch, balance, and proprioception to observe and perhaps tune our bodies postion.
+An asana (Sanskrit) is a body position that is steady and comfortable. It was originally a general term for a sitting meditation pose but was extended in hatha yoga to any type of position, adding reclining, standing, inverted, twisting, and balancing poses. Common yoga poses ending in asana are Virabhadrasana (warrior pose), Dandasana (staff pose), Tadasana (mountain pose). With each pose, we will pause and use our senses of sight, touch, balance, and proprioception to observe and perhaps tune our bodies postion.
 
 
 
