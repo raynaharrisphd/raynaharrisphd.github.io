@@ -4,7 +4,7 @@ title: Contact
 description: How to contact me
 sitemap:
     priority: 0.7
-    lastmod: 2022-12-01
+    lastmod: 2026-07-01
     changefreq: yearly
 ---
 
