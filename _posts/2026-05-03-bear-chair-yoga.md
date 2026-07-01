@@ -6,6 +6,8 @@ excerpt: "This Après Ski Yoga class centers on Bear and Chair poses to build st
 categories: yoga
 tags: ['Apres Ski Flow']
 spotify: 37i9dQZF1E4x4CF3StGzdI
+image: "/images/yoga/bear-chair.png"
+
  
 ---
 
