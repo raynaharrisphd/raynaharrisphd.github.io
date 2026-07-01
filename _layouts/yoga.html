@@ -33,13 +33,13 @@ categories: yoga
         	
         	<p> </p> 
         	
-        	{% if post.image != blank %}
-		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"alt=""  style="width: 300px; height: 200px; object-fit: cover;"/></a>                                                                                                  
+		{% if post.spotify != blank %}
+		 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="300px" height="200px" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>                                                                                                 
 		{% endif %}  
 		
-		{% if post.spotify != blank %}
-		 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="33%" height="256" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>                                                                                                 
-		{% endif %}  
+		{% if post.image != blank %}
+		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"alt=""  style="width: 300px; height: 200px; object-fit: cover;"/></a>                                                                                                  
+		{% endif %} 
   
        </ul> 
         
