@@ -38,30 +38,46 @@ sitemap:
 
     <!-- Main -->
     <div id="main">
+    
+
+	
+	<p> Hi! I'm Rayna. Welcome to my website! </p>
+	
+	<p> I started practicing yoga regularly during graduate school (I have a Ph.D. in Molecular Biology) as a tool for stress relief and overall well-being. I deepened my knowledge through a 200-hour Hatha Yoga Teacher Training in 2023, and I have been teaching yoga indoors and outdoors ever since. </p>
+	
+	<p> My style is playful with a blend of stretching, strength training, balance, breath-work, and meditation. Each week, I upload an outline of my class with links to music, photos, and more. Scroll through my blog posts for inspiration </p>
+	
+
+<!-- Blog Posts About Yoga -->
 
 
-	    
+<h2> Class Details </h2>
 
-	<p>
-	Hi! I'm Rayna. I was born in Texas, 
-	but I now live near Lake Tahoe in California. 
-	I have a Ph.D. in Molecular and Cellular Biology 
-	and a B.S in Biochemistry from The University of Texas at Austin. 
-	I am a certified yoga instructor and teach outdoor yoga with
-    <a href="https://www.mountainlotusyoga.com/">Mountain Lotus Yoga</a>, 
-    <a href="https://tahoeflow.com/">Tahoe Flow Arts & Fitness</a>,
-    and <a href="https://www.courageproject.org/">The Courage Project</a>. 	
-	For details and past and upcoming classes visit my <a href="{{ "/yoga/" | absolute_url }}">Yoga</a></li> page.
+
+{% assign sorted-posts = site.posts | where: "categories","yoga" %}
+	{% for post in sorted-posts %}
   
+  	<ul>
+     
 
-      <a href="https://www.raynaharris.com/yoga/"><img class="image fit" src="/images/yoga/sup-yoga.png" alt="Rayna Harris"  width="95%"/>
-  <a class="p-name u-url" href="https://www.raynaharris.com/yoga/"></a>
+      		<i> {{ post.date | date: '%B %-d, %Y' }} </i> •
+        	<b> <a href="{{ post.url }}"> {{ post.title }}</a> </b>
+        	{{ post.excerpt }} 
+        	
+        	<p> </p> 
+        	
+        	{% if post.image != blank %}
+		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"alt=""  style="width: 300px; height: 200px; object-fit: cover;"/></a>                                                                                                  
+		{% endif %}  
+		
+		{% if post.spotify != blank %}
+		 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/{{ post.spotify }}?utm_source=generator" width="33%" height="256" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>                                                                                                 
+		{% endif %}  
   
+       </ul> 
+        
+{% endfor %}
 
-
-
-
-	</p>
 
 
 
