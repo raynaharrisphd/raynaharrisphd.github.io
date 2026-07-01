@@ -5,7 +5,7 @@ date: 2026-06-30
 excerpt: "Summer Yoga at Dollar Point consists of Friday yoga on the grass by the pool and Saturday yoga on the beach by the lake. This weekend's class focuses on our sense of body position, known as 'proprioception'. A heightened body awareness through practice and training not only helps prevent injury but also deepens your overall focus and control."
 categories: yoga
 tags: ['Dollar Point Yoga']
-spotify: 37i9dQZF1E4lg7tDxzqwZb
+spotify: 37i9dQZF1E4s36EFVd034Y
  
 ---
 
