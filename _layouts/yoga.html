@@ -39,7 +39,7 @@ categories: yoga
         	<p> </p> 
         	
         	{% if post.image != blank %}
-		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"alt=""  width="33%"  align="center"/></a>                                                                                                  
+		 <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}"alt=""  style="width: 300px; height: 200px; object-fit: cover;"/></a>                                                                                                  
 		{% endif %}  
 		
 		{% if post.spotify != blank %}
