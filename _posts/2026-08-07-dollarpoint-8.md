@@ -25,7 +25,7 @@ spotify: 37i9dQZF1DZ06evO4tZqIM
 
 - Breath work: 3 part inhale
 - Loving kindess meditation
-- Happy Baby
+- Happy baby
 
 ### Gentle Warm-Up
 
@@ -33,7 +33,7 @@ spotify: 37i9dQZF1DZ06evO4tZqIM
 - Cow-face arm stretch
 - Butterfly with leg massage
 - Forward folds
-- Table with walnus hands
+- Table with walrs hands
 - Childs pose + cobra flow
 - Down dog
 
@@ -50,7 +50,7 @@ spotify: 37i9dQZF1DZ06evO4tZqIM
 ### Balance and Community 
 
 - Tree pose
-- Partner Tree pose
+- Partner tree pose
 
 ### Core work and Inversions
 
@@ -64,13 +64,13 @@ spotify: 37i9dQZF1DZ06evO4tZqIM
 - Boat
 - Bridge
 - Reclined figure 4 with twist
-- Legs Up Wall
-- Plow or Shoulder Stand
+- Legs up the wall
+- Plow or shoulder stand
 - Free flow
 
 ### Rest
 
-Savasana with gratidue meditation
+Savasana with gratitude meditation
 Loving kindess meditation
 
 
