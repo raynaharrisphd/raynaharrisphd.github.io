@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dollar Point Yoga Weekend 8: Spiderman Challenge"
-date: 2026-06-19
+date: 2026-08-07
 excerpt: "Summer Yoga at Dollar Point consists of Friday yoga on the grass by the pool and Saturday yoga on the beach by the lake. This weekend's class is inspired by the spider man and incorporates playful madras to explore familiar postures with a new focus."
 categories: yoga
 tags: ['Dollar Point Yoga']
