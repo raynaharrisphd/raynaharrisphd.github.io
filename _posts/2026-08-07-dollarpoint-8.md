@@ -23,7 +23,7 @@ spotify: 37i9dQZF1DZ06evO4tZqIM
 
 ### Grounding
 
-- Breatwork: 3 part inhale
+- Breath work: 3 part inhale
 - Loving kindess meditation
 - Happy Baby
 
@@ -40,19 +40,19 @@ spotify: 37i9dQZF1DZ06evO4tZqIM
 ### Spiderman Leg Stregthen and Stretch 
 
 - Lizard pose 
-- Revolved low lunge with spiderman mudra
-- Triangle with spiderman mudra
+- Revolved low lunge with **Spiderman** mudra
+- Triangle with **Spiderman** mudra
 - Warrior II flow
 - Wide leg forward fold
-Side lunge
-Goddess
+- Side lunge with **Spiderman** mudra
+- Goddess
 
 ### Balance and Community 
 
 - Tree pose
 - Partner Tree pose
 
-### Corework and Inversions
+### Core work and Inversions
 
 - Bird-dog
 - Fallen star
