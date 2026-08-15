@@ -5,7 +5,7 @@ date: 2026-08-15
 excerpt: "The theme of this weeks class is practicing non-attachement. Today's class incorporate twisting postures the pull our limbs in different directions as a vizual representation of what it feels like when your head and your heard are in conflict over an attachment."
 categories: yoga
 tags: ['Dollar Point Yoga']
-spotify: 37i9dQZF1DZ06evO4tZqIM
+spotify: 37i9dQZF1E4x4CF3StGzdI
 #image: "/images/yoga/dollarpoint-1.png"
 
 ---
